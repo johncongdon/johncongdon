@@ -1,0 +1,19 @@
+name: Latest PHPUgly activity
+on:
+  schedule:
+    # Runs every hour
+    - cron: '0 * * * *'
+  workflow_dispatch:
+  
+jobs:
+  update-readme-with-stack-overflow:
+    name: Update this repo's README with latest activity from PHPUgly
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "PHPUGLY"
+          commit_message: "Updated readme with the latest phpugly data"
+          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCFG6jsBFF4PvaDbZ1xFHbeQ"
+

@@ -4,3 +4,11 @@ Over 20 years of professional programming, starting in the late 90's using PERL,
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=johncongdon&show_icons=true)  
 
+### Latest php[architect] Videos
+<!-- PHPARCHITECT:START -->
+<!-- PHPARCHITECT:END -->
+
+### Latest PHPUgly Videos
+<!-- PHPUGLY:START -->
+<!-- PHPUGLY:END -->
+
