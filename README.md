@@ -6,6 +6,11 @@ Over 20 years of professional programming, starting in the late 90's using PERL,
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [php[podcast] - Decrypting Cryptography](https://www.youtube.com/watch?v=F3noeNDucT0)
+- [About PHP&#39;s Compromised Git Commit](https://www.youtube.com/watch?v=2mymyAaHjAA)
+- [Editor Bytes, December 2020](https://www.youtube.com/watch?v=w-n7ixYQkXo)
+- [PHP Puzzles 11/23](https://www.youtube.com/watch?v=Ol1x1E7AJcQ)
+- [Editor Bytes, November 2020](https://www.youtube.com/watch?v=SuZfdAex1Ws)
 <!-- PHPARCHITECT:END -->
 
 ### Latest PHPUgly Videos
