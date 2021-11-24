@@ -10,5 +10,10 @@ Over 20 years of professional programming, starting in the late 90's using PERL,
 
 ### Latest PHPUgly Videos
 <!-- PHPUGLY:START -->
+- [263: PHP Will Last](https://www.youtube.com/watch?v=twAben1wTds)
+- [262: PHP8.1](https://www.youtube.com/watch?v=ccarOluET6A)
+- [261: Bots Learning PHP](https://www.youtube.com/watch?v=Ig56Y-AGV64)
+- [260: Copilot](https://www.youtube.com/watch?v=aLqAZEhZEog)
+- [259: Disabled Child Nodes](https://www.youtube.com/watch?v=ZAEMAwNbnO8)
 <!-- PHPUGLY:END -->
 
