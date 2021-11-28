@@ -8,7 +8,7 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
-- [Interview with Vinícius Campitelli](https://www.youtube.com/watch?v=jlMexnJnnpU)
+- [Interview with Vinícius Campitelli](https://www.youtube.com/watch?v=5TAEyZ_Y6mU)
 - [php[podcast] - Decrypting Cryptography](https://www.youtube.com/watch?v=F3noeNDucT0)
 - [About PHP&#39;s Compromised Git Commit](https://www.youtube.com/watch?v=2mymyAaHjAA)
 - [Editor Bytes, December 2020](https://www.youtube.com/watch?v=w-n7ixYQkXo)
