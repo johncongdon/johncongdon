@@ -19,11 +19,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest PHPUgly Videos
 <!-- PHPUGLY:START -->
-- [265: PHPUgly Live Stream](https://www.youtube.com/watch?v=1e9RWlc2YZ8)
 - [264: Insane In the Jetbrain](https://www.youtube.com/watch?v=z9l61Pt7Oz0)
 - [263: PHP Will Last](https://www.youtube.com/watch?v=twAben1wTds)
 - [262: PHP8.1](https://www.youtube.com/watch?v=ccarOluET6A)
 - [261: Bots Learning PHP](https://www.youtube.com/watch?v=Ig56Y-AGV64)
+- [260: Copilot](https://www.youtube.com/watch?v=aLqAZEhZEog)
 <!-- PHPUGLY:END -->
 
 ---
