@@ -19,11 +19,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest PHPUgly Videos
 <!-- PHPUGLY:START -->
-- [269: PHPUgly Live Stream](https://www.youtube.com/watch?v=V2cRlffKCkU)
 - [268: Schrödinger&#39;s flamingo 🦩](https://www.youtube.com/watch?v=ljuNUcx7rNw)
 - [267: 2021 is a Wrap](https://www.youtube.com/watch?v=TMgE3rVm9fA)
 - [266: PHP For Kids](https://www.youtube.com/watch?v=cXS5ZpCeKdA)
 - [265: PHP Cows](https://www.youtube.com/watch?v=1e9RWlc2YZ8)
+- [264: Insane In the Jetbrain](https://www.youtube.com/watch?v=z9l61Pt7Oz0)
 <!-- PHPUGLY:END -->
 
 ---
