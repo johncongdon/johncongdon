@@ -19,11 +19,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest PHPUgly Videos
 <!-- PHPUGLY:START -->
+- [My Quick nVim Demo](https://www.youtube.com/watch?v=4EwMDMqryaY)
+- [PHPStorm Tiling Issue](https://www.youtube.com/watch?v=pR9IPrEPFB0)
+- [Tiling and Stacking on System76 PopOS](https://www.youtube.com/watch?v=tAIIPsKo48A)
 - [270: I&#39;m a better thinker](https://www.youtube.com/watch?v=7wiZtgRcjrU)
 - [269: No Benefits, All the Regret](https://www.youtube.com/watch?v=V2cRlffKCkU)
-- [268: Schrödinger&#39;s flamingo 🦩](https://www.youtube.com/watch?v=ljuNUcx7rNw)
-- [267: 2021 is a Wrap](https://www.youtube.com/watch?v=TMgE3rVm9fA)
-- [266: PHP For Kids](https://www.youtube.com/watch?v=cXS5ZpCeKdA)
 <!-- PHPUGLY:END -->
 
 ---
