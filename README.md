@@ -20,7 +20,7 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 ### Latest PHPUgly Videos
 <!-- PHPUGLY:START -->
 - [My Quick nVim Demo](https://www.youtube.com/watch?v=4EwMDMqryaY)
-- [PHPStorm Tiling Issue](https://www.youtube.com/watch?v=pR9IPrEPFB0)
+- [PHPStorm Tiling Issue &lpar;Fixed&rpar;](https://www.youtube.com/watch?v=pR9IPrEPFB0)
 - [Tiling and Stacking on System76 PopOS](https://www.youtube.com/watch?v=tAIIPsKo48A)
 - [270: I&#39;m a better thinker](https://www.youtube.com/watch?v=7wiZtgRcjrU)
 - [269: No Benefits, All the Regret](https://www.youtube.com/watch?v=V2cRlffKCkU)
