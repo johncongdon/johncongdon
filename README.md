@@ -19,7 +19,7 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest PHPUgly Videos
 <!-- PHPUGLY:START -->
-- [270: PHPUgly Live Stream](https://www.youtube.com/watch?v=uru2n_t_xRU)
+- [271: PHPUgly Dropping Tables](https://www.youtube.com/watch?v=uru2n_t_xRU)
 - [My Quick nVim Demo](https://www.youtube.com/watch?v=4EwMDMqryaY)
 - [PHPStorm Tiling Issue &lpar;Fixed&rpar;](https://www.youtube.com/watch?v=pR9IPrEPFB0)
 - [Tiling and Stacking on System76 PopOS](https://www.youtube.com/watch?v=tAIIPsKo48A)
