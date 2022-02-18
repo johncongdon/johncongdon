@@ -19,11 +19,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest PHPUgly Videos
 <!-- PHPUGLY:START -->
+- [274: PHPUgly Live Stream](https://www.youtube.com/watch?v=sRq8kmRMqw0)
 - [273: John Flying High](https://www.youtube.com/watch?v=bMF5H3NXFDM)
 - [272: Tom&#39;s PHP Reflection](https://www.youtube.com/watch?v=Qz5CF8Hxmlo)
 - [271: PHPUgly Dropping Tables](https://www.youtube.com/watch?v=uru2n_t_xRU)
 - [My Quick nVim Demo](https://www.youtube.com/watch?v=4EwMDMqryaY)
-- [PHPStorm Tiling Issue &lpar;Fixed&rpar;](https://www.youtube.com/watch?v=pR9IPrEPFB0)
 <!-- PHPUGLY:END -->
 
 ---
