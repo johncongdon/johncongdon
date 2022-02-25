@@ -19,11 +19,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest PHPUgly Videos
 <!-- PHPUGLY:START -->
+- [275: Rubber Necking PHP](https://www.youtube.com/watch?v=QwqjV5eXviY)
 - [274: Testing Patience](https://www.youtube.com/watch?v=sRq8kmRMqw0)
 - [273: John Flying High](https://www.youtube.com/watch?v=bMF5H3NXFDM)
 - [272: Tom&#39;s PHP Reflection](https://www.youtube.com/watch?v=Qz5CF8Hxmlo)
 - [271: PHPUgly Dropping Tables](https://www.youtube.com/watch?v=uru2n_t_xRU)
-- [My Quick nVim Demo](https://www.youtube.com/watch?v=4EwMDMqryaY)
 <!-- PHPUGLY:END -->
 
 ---
