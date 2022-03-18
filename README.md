@@ -19,11 +19,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest PHPUgly Videos
 <!-- PHPUGLY:START -->
+- [278: Time flies when talking DST](https://www.youtube.com/watch?v=eUyPpaIVTKQ)
 - [277: PHP, Baseball, Cars, and Grifters](https://www.youtube.com/watch?v=AXmltF0U5X4)
 - [276: Semi-Successful](https://www.youtube.com/watch?v=mENrbPndbYE)
 - [275: Rubber Necking PHP](https://www.youtube.com/watch?v=QwqjV5eXviY)
 - [274: Testing Patience](https://www.youtube.com/watch?v=sRq8kmRMqw0)
-- [273: John Flying High](https://www.youtube.com/watch?v=bMF5H3NXFDM)
 <!-- PHPUGLY:END -->
 
 ---
