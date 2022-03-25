@@ -19,7 +19,7 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest PHPUgly Videos
 <!-- PHPUGLY:START -->
-- [279: PHPUgly Live Stream](https://www.youtube.com/watch?v=Jt_lcBwWxZk)
+- [279: PHP Bad Magic](https://www.youtube.com/watch?v=Jt_lcBwWxZk)
 - [278: Time flies when talking DST](https://www.youtube.com/watch?v=eUyPpaIVTKQ)
 - [277: PHP, Baseball, Cars, and Grifters](https://www.youtube.com/watch?v=AXmltF0U5X4)
 - [276: Semi-Successful](https://www.youtube.com/watch?v=mENrbPndbYE)
