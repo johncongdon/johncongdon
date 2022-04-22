@@ -19,7 +19,7 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest PHPUgly Videos
 <!-- PHPUGLY:START -->
-- [283: PHPUgly Live Stream](https://www.youtube.com/watch?v=heDnsuYpWK4)
+- [283: An Ugly PHP Match](https://www.youtube.com/watch?v=heDnsuYpWK4)
 - [282:Crotch Sign Language](https://www.youtube.com/watch?v=LbhFimH-mi0)
 - [281: Coding On Opening Day](https://www.youtube.com/watch?v=oHtXKUG07PI)
 - [280: VPN to My Heart](https://www.youtube.com/watch?v=dDGQMGZAF0E)
