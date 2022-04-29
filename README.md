@@ -19,11 +19,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest PHPUgly Videos
 <!-- PHPUGLY:START -->
+- [284: To PHP Or Not To PHP](https://www.youtube.com/watch?v=uz2G_HnBO0I)
 - [283: An Ugly PHP Match](https://www.youtube.com/watch?v=heDnsuYpWK4)
 - [282:Crotch Sign Language](https://www.youtube.com/watch?v=LbhFimH-mi0)
 - [281: Coding On Opening Day](https://www.youtube.com/watch?v=oHtXKUG07PI)
 - [280: VPN to My Heart](https://www.youtube.com/watch?v=dDGQMGZAF0E)
-- [279: PHP Bad Magic](https://www.youtube.com/watch?v=Jt_lcBwWxZk)
 <!-- PHPUGLY:END -->
 
 ---
