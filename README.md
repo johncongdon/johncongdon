@@ -19,7 +19,7 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest PHPUgly Videos
 <!-- PHPUGLY:START -->
-- [288: PHPUgly Live Stream](https://www.youtube.com/watch?v=eoqDX4LrFcg)
+- [288: Burnt Pi&#39;s](https://www.youtube.com/watch?v=eoqDX4LrFcg)
 - [287: PHP Doesn&#39;t Scale](https://www.youtube.com/watch?v=nPJcNM3T8cc)
 - [286: Complete System Failure!](https://www.youtube.com/watch?v=kzTCRePP0GU)
 - [285: The Three PHP Amigos](https://www.youtube.com/watch?v=0lIC8QgIfUk)
