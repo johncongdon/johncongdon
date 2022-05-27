@@ -8,11 +8,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [Another Bright Idea](https://www.youtube.com/watch?v=AnsAqlZMPks)
 - [php[podcast] 2022 05 / One Last Slice](https://www.youtube.com/watch?v=OlJTpH4cOl8)
 - [php[podcast] 2022 04 / Testing The Core](https://www.youtube.com/watch?v=rFXjrQiIZvw)
 - [php[podcast] 2022 03 / World Backup Day](https://www.youtube.com/watch?v=70vZmGQj_3M)
 - [php[podcast] 2022 02 / Parallelize Your Code](https://www.youtube.com/watch?v=6-mnbrx43tY)
-- [php[podcast]  2022 - 01 : Domain-Driven Resolutions](https://www.youtube.com/watch?v=cExlqL8dpXc)
 <!-- PHPARCHITECT:END -->
 
 ---
