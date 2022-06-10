@@ -19,11 +19,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest PHPUgly Videos
 <!-- PHPUGLY:START -->
+- [290: PHP Lambos and Lambdas](https://www.youtube.com/watch?v=KkbKMHaHAdM)
 - [289: PHP Multiverse](https://www.youtube.com/watch?v=cyhYPOPdR3E)
 - [288: Burnt Pi&#39;s](https://www.youtube.com/watch?v=eoqDX4LrFcg)
 - [287: PHP Doesn&#39;t Scale](https://www.youtube.com/watch?v=nPJcNM3T8cc)
 - [285: The Three PHP Amigos](https://www.youtube.com/watch?v=0lIC8QgIfUk)
-- [284: To PHP Or Not To PHP](https://www.youtube.com/watch?v=uz2G_HnBO0I)
 <!-- PHPUGLY:END -->
 
 ---
