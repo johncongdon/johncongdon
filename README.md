@@ -19,11 +19,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest PHPUgly Videos
 <!-- PHPUGLY:START -->
-- [295: PHPUgly Live Stream](https://www.youtube.com/watch?v=XuUOEerYvYw)
 - [294: Packing Pachyderms](https://www.youtube.com/watch?v=D97Gf-t_sTQ)
 - [293: PHP  Biscuits](https://www.youtube.com/watch?v=hZpLKetQ5zA)
 - [292: Laravel is a Wrapper for PHP](https://www.youtube.com/watch?v=REz3zkV5Smw)
 - [291: Artificial Stupidity](https://www.youtube.com/watch?v=qKufraXMhE0)
+- [290: PHP Lambos and Lambdas](https://www.youtube.com/watch?v=KkbKMHaHAdM)
 <!-- PHPUGLY:END -->
 
 ---
