@@ -19,11 +19,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest PHPUgly Videos
 <!-- PHPUGLY:START -->
+- [299: PHPUgly Live Stream](https://www.youtube.com/watch?v=lIeTIfVuK9Q)
 - [298: Hire Tom](https://www.youtube.com/watch?v=6uTQS4pU34s)
 - [297: PHP Lovewire](https://www.youtube.com/watch?v=tYhiZvUBgdg)
 - [296: Cheating with PHP](https://www.youtube.com/watch?v=-0OBxtuK988)
 - [295: PHP Live Studio Audience](https://www.youtube.com/watch?v=XuUOEerYvYw)
-- [294: Packing Pachyderms](https://www.youtube.com/watch?v=D97Gf-t_sTQ)
 <!-- PHPUGLY:END -->
 
 ---
