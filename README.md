@@ -19,11 +19,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest PHPUgly Videos
 <!-- PHPUGLY:START -->
+- [301: Moved Permanently](https://www.youtube.com/watch?v=F9Q_89OL4xc)
 - [300: PHP[Tek] Homecoming](https://www.youtube.com/watch?v=AiMroMKSvFI)
 - [299: No Composer For Old Men](https://www.youtube.com/watch?v=lIeTIfVuK9Q)
 - [298: Hire Tom](https://www.youtube.com/watch?v=6uTQS4pU34s)
 - [297: PHP Lovewire](https://www.youtube.com/watch?v=tYhiZvUBgdg)
-- [296: Cheating with PHP](https://www.youtube.com/watch?v=-0OBxtuK988)
 <!-- PHPUGLY:END -->
 
 ---
