@@ -8,11 +8,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [Deploying Our Code With Deployer 7 0](https://www.youtube.com/watch?v=CI9aCSULe48)
 - [What is Code Refactoring](https://www.youtube.com/watch?v=7YyOWaThXEw)
 - [Another Bright Idea](https://www.youtube.com/watch?v=AnsAqlZMPks)
 - [php[podcast] 2022 05 / One Last Slice](https://www.youtube.com/watch?v=OlJTpH4cOl8)
 - [php[podcast] 2022 04 / Testing The Core](https://www.youtube.com/watch?v=rFXjrQiIZvw)
-- [php[podcast] 2022 03 / World Backup Day](https://www.youtube.com/watch?v=70vZmGQj_3M)
 <!-- PHPARCHITECT:END -->
 
 ---
