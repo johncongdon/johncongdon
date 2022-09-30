@@ -19,11 +19,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest PHPUgly Videos
 <!-- PHPUGLY:START -->
+- [305: PHPUgly Live Stream](https://www.youtube.com/watch?v=yv1aCtLvSQI)
 - [304: Sober September Gets Ugly](https://www.youtube.com/watch?v=Pw3g40KinJY)
 - [303: Naughty Strings](https://www.youtube.com/watch?v=CT7dvJU1nXY)
 - [302: Getting Ugly with Foreign Keys](https://www.youtube.com/watch?v=XeSs0ip9m1c)
 - [301: Moved Permanently](https://www.youtube.com/watch?v=F9Q_89OL4xc)
-- [300: PHP[Tek] Homecoming](https://www.youtube.com/watch?v=AiMroMKSvFI)
 <!-- PHPUGLY:END -->
 
 ---
