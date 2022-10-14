@@ -19,11 +19,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest PHPUgly Videos
 <!-- PHPUGLY:START -->
+- [307: PHPUgly Live Stream](https://www.youtube.com/watch?v=IS0mvd3RyLE)
 - [306:PHPUgly // Do Not Turn Off](https://www.youtube.com/watch?v=-hQYoWgpxF4)
 - [305: PHPUgly Gambit](https://www.youtube.com/watch?v=yv1aCtLvSQI)
 - [304: Sober September Gets Ugly](https://www.youtube.com/watch?v=Pw3g40KinJY)
 - [303: Naughty Strings](https://www.youtube.com/watch?v=CT7dvJU1nXY)
-- [302: Getting Ugly with Foreign Keys](https://www.youtube.com/watch?v=XeSs0ip9m1c)
 <!-- PHPUGLY:END -->
 
 ---
