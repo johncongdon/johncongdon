@@ -19,11 +19,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest PHPUgly Videos
 <!-- PHPUGLY:START -->
-- [309: PHPUgly Live Stream](https://www.youtube.com/watch?v=lXbv6roQ-dE)
 - [308: Foreign Horse Constraints](https://www.youtube.com/watch?v=uYrw9kR6y00)
 - [307: Code my homework dad](https://www.youtube.com/watch?v=IS0mvd3RyLE)
 - [306:PHPUgly // Do Not Turn Off](https://www.youtube.com/watch?v=-hQYoWgpxF4)
 - [305: PHPUgly Gambit](https://www.youtube.com/watch?v=yv1aCtLvSQI)
+- [304: Sober September Gets Ugly](https://www.youtube.com/watch?v=Pw3g40KinJY)
 <!-- PHPUGLY:END -->
 
 ---
