@@ -8,11 +8,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [3 Great Alternatives to the  `top` command](https://www.youtube.com/watch?v=zGifHVEni98)
 - [Join us in Chicago for php[tek] 2023](https://www.youtube.com/watch?v=Pw5-TYQZ3WE)
 - [Linked Lists With SplDoublyLinkedList](https://www.youtube.com/watch?v=XhKb4TgvJng)
 - [The PHP DateTime Class](https://www.youtube.com/watch?v=TP1jXmcrWIs)
 - [What&#39;s Changed in PHP 8.2](https://www.youtube.com/watch?v=j9gfU_Vg2ME)
-- [Writing Cleaner More Resilient Code With Value Objects](https://www.youtube.com/watch?v=eaQVh2C9NqE)
 <!-- PHPARCHITECT:END -->
 
 ---
