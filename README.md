@@ -19,11 +19,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest PHPUgly Videos
 <!-- PHPUGLY:START -->
+- [313: PHP 7 Retirement Party](https://www.youtube.com/watch?v=Dv8tJEFyEDY)
 - [311: The Book of PHPUgly](https://www.youtube.com/watch?v=jISQEaYYkjo)
 - [310: PHP On The Range](https://www.youtube.com/watch?v=TgO-lYPrFAo)
 - [309: Punch ourselves in the face](https://www.youtube.com/watch?v=lXbv6roQ-dE)
 - [308: Foreign Horse Constraints](https://www.youtube.com/watch?v=uYrw9kR6y00)
-- [307: Code my homework dad](https://www.youtube.com/watch?v=IS0mvd3RyLE)
 <!-- PHPUGLY:END -->
 
 ---
