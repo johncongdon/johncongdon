@@ -19,11 +19,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest PHPUgly Videos
 <!-- PHPUGLY:START -->
+- [317: PHPUgly Live Stream](https://www.youtube.com/watch?v=C7Kzs0fD9Ho)
 - [316: PHP Below Freezing](https://www.youtube.com/watch?v=zU98eIjWYMA)
 - [315: Whiny PHP Babies](https://www.youtube.com/watch?v=RIvsym46EtU)
 - [314: PHP 8.2 Release Party](https://www.youtube.com/watch?v=VUZPL5yIcQc)
 - [313: PHP 7 Retirement Party](https://www.youtube.com/watch?v=Dv8tJEFyEDY)
-- [311: The Book of PHPUgly](https://www.youtube.com/watch?v=jISQEaYYkjo)
 <!-- PHPUGLY:END -->
 
 ---
