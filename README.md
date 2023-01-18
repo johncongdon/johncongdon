@@ -8,11 +8,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [php[podcast] Episode 2023.1.1](https://www.youtube.com/watch?v=bZBrS0eQvz8)
 - [Queues With PHPs SplQueue](https://www.youtube.com/watch?v=TPKG4DK85p4)
 - [Semantic Versioning](https://www.youtube.com/watch?v=e8HMJKux6GQ)
 - [3 Great Alternatives to the  `top` command](https://www.youtube.com/watch?v=zGifHVEni98)
 - [Join us in Chicago for php[tek] 2023](https://www.youtube.com/watch?v=Pw5-TYQZ3WE)
-- [Linked Lists With SplDoublyLinkedList](https://www.youtube.com/watch?v=XhKb4TgvJng)
 <!-- PHPARCHITECT:END -->
 
 ---
