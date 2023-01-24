@@ -8,11 +8,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [Getting Out of PHP Dependency Hell With Composer](https://www.youtube.com/watch?v=4Cfbje5WHdk)
 - [Come joins us for php[tek] 2023](https://www.youtube.com/watch?v=mzzQsVTBxig)
 - [php[podcast] Episode 23.1.1](https://www.youtube.com/watch?v=bZBrS0eQvz8)
 - [Queues With PHPs SplQueue](https://www.youtube.com/watch?v=TPKG4DK85p4)
 - [Semantic Versioning](https://www.youtube.com/watch?v=e8HMJKux6GQ)
-- [3 Great Alternatives to the  `top` command](https://www.youtube.com/watch?v=zGifHVEni98)
 <!-- PHPARCHITECT:END -->
 
 ---
