@@ -19,11 +19,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest PHPUgly Videos
 <!-- PHPUGLY:START -->
+- [323: PHPUgly Live Stream](https://www.youtube.com/watch?v=JQM5u6BHirc)
 - [322: PHPlummers of the Future](https://www.youtube.com/watch?v=-MbY4AFd-u0)
 - [321: PHPUgly Live Stream](https://www.youtube.com/watch?v=F2sNRIXskpM)
 - [320: PHPUgly Live Stream](https://www.youtube.com/watch?v=6_2n0miZD9o)
 - [319: Server Racks and Cats](https://www.youtube.com/watch?v=hi0DlMJy0oQ)
-- [318: PHP Bug Hunt](https://www.youtube.com/watch?v=v8XyaRrJ6MQ)
 <!-- PHPUGLY:END -->
 
 ---
