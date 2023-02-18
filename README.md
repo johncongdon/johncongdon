@@ -8,10 +8,10 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [086: The Education of Development](https://www.youtube.com/watch?v=dHt9Mm6CtRw)
 - [php[tek] 2023  - May 16th - 18th](https://www.youtube.com/watch?v=BY-eK3Szfus)
 - [23.2.1](https://www.youtube.com/watch?v=nJxZ2xO5y2U)
 - [2023.02.08 - SDPHP:](https://www.youtube.com/watch?v=uHNnFyDZ-q0)
-- [086: The Education of Development](https://www.youtube.com/watch?v=dHt9Mm6CtRw)
 - [Creating a PHP Library With Packagist](https://www.youtube.com/watch?v=eVHP4iSCqh8)
 <!-- PHPARCHITECT:END -->
 
