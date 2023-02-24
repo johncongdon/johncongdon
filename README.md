@@ -19,7 +19,7 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest PHPUgly Videos
 <!-- PHPUGLY:START -->
-- [324: PHPUgly Live Stream](https://www.youtube.com/watch?v=jA8vl4fmd94)
+- [324: PHPUgly Live Stream](https://www.youtube.com/watch?v=1W9kEwh-nMQ)
 - [323: Bad Robot](https://www.youtube.com/watch?v=JQM5u6BHirc)
 - [322: PHPlummers of the Future](https://www.youtube.com/watch?v=-MbY4AFd-u0)
 - [321: PHPUgly Live Stream](https://www.youtube.com/watch?v=F2sNRIXskpM)
