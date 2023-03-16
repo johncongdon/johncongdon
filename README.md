@@ -8,11 +8,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
-- [SDPHP: Event Sourcing 101](https://www.youtube.com/watch?v=gWm0eDry12o)
 - [Serializing Data In PHP](https://www.youtube.com/watch?v=mLKnTmwc7lY)
 - [Everything You Need to Know About Pair Programming](https://www.youtube.com/watch?v=86i6Sy2Nlm8)
 - [086: The Education of Development](https://www.youtube.com/watch?v=dHt9Mm6CtRw)
 - [php[tek] 2023  - May 16th - 18th](https://www.youtube.com/watch?v=BY-eK3Szfus)
+- [23.2.1](https://www.youtube.com/watch?v=nJxZ2xO5y2U)
 <!-- PHPARCHITECT:END -->
 
 ---
