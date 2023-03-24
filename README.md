@@ -8,11 +8,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [php[podcast] 23.3.1](https://www.youtube.com/watch?v=zbxiDuqYLOs)
 - [Automated Testing Using PHPUnit](https://www.youtube.com/watch?v=zzMyOrPF4So)
 - [SDPHP: Event Sourcing 101](https://www.youtube.com/watch?v=gWm0eDry12o)
 - [Serializing Data In PHP](https://www.youtube.com/watch?v=mLKnTmwc7lY)
 - [Everything You Need to Know About Pair Programming](https://www.youtube.com/watch?v=86i6Sy2Nlm8)
-- [086: The Education of Development](https://www.youtube.com/watch?v=dHt9Mm6CtRw)
 <!-- PHPARCHITECT:END -->
 
 ---
