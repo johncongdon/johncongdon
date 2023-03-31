@@ -19,11 +19,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest PHPUgly Videos
 <!-- PHPUGLY:START -->
+- [PHPUgly 329](https://www.youtube.com/watch?v=DJW0xCEwBF4)
 - [328: ChatGPTUgly](https://www.youtube.com/watch?v=_Z_sfhtjgtc)
 - [327: Ugly at Scale](https://www.youtube.com/watch?v=Vh_QBDxEwuU)
 - [326: Sky Writing](https://www.youtube.com/watch?v=daiXQWGkmUI)
 - [325: Air Cutz](https://www.youtube.com/watch?v=oP0ZAmx-iPk)
-- [324: This Is PHPine](https://www.youtube.com/watch?v=1W9kEwh-nMQ)
 <!-- PHPUGLY:END -->
 
 ---
