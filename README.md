@@ -8,11 +8,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
-- [php[podcast] 23.4.1](https://www.youtube.com/watch?v=a0eQPy4ZEig)
 - [php[podcast] 23.4.1](https://www.youtube.com/watch?v=KKF8i0yJoO8)
 - [Determining Code Coverage With PHPUnit](https://www.youtube.com/watch?v=PFywmvzecno)
 - [php[podcast] 23.3.1](https://www.youtube.com/watch?v=zbxiDuqYLOs)
 - [Automated Testing Using PHPUnit](https://www.youtube.com/watch?v=_C-AG_54x8U)
+- [SDPHP: Event Sourcing 101](https://www.youtube.com/watch?v=gWm0eDry12o)
 <!-- PHPARCHITECT:END -->
 
 ---
