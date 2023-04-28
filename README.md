@@ -19,11 +19,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest PHPUgly Videos
 <!-- PHPUGLY:START -->
+- [PHPUgly Live Stream Episode #333](https://www.youtube.com/watch?v=RfvwFsVpc4s)
 - [332: Mann Handling PHP](https://www.youtube.com/watch?v=UL0cs4cIJno)
 - [331: Spicy PHP](https://www.youtube.com/watch?v=oX-LD2pvAnc)
 - [330: Taking the world by PHPStorm](https://www.youtube.com/watch?v=bGM0JZO4RdE)
 - [329: PHP Benchwarmers](https://www.youtube.com/watch?v=DJW0xCEwBF4)
-- [328: ChatGPTUgly](https://www.youtube.com/watch?v=_Z_sfhtjgtc)
 <!-- PHPUGLY:END -->
 
 ---
