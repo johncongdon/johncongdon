@@ -19,11 +19,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest PHPUgly Videos
 <!-- PHPUGLY:START -->
+- [335: PHPUgly live stream](https://www.youtube.com/watch?v=hElZCHgRX3s)
 - [334: Show Us You Drupals](https://www.youtube.com/watch?v=y55aqTnRKE4)
 - [333: There&#39;s Something About PHP](https://www.youtube.com/watch?v=RfvwFsVpc4s)
 - [332: Mann Handling PHP](https://www.youtube.com/watch?v=UL0cs4cIJno)
 - [331: Spicy PHP](https://www.youtube.com/watch?v=oX-LD2pvAnc)
-- [330: Taking the world by PHPStorm](https://www.youtube.com/watch?v=bGM0JZO4RdE)
 <!-- PHPUGLY:END -->
 
 ---
