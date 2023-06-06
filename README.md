@@ -8,11 +8,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [Code Coverage Validation With Codecov](https://www.youtube.com/watch?v=BIRcT_91dts)
 - [Automating Our Tests With GitHub Actions](https://www.youtube.com/watch?v=LVqaBKvEZds)
 - [Database Normalization For Developers](https://www.youtube.com/watch?v=cJNu-CsUJso)
 - [php[podcast] 23.4.1](https://www.youtube.com/watch?v=a0eQPy4ZEig)
 - [php[podcast] 23.4.1](https://www.youtube.com/watch?v=KKF8i0yJoO8)
-- [Determining Code Coverage With PHPUnit](https://www.youtube.com/watch?v=PFywmvzecno)
 <!-- PHPARCHITECT:END -->
 
 ---
