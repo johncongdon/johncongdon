@@ -19,11 +19,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest PHPUgly Videos
 <!-- PHPUGLY:START -->
+- [340: PHPUgly Live Stream](https://www.youtube.com/watch?v=ZledYXL4bYc)
 - [339: Two Old Guys Wine for a While](https://www.youtube.com/watch?v=r-SInNyXjFc)
 - [338: PHP Just In Time](https://www.youtube.com/watch?v=xCDy62mzNS4)
 - [337:  New [PHP]amily for John](https://www.youtube.com/watch?v=AUIGsl7n5mc)
 - [336: Big Data, Little Legs](https://www.youtube.com/watch?v=81S1kbTXDtc)
-- [335: Eric Corrupts PHP](https://www.youtube.com/watch?v=hElZCHgRX3s)
 <!-- PHPUGLY:END -->
 
 ---
