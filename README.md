@@ -19,11 +19,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest PHPUgly Videos
 <!-- PHPUGLY:START -->
+- [342: PHPUgly Livestream](https://www.youtube.com/watch?v=90KDMqBHjEk)
 - [341: Embarrassing Ourselves for PHProfit](https://www.youtube.com/watch?v=AId9swUxD4c)
 - [340: UmpireGPT](https://www.youtube.com/watch?v=ZledYXL4bYc)
 - [339: Two Old Guys Wine for a While](https://www.youtube.com/watch?v=r-SInNyXjFc)
 - [338: PHP Just In Time](https://www.youtube.com/watch?v=xCDy62mzNS4)
-- [337:  New [PHP]amily for John](https://www.youtube.com/watch?v=AUIGsl7n5mc)
 <!-- PHPUGLY:END -->
 
 ---
