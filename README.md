@@ -19,7 +19,7 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest PHPUgly Videos
 <!-- PHPUGLY:START -->
-- [343: PHPUgly Live Stream](https://www.youtube.com/watch?v=AHbXo0bMBB0)
+- [343: Mom Said I Can&#39;t](https://www.youtube.com/watch?v=AHbXo0bMBB0)
 - [342: PHPUgly Considered Harmful](https://www.youtube.com/watch?v=90KDMqBHjEk)
 - [341: Embarrassing Ourselves for PHProfit](https://www.youtube.com/watch?v=AId9swUxD4c)
 - [340: UmpireGPT](https://www.youtube.com/watch?v=ZledYXL4bYc)
