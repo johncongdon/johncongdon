@@ -19,11 +19,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest PHPUgly Videos
 <!-- PHPUGLY:START -->
+- [php[podcast] Livestream 23.6.1](https://www.youtube.com/watch?v=Mn7Z-Pw1r0E)
 - [343: Mom Said I Can&#39;t](https://www.youtube.com/watch?v=2fPQe2nmdmM)
 - [342: PHPUgly Considered Harmful](https://www.youtube.com/watch?v=90KDMqBHjEk)
 - [341: Embarrassing Ourselves for PHProfit](https://www.youtube.com/watch?v=AId9swUxD4c)
 - [340: UmpireGPT](https://www.youtube.com/watch?v=ZledYXL4bYc)
-- [339: Two Old Guys Wine for a While](https://www.youtube.com/watch?v=r-SInNyXjFc)
 <!-- PHPUGLY:END -->
 
 ---
