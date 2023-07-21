@@ -19,7 +19,7 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest PHPUgly Videos
 <!-- PHPUGLY:START -->
-- [php[podcast] Livestream 23.6.1](https://www.youtube.com/watch?v=Mn7Z-Pw1r0E)
+- [344: Kiss, my past self](https://www.youtube.com/watch?v=Mn7Z-Pw1r0E)
 - [343: Mom Said I Can&#39;t](https://www.youtube.com/watch?v=2fPQe2nmdmM)
 - [342: PHPUgly Considered Harmful](https://www.youtube.com/watch?v=90KDMqBHjEk)
 - [341: Embarrassing Ourselves for PHProfit](https://www.youtube.com/watch?v=AId9swUxD4c)
