@@ -19,7 +19,7 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest PHPUgly Videos
 <!-- PHPUGLY:START -->
-- [346: PHPUgly Live Stream](https://www.youtube.com/watch?v=gQYyge1Wjgg)
+- [346: BeeHP](https://www.youtube.com/watch?v=gQYyge1Wjgg)
 - [345: The New Glorbo PHP Operator in 8.3](https://www.youtube.com/watch?v=CJuckMU35CY)
 - [344: Kiss, my past self](https://www.youtube.com/watch?v=Mn7Z-Pw1r0E)
 - [343: Mom Said I Can&#39;t](https://www.youtube.com/watch?v=2fPQe2nmdmM)
