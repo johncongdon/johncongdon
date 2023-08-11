@@ -19,7 +19,7 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest PHPUgly Videos
 <!-- PHPUGLY:START -->
-- [347: PHPUgly Live stream](https://www.youtube.com/watch?v=RI5AOSFRHJY)
+- [347: PePHPetual Honeymoon](https://www.youtube.com/watch?v=RI5AOSFRHJY)
 - [346: BeeHP](https://www.youtube.com/watch?v=gQYyge1Wjgg)
 - [345: The New Glorbo PHP Operator in 8.3](https://www.youtube.com/watch?v=CJuckMU35CY)
 - [344: Kiss, my past self](https://www.youtube.com/watch?v=Mn7Z-Pw1r0E)
