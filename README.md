@@ -8,11 +8,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [What&#39;s New and Exciting in PHP 8 3](https://www.youtube.com/watch?v=fi6P0SQDA6A)
 - [Scheduling Tasks With CRON](https://www.youtube.com/watch?v=QKT848R3OOE)
 - [Fixing Bugs With PHPStan](https://www.youtube.com/watch?v=zfAuis9LjIA)
 - [Flowcharts For Developers With Mermaid js](https://www.youtube.com/watch?v=MoQPH48eMFY)
 - [php[podcast] Livestream 23.6.1](https://www.youtube.com/watch?v=pcAAWtw1LG0)
-- [Automated Refactoring With Rector](https://www.youtube.com/watch?v=7bmZOdPca1Q)
 <!-- PHPARCHITECT:END -->
 
 ---
