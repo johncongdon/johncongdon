@@ -19,11 +19,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest PHPUgly Videos
 <!-- PHPUGLY:START -->
+- [350: PHPUgly Live stream](https://www.youtube.com/watch?v=0MmGT_Hpg9w)
 - [349: PHP Blame Game](https://www.youtube.com/watch?v=slEs8ypVkH0)
 - [348: To Code Test, or Not to Code Test](https://www.youtube.com/watch?v=G9M2lUIQpMc)
 - [347: PePHPetual Honeymoon](https://www.youtube.com/watch?v=RI5AOSFRHJY)
 - [346: BeeHP](https://www.youtube.com/watch?v=gQYyge1Wjgg)
-- [345: The New Glorbo PHP Operator in 8.3](https://www.youtube.com/watch?v=CJuckMU35CY)
 <!-- PHPUGLY:END -->
 
 ---
