@@ -19,7 +19,7 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest PHPUgly Videos
 <!-- PHPUGLY:START -->
-- [352: PHPUgly Live-stream](https://www.youtube.com/watch?v=EAd5Be-v84I)
+- [352: Buttery Buns](https://www.youtube.com/watch?v=EAd5Be-v84I)
 - [351: PHPitching a Tent](https://www.youtube.com/watch?v=0btxasSBWyc)
 - [350: Challenging Coding Challenges](https://www.youtube.com/watch?v=0MmGT_Hpg9w)
 - [349: PHP Blame Game](https://www.youtube.com/watch?v=slEs8ypVkH0)
