@@ -8,11 +8,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [Keynotes from php[tek] 2023](https://www.youtube.com/watch?v=crw31MC55Y8)
 - [Creating a Remote Laravel Development Environment With PhpStorm](https://www.youtube.com/watch?v=UUEGqhZ6zLg)
 - [php[podcast] Livestream 23.9.1](https://www.youtube.com/watch?v=l8Cg8qQgx5Q)
 - [Continuous Integration and Continuous Delivery](https://www.youtube.com/watch?v=yHiyj0LozEQ)
 - [What&#39;s New and Exciting in PHP 8 3](https://www.youtube.com/watch?v=RPUoaHERTRQ)
-- [php[podcast] Live stream 2023.8.1](https://www.youtube.com/watch?v=MLwwMp94JwU)
 <!-- PHPARCHITECT:END -->
 
 ---
