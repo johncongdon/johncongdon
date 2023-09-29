@@ -19,7 +19,7 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest PHPUgly Videos
 <!-- PHPUGLY:START -->
-- [PHPUgly 354 Livestream](https://www.youtube.com/watch?v=Y6dNsPWzJuM)
+- [354: £ Cake](https://www.youtube.com/watch?v=Y6dNsPWzJuM)
 - [PhpStorm and Vim](https://www.youtube.com/watch?v=cyUB79qOjuQ)
 - [253: Tron[Tek]](https://www.youtube.com/watch?v=2F4T8bEjtpA)
 - [352: Buttery Buns](https://www.youtube.com/watch?v=EAd5Be-v84I)
