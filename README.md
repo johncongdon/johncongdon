@@ -8,11 +8,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [355: PHPUgly Livestream](https://www.youtube.com/watch?v=6j9fEtLKyTI)
 - [Learning Laravel While Refactoring Proof of Concept Running Club Code](https://www.youtube.com/watch?v=QKA1mnpmNLo)
 - [Live Coding: Laravel and Filament](https://www.youtube.com/watch?v=3gKjnFTE3Fs)
 - [Lets Get Our OSS Ready For Hacktoberfest 2023](https://www.youtube.com/watch?v=3dIBvz9iwOw)
 - [Keynotes from php[tek] 2023](https://www.youtube.com/watch?v=crw31MC55Y8)
-- [Creating a Remote Laravel Development Environment With PhpStorm](https://www.youtube.com/watch?v=UUEGqhZ6zLg)
 <!-- PHPARCHITECT:END -->
 
 ---
