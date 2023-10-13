@@ -19,7 +19,7 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest PHPUgly Videos
 <!-- PHPUGLY:START -->
-- [PHPUgly 356: LiveStream](https://www.youtube.com/watch?v=hMsQYz8CuyA)
+- [356: Laravel Spice](https://www.youtube.com/watch?v=hMsQYz8CuyA)
 - [355: Exposing Ourselves](https://www.youtube.com/watch?v=3JfWCidzi9c)
 - [354: £ Cake](https://www.youtube.com/watch?v=Y6dNsPWzJuM)
 - [PhpStorm and Vim](https://www.youtube.com/watch?v=cyUB79qOjuQ)
