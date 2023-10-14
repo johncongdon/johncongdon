@@ -8,8 +8,8 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
-- [PHPUgly 356: LiveStream](https://www.youtube.com/watch?v=bBIXM_98ozk)
 - [PHPRoundtable 088: Developer Relations](https://www.youtube.com/watch?v=zve_CVB75Bk)
+- [PHPUgly 356: LiveStream](https://www.youtube.com/watch?v=bBIXM_98ozk)
 - [355: PHPUgly Livestream](https://www.youtube.com/watch?v=6j9fEtLKyTI)
 - [Learning Laravel While Refactoring Proof of Concept Running Club Code](https://www.youtube.com/watch?v=QKA1mnpmNLo)
 - [Live Coding: Laravel and Filament](https://www.youtube.com/watch?v=3gKjnFTE3Fs)
