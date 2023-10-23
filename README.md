@@ -8,11 +8,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [Getting started with htmx](https://www.youtube.com/watch?v=6lYwYEh9KtI)
 - [PHPUgly Livestream Episode 357](https://www.youtube.com/watch?v=p4R5sMdrEm4)
 - [Getting Started With the Pest Testing Framework](https://www.youtube.com/watch?v=komPjrJHMZY)
 - [Learning Laravel - Storing Data Concept Running Club Code](https://www.youtube.com/watch?v=nYswgCbMqwk)
 - [PHPRoundtable 088: Developer Relations](https://www.youtube.com/watch?v=zve_CVB75Bk)
-- [PHPUgly 356: LiveStream](https://www.youtube.com/watch?v=bBIXM_98ozk)
 <!-- PHPARCHITECT:END -->
 
 ---
