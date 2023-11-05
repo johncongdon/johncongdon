@@ -8,11 +8,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [Community Corner: Interview With Eric Van Johnson](https://www.youtube.com/watch?v=TypUveaYYHU)
 - [358: PHPUgly Weekly Livestream Oct 26](https://www.youtube.com/watch?v=nkPJijXI8gw)
 - [Stacks With SplStack](https://www.youtube.com/watch?v=2wmmio5BdrY)
 - [Getting started with htmx](https://www.youtube.com/watch?v=6lYwYEh9KtI)
 - [PHPUgly Livestream Episode 357](https://www.youtube.com/watch?v=p4R5sMdrEm4)
-- [Getting Started With the Pest Testing Framework](https://www.youtube.com/watch?v=komPjrJHMZY)
 <!-- PHPARCHITECT:END -->
 
 ---
