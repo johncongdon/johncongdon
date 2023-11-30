@@ -8,11 +8,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [PHPUgly Episode 361 Livestream](https://www.youtube.com/watch?v=PbHGqAmi5MY)
 - [php[podcast] 23.11.1 // recorded](https://www.youtube.com/watch?v=O-6cQyGgAqM)
 - [PHPUgly Livestream Episode 360](https://www.youtube.com/watch?v=tIRzMdt62Lw)
 - [PHPUgly Livestream Episode 359](https://www.youtube.com/watch?v=924efv3XrnE)
 - [Community Corner: Interview With Eric Van Johnson](https://www.youtube.com/watch?v=TypUveaYYHU)
-- [358: PHPUgly Weekly Livestream Oct 26](https://www.youtube.com/watch?v=nkPJijXI8gw)
 <!-- PHPARCHITECT:END -->
 
 ---
