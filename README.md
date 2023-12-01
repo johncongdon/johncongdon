@@ -19,7 +19,7 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest PHPUgly Videos
 <!-- PHPUGLY:START -->
-- [PHPUgly Episode 361 Livestream](https://www.youtube.com/watch?v=50pubP39sOQ)
+- [361: The Shutdown](https://www.youtube.com/watch?v=50pubP39sOQ)
 - [360: WeWork with PHP](https://www.youtube.com/watch?v=4FBMM0hgm-s)
 - [359: Fullstack Failures](https://www.youtube.com/watch?v=UxiUpccFPis)
 - [358: A Better PHP API Platform](https://www.youtube.com/watch?v=yaDG2mvz3MY)
