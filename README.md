@@ -8,7 +8,7 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
-- [363: PHPUgly Live Stream](https://www.youtube.com/watch?v=hitS87a_CDM)
+- [363: Day Walkers](https://www.youtube.com/watch?v=hitS87a_CDM)
 - [Episode 362: PHPUgly Livestream](https://www.youtube.com/watch?v=R_aXPncZcek)
 - [PHPUgly Episode 361 Livestream](https://www.youtube.com/watch?v=PbHGqAmi5MY)
 - [php[podcast] 23.11.1 // recorded](https://www.youtube.com/watch?v=O-6cQyGgAqM)
