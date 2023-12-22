@@ -19,7 +19,7 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest PHPUgly Videos
 <!-- PHPUGLY:START -->
-- [PHPUgly Stream Episode 364](https://www.youtube.com/watch?v=5edh6I4dsys)
+- [364: HaPHPy Holiday](https://www.youtube.com/watch?v=5edh6I4dsys)
 - [363: Day Walkers](https://www.youtube.com/watch?v=TL5vHekiWD0)
 - [362: Glue Guns and Ladders](https://www.youtube.com/watch?v=_JhiIi3y8F0)
 - [361: The Shutdown](https://www.youtube.com/watch?v=50pubP39sOQ)
