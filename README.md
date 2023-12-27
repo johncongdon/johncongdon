@@ -8,11 +8,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
-- [Learning Laravel - Storing Data Concept Running Club Code](https://www.youtube.com/watch?v=IEOULT15bn0)
 - [S01E02 interview with PHP 8.3 release manager Eric Mann](https://www.youtube.com/watch?v=WEy3VxvUkDk)
 - [364: HaPHPy Holiday](https://www.youtube.com/watch?v=lps2EWaDjSQ)
 - [363: Day Walkers](https://www.youtube.com/watch?v=hitS87a_CDM)
 - [Episode 362: PHPUgly Livestream](https://www.youtube.com/watch?v=R_aXPncZcek)
+- [PHPUgly Episode 361 Livestream](https://www.youtube.com/watch?v=PbHGqAmi5MY)
 <!-- PHPARCHITECT:END -->
 
 ---
