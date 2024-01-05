@@ -19,7 +19,7 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest PHPUgly Videos
 <!-- PHPUGLY:START -->
-- [PHPUgly Livestream Episode 366](https://www.youtube.com/watch?v=1p9Cf96rgS4)
+- [366: Pinky Out Development](https://www.youtube.com/watch?v=1p9Cf96rgS4)
 - [365: HaPHPy New Year](https://www.youtube.com/watch?v=bkcQv4XwLUM)
 - [364: HaPHPy Holiday](https://www.youtube.com/watch?v=5edh6I4dsys)
 - [363: Day Walkers](https://www.youtube.com/watch?v=TL5vHekiWD0)
