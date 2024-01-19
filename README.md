@@ -8,7 +8,7 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
-- [PHPUgly Livestream Episode 368](https://www.youtube.com/watch?v=rKmAaLtQyxQ)
+- [368: Doing lines of PHP](https://www.youtube.com/watch?v=rKmAaLtQyxQ)
 - [367: Premature Engineering](https://www.youtube.com/watch?v=7J98uxF6PzI)
 - [366:Pinky Out Development](https://www.youtube.com/watch?v=J_vNNYa7Wjw)
 - [Stacks With SplStack](https://www.youtube.com/watch?v=_2Xhd7nPBRU)
