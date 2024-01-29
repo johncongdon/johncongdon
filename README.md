@@ -8,11 +8,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [What Are Finite State Machines](https://www.youtube.com/watch?v=1kbgP5-3Zag)
 - [369:The PHPrice Is Right &lpar;PHPUgly&rpar;](https://www.youtube.com/watch?v=RP9DIS4dHQc)
 - [368: Doing lines of PHP &lpar;PHPUgly&rpar;](https://www.youtube.com/watch?v=rKmAaLtQyxQ)
 - [367: Premature Engineering &lpar;PHPUgly&rpar;](https://www.youtube.com/watch?v=7J98uxF6PzI)
 - [366:Pinky Out Development &lpar;PHPUgly&rpar;](https://www.youtube.com/watch?v=J_vNNYa7Wjw)
-- [Stacks With SplStack](https://www.youtube.com/watch?v=_2Xhd7nPBRU)
 <!-- PHPARCHITECT:END -->
 
 ---
