@@ -19,11 +19,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest PHPUgly Videos
 <!-- PHPUGLY:START -->
+- [PHPUgly Livestream Episode 370](https://www.youtube.com/watch?v=mPqXNmc4ELw)
 - [369:The PHPrice Is Right](https://www.youtube.com/watch?v=occ0u5KrfvA)
 - [368: Doing lines of PHP](https://www.youtube.com/watch?v=p0NJ1yfR19k)
 - [367: Premature Engineering](https://www.youtube.com/watch?v=bYGKns_xwT0)
 - [366: Pinky Out Development](https://www.youtube.com/watch?v=1p9Cf96rgS4)
-- [365: HaPHPy New Year](https://www.youtube.com/watch?v=bkcQv4XwLUM)
 <!-- PHPUGLY:END -->
 
 ---
