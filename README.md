@@ -8,11 +8,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [PHPUgly Livestream Episode 371](https://www.youtube.com/watch?v=OiX8JFV4yJ8)
 - [Getting Started With Docker](https://www.youtube.com/watch?v=6yTX4x8c9a0)
 - [370: Speaking Gifts](https://www.youtube.com/watch?v=bdjC2T6VBmY)
 - [Creating Finite State Machines in PHP 8 3](https://www.youtube.com/watch?v=yH5_1rD1GaU)
 - [What Are Finite State Machines](https://www.youtube.com/watch?v=1kbgP5-3Zag)
-- [369:The PHPrice Is Right &lpar;PHPUgly&rpar;](https://www.youtube.com/watch?v=RP9DIS4dHQc)
 <!-- PHPARCHITECT:END -->
 
 ---
