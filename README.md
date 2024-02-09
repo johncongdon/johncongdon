@@ -8,7 +8,7 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
-- [PHPUgly Livestream Episode 371](https://www.youtube.com/watch?v=OiX8JFV4yJ8)
+- [371:Herding Lando](https://www.youtube.com/watch?v=OiX8JFV4yJ8)
 - [Getting Started With Docker](https://www.youtube.com/watch?v=6yTX4x8c9a0)
 - [370: Speaking Gifts](https://www.youtube.com/watch?v=bdjC2T6VBmY)
 - [Creating Finite State Machines in PHP 8 3](https://www.youtube.com/watch?v=yH5_1rD1GaU)
