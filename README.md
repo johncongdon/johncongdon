@@ -8,7 +8,7 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
-- [PHPUgly Livestream Episode 373](https://www.youtube.com/watch?v=TNH9H2dIXzI)
+- [373: Lunch and Learn](https://www.youtube.com/watch?v=TNH9H2dIXzI)
 - [372: Raiders of the Arc](https://www.youtube.com/watch?v=7MkR5tB37HM)
 - [2023 12 19 Getting Up And Running With Laravel Sail](https://www.youtube.com/watch?v=yInYfEZy5RA)
 - [371:Herding Lando](https://www.youtube.com/watch?v=OiX8JFV4yJ8)
