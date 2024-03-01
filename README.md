@@ -19,7 +19,7 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest PHPUgly Videos
 <!-- PHPUGLY:START -->
-- [PHPUgly Livestream Episode 374](https://www.youtube.com/watch?v=BFHIqynbhCs)
+- [374: Sevi Land the Ticket](https://www.youtube.com/watch?v=BFHIqynbhCs)
 - [373: Lunch and Learn](https://www.youtube.com/watch?v=GblaBaKJkEs)
 - [372: Raiders of the Arc](https://www.youtube.com/watch?v=80WqGvFG5fk)
 - [371:Herding Lando](https://www.youtube.com/watch?v=V-8Vh-rMI6g)
