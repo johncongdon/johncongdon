@@ -8,11 +8,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [April Wensel - What is Empathy #php #phptek #podcast #coding #technology](https://www.youtube.com/watch?v=pd6vSyh_Jyg)
 - [375:Snowflake Developers](https://www.youtube.com/watch?v=x_2hHtX8LEQ)
 - [April Wensel - Starting Compassionate Coding #php #phptek #podcast #coding #technology](https://www.youtube.com/watch?v=aSskLvg3_J0)
 - [Compassionate Coding&#39;s April Wensel](https://www.youtube.com/watch?v=xeizkN_pkyY)
 - [374: Sevi Land the Ticket](https://www.youtube.com/watch?v=PiR1HtFu3I0)
-- [373: Lunch and Learn](https://www.youtube.com/watch?v=TNH9H2dIXzI)
 <!-- PHPARCHITECT:END -->
 
 ---
