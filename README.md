@@ -8,11 +8,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [ngrok&#39;s Scott McAlister](https://www.youtube.com/watch?v=9WDd4t0hv98)
 - [April Wensel - Compassion and Change #phpc #phptek #podcast #coding #technology](https://www.youtube.com/watch?v=ol5cCz9wKQ0)
 - [April Wensel - What is Empathy #php #phptek #podcast #coding #technology](https://www.youtube.com/watch?v=pd6vSyh_Jyg)
 - [375:Snowflake Developers](https://www.youtube.com/watch?v=x_2hHtX8LEQ)
 - [April Wensel - Starting Compassionate Coding #php #phptek #podcast #coding #technology](https://www.youtube.com/watch?v=aSskLvg3_J0)
-- [Compassionate Coding&#39;s April Wensel](https://www.youtube.com/watch?v=xeizkN_pkyY)
 <!-- PHPARCHITECT:END -->
 
 ---
