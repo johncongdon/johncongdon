@@ -9,7 +9,7 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
 - [Scott McAllister - What Can #ngrok Do for Everyday #developers? #phpc #phptek #coding #podcast](https://www.youtube.com/watch?v=PfsrtoxPIFo)
-- [PHPUgly Livestream Episode 376](https://www.youtube.com/watch?v=XSy_tqoTd78)
+- [376:Cold Fries and a Warm Shake](https://www.youtube.com/watch?v=XSy_tqoTd78)
 - [ngrok&#39;s Scott McAllister](https://www.youtube.com/watch?v=9WDd4t0hv98)
 - [April Wensel - Compassion and Change #phpc #phptek #podcast #coding #technology](https://www.youtube.com/watch?v=ol5cCz9wKQ0)
 - [April Wensel - What is Empathy #php #phptek #podcast #coding #technology](https://www.youtube.com/watch?v=pd6vSyh_Jyg)
