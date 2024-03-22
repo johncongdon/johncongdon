@@ -8,8 +8,8 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
-- [Larry Garfield - Make Invalid States Unrepresentable #php #phpc #podcast #phptek #phptek2024](https://www.youtube.com/watch?v=gQsNKZxc_eM)
 - [377: Solar Powered PHP](https://www.youtube.com/watch?v=oaeO6rKTNSk)
+- [Larry Garfield - Make Invalid States Unrepresentable #php #phpc #podcast #phptek #phptek2024](https://www.youtube.com/watch?v=gQsNKZxc_eM)
 - [Larry Garfield](https://www.youtube.com/watch?v=6yrFjOxYKVQ)
 - [Scott McAllister - What Is Your #phptek2024 Talk About? #phpc #phptek #coding #technology #techtok](https://www.youtube.com/watch?v=sV_5cGJritA)
 - [Scott McAllister - What Does a #developer Advocate Do? #phpc #phptek #coding #podcast #technology](https://www.youtube.com/watch?v=gioY5pBj2HU)
