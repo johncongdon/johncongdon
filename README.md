@@ -19,7 +19,7 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest PHPUgly Videos
 <!-- PHPUGLY:START -->
-- [PHPUgly Livestream Episode 377](https://www.youtube.com/watch?v=ajtW3hwygRM)
+- [377: Solar Powered PHP](https://www.youtube.com/watch?v=ajtW3hwygRM)
 - [376:Cold Fries and a Warm Shake](https://www.youtube.com/watch?v=jZqV2BmfcIE)
 - [375:Snowflake Developers](https://www.youtube.com/watch?v=T6eeP8TzKAs)
 - [374: Sevi Land the Ticket](https://www.youtube.com/watch?v=BFHIqynbhCs)
