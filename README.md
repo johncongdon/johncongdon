@@ -8,11 +8,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [Tim Lytle](https://www.youtube.com/watch?v=lmXVJL15n0Q)
 - [Larry Garfield - What is AttributeUtils?#php #phpc #podcast #phptek #phptek2024 check out](https://www.youtube.com/watch?v=Ut6wnwPddYo)
 - [Larry Garfield - Never Use Arrays#php #phpc #podcast #phptek #phptek2024 check out the interview](https://www.youtube.com/watch?v=wRmsG1yoahA)
 - [377: Solar Powered PHP](https://www.youtube.com/watch?v=oaeO6rKTNSk)
 - [Larry Garfield - Make Invalid States Unrepresentable #php #phpc #podcast #phptek #phptek2024](https://www.youtube.com/watch?v=gQsNKZxc_eM)
-- [Larry Garfield](https://www.youtube.com/watch?v=6yrFjOxYKVQ)
 <!-- PHPARCHITECT:END -->
 
 ---
