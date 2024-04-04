@@ -8,11 +8,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [PHPUgly Livestream Episode 379](https://www.youtube.com/watch?v=kPUDgMOy084)
 - [Vonage&#39;s Jim Seconde](https://www.youtube.com/watch?v=7xYOo-QQy3A)
 - [378: PHP At-Bat](https://www.youtube.com/watch?v=mAVt-7JYdUg)
 - [Tim Lytle](https://www.youtube.com/watch?v=lmXVJL15n0Q)
 - [Larry Garfield - What is AttributeUtils?#php #phpc #podcast #phptek #phptek2024 check out](https://www.youtube.com/watch?v=Ut6wnwPddYo)
-- [Larry Garfield - Never Use Arrays#php #phpc #podcast #phptek #phptek2024 check out the interview](https://www.youtube.com/watch?v=wRmsG1yoahA)
 <!-- PHPARCHITECT:END -->
 
 ---
