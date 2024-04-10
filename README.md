@@ -8,11 +8,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [PHPUgly Livestream Episode 380](https://www.youtube.com/watch?v=GNHZcIqe7M8)
 - [Private Packagist&#39;s Nils Adermann](https://www.youtube.com/watch?v=YZXRsTKUnFw)
 - [Tim Lytle - Helping out at #phptek #phpc #developers #techtok #conference #podcastclips](https://www.youtube.com/watch?v=BdH-AgkvJBg)
 - [Tim Lytle - Join the Discord for #phptek #phpc #developers #techtok #conference #podcastclips](https://www.youtube.com/watch?v=Td_a5HI3N2E)
 - [379: Compromising Pull Requests](https://www.youtube.com/watch?v=kPUDgMOy084)
-- [Vonage&#39;s Jim Seconde](https://www.youtube.com/watch?v=7xYOo-QQy3A)
 <!-- PHPARCHITECT:END -->
 
 ---
