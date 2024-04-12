@@ -19,7 +19,7 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest PHPUgly Videos
 <!-- PHPUGLY:START -->
-- [PHPUgly Livestream Episode 380](https://www.youtube.com/watch?v=y5vbiNcI7HM)
+- [380:PHPBeauties and the Beast](https://www.youtube.com/watch?v=y5vbiNcI7HM)
 - [379: Compromising Pull Requests](https://www.youtube.com/watch?v=KfofH-y_28U)
 - [378: PHP At-Bat](https://www.youtube.com/watch?v=BYI3eD5VhtE)
 - [377: Solar Powered PHP](https://www.youtube.com/watch?v=ajtW3hwygRM)
