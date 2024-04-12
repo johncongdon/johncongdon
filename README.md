@@ -8,9 +8,9 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [380:PHPBeauties and the Beast](https://www.youtube.com/watch?v=GNHZcIqe7M8)
 - [Tim Lytle - The Problem With #Docker talks #phptek #phpc #developers #techtok #conference](https://www.youtube.com/watch?v=UJ61RYsVZuA)
 - [Nils Adermann - What is #composer ? #phptek #phpc #developers #techtok #conference #softwareengineer](https://www.youtube.com/watch?v=nLtgDWR9l0c)
-- [380:PHPBeauties and the Beast](https://www.youtube.com/watch?v=GNHZcIqe7M8)
 - [Private Packagist&#39;s Nils Adermann](https://www.youtube.com/watch?v=YZXRsTKUnFw)
 - [Tim Lytle - Helping out at #phptek #phpc #developers #techtok #conference #podcastclips](https://www.youtube.com/watch?v=BdH-AgkvJBg)
 <!-- PHPARCHITECT:END -->
