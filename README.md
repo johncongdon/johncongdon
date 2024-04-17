@@ -8,11 +8,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [Mark Niebergall](https://www.youtube.com/watch?v=za-ik-qM7Dg)
 - [Nils Adermann - #phpc Supply Chain Attacks? #phptek  #developers #techtok #softwareengineer](https://www.youtube.com/watch?v=AA5ZAlBnBjA)
 - [James Seconde - The Curse Of Knowledge #communitycorner #vonage #phptek  #techtok #softwareengineer](https://www.youtube.com/watch?v=ptShCiHm_nE)
 - [Nils Adermann - What is Private #Packagist ? #phptek #phpc #developers #techtok #softwareengineer](https://www.youtube.com/watch?v=iiriqpcTsLU)
 - [James Seconde- His Background As A Performer #phptek  #developers #techtok #softwareengineer #vonage](https://www.youtube.com/watch?v=Lfn7wkETa4M)
-- [380:PHPBeauties and the Beast](https://www.youtube.com/watch?v=GNHZcIqe7M8)
 <!-- PHPARCHITECT:END -->
 
 ---
