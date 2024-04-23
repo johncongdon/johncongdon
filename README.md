@@ -8,11 +8,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [Keith “Danger” Casey](https://www.youtube.com/watch?v=4jOttvOzYVQ)
 - [Mark Niebergall - How to Prepare for a Three Hour Session #PHP #communitycorner #phptek  #developers](https://www.youtube.com/watch?v=c3MVDCGA1eg)
 - [Mark Niebergall - His Tutorial Talk #PHP #communitycorner #vonage #phptek  #developers #techtok](https://www.youtube.com/watch?v=l4dkMoK2Vkc)
 - [James Seconde - His Talk About SDKs #communitycorner #vonage #phptek  #developers #techtok #phpc](https://www.youtube.com/watch?v=hVB_FYTclKQ)
 - [Mark Niebergall - His Talk On Scaling #PHP #communitycorner #vonage #phptek  #developers #techtok](https://www.youtube.com/watch?v=yfYn2DGOt6I)
-- [Mark Niebergall](https://www.youtube.com/watch?v=za-ik-qM7Dg)
 <!-- PHPARCHITECT:END -->
 
 ---
