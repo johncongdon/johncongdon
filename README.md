@@ -20,10 +20,10 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 ### Latest PHPUgly Videos
 <!-- PHPUGLY:START -->
 - [PHPTek 2024 Live Stream](https://www.youtube.com/watch?v=MyNz3iwcJ8E)
+- [PHPTek 2024 Live Stream](https://www.youtube.com/watch?v=0ns5yvaQ0xY)
 - [380:PHPBeauties and the Beast](https://www.youtube.com/watch?v=y5vbiNcI7HM)
 - [379: Compromising Pull Requests](https://www.youtube.com/watch?v=KfofH-y_28U)
 - [378: PHP At-Bat](https://www.youtube.com/watch?v=BYI3eD5VhtE)
-- [377: Solar Powered PHP](https://www.youtube.com/watch?v=ajtW3hwygRM)
 <!-- PHPUGLY:END -->
 
 ---
