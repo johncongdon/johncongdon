@@ -21,11 +21,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest PHPUgly Videos
 <!-- PHPUGLY:START -->
+- [PHPUgly Livestream Episode 382](https://www.youtube.com/watch?v=debUIdpWj7k)
 - [381: Tek and Friends](https://www.youtube.com/watch?v=zfm0W8Cu9eI)
 - [PHPTek 2024 Live Stream](https://www.youtube.com/watch?v=0ns5yvaQ0xY)
 - [PHPTek 2024 Live Stream](https://www.youtube.com/watch?v=MyNz3iwcJ8E)
 - [380:PHPBeauties and the Beast](https://www.youtube.com/watch?v=y5vbiNcI7HM)
-- [379: Compromising Pull Requests](https://www.youtube.com/watch?v=KfofH-y_28U)
 <!-- PHPUGLY:END -->
 
 ---
