@@ -10,9 +10,9 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [382: Hearing != Listening](https://www.youtube.com/watch?v=o5nBR88Dpdc)
 - [PHP&#39;s Magic Methods](https://www.youtube.com/watch?v=KELAopT-Jh4)
 - [089: PHPRoundtable](https://www.youtube.com/watch?v=oiR0_xBCUwY)
-- [382: Hearing != Listening](https://www.youtube.com/watch?v=o5nBR88Dpdc)
 - [381: Tek and Friends](https://www.youtube.com/watch?v=jJ5VJ8S37qc)
 - [PHPTek 2024 Live Stream](https://www.youtube.com/watch?v=LwIlqPIbREE)
 <!-- PHPARCHITECT:END -->
