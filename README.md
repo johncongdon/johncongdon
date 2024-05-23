@@ -10,11 +10,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [PHPUgly Livestream Episode 384](https://www.youtube.com/watch?v=U4DqXLIFcHg)
 - [Creating Sequence Diagrams with mermaid.js](https://www.youtube.com/watch?v=VgYFT6qZLpQ)
 - [php[podcast] 24.05.21](https://www.youtube.com/watch?v=pMSOlSi9T7Q)
 - [383: Theoretically Absolutely](https://www.youtube.com/watch?v=BokZzyj1OiQ)
 - [MergePHP with Logan Lindquist](https://www.youtube.com/watch?v=yftyf0aYtb8)
-- [089: PHPRoundtable](https://www.youtube.com/watch?v=oiR0_xBCUwY)
 <!-- PHPARCHITECT:END -->
 
 ---
