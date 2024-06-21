@@ -21,7 +21,7 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest PHPUgly Videos
 <!-- PHPUGLY:START -->
-- [PHPUgly Livestream Episode 387](https://www.youtube.com/watch?v=pHeS25u9N1U)
+- [387: Good PHP VIBES](https://www.youtube.com/watch?v=pHeS25u9N1U)
 - [386: PHPever Dream](https://www.youtube.com/watch?v=37rasNCP4g4)
 - [385: Early Worm](https://www.youtube.com/watch?v=HlMH0aotdgs)
 - [384: Multi Level PHP](https://www.youtube.com/watch?v=d8FQ8ePt4ZE)
