@@ -10,11 +10,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [Make for Web Developers](https://www.youtube.com/watch?v=TqxJOYsdigs)
 - [387: Good PHP VIBES](https://www.youtube.com/watch?v=oyIAIxOf9yY)
 - [090: PHPRoundtable](https://www.youtube.com/watch?v=xFHMTBY_zYE)
 - [386: PHPever Dream](https://www.youtube.com/watch?v=izp_iu-1muo)
 - [385: Early Worm](https://www.youtube.com/watch?v=K5MZei4uY_Y)
-- [384: Multi Level PHP](https://www.youtube.com/watch?v=U4DqXLIFcHg)
 <!-- PHPARCHITECT:END -->
 
 ---
