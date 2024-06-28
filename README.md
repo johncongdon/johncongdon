@@ -10,7 +10,7 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
-- [PHPUgly Livestream Episode 388](https://www.youtube.com/watch?v=gq-pt_X0NLw)
+- [388: PHPowered by the Sun](https://www.youtube.com/watch?v=gq-pt_X0NLw)
 - [Make for Web Developers](https://www.youtube.com/watch?v=TqxJOYsdigs)
 - [387: Good PHP VIBES](https://www.youtube.com/watch?v=oyIAIxOf9yY)
 - [090: PHPRoundtable](https://www.youtube.com/watch?v=xFHMTBY_zYE)
