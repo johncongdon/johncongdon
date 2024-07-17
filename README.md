@@ -10,11 +10,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [Running PHPCBF Automatically with GitHub Actions](https://www.youtube.com/watch?v=A3ItGh02S1g)
 - [091: PHPRoundtable July 2024](https://www.youtube.com/watch?v=TJQQdBvzqiI)
 - [389: Yo PHP Raps!](https://www.youtube.com/watch?v=HqSRHRqWKP0)
 - [388: PHPowered by the Sun](https://www.youtube.com/watch?v=gq-pt_X0NLw)
 - [Make for Web Developers](https://www.youtube.com/watch?v=TqxJOYsdigs)
-- [387: Good PHP VIBES](https://www.youtube.com/watch?v=oyIAIxOf9yY)
 <!-- PHPARCHITECT:END -->
 
 ---
