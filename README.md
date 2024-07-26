@@ -10,7 +10,7 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
-- [PHPUgly Livestream Episode 391](https://www.youtube.com/watch?v=Yw_gNV8ezQ0)
+- [391: PHPUgly Certified](https://www.youtube.com/watch?v=Yw_gNV8ezQ0)
 - [390: Bad APIs](https://www.youtube.com/watch?v=O4CHo8Cq0oI)
 - [Running PHPCBF Automatically with GitHub Actions](https://www.youtube.com/watch?v=A3ItGh02S1g)
 - [091: PHPRoundtable July 2024](https://www.youtube.com/watch?v=TJQQdBvzqiI)
