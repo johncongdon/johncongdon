@@ -21,11 +21,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest PHPUgly Videos
 <!-- PHPUGLY:START -->
+- [PHPUgly Livestream Episode 392](https://www.youtube.com/watch?v=xb2acyChcJY)
 - [391: PHPUgly Certified](https://www.youtube.com/watch?v=Faipct7oeVY)
 - [390: Bad APIs](https://www.youtube.com/watch?v=pO9H8x_LWis)
 - [389: Yo PHP Raps!](https://www.youtube.com/watch?v=RYDC9F65YOM)
 - [388: PHPowered by the Sun](https://www.youtube.com/watch?v=1uO3AEDbXCo)
-- [388: PHPowered by the Sun](https://www.youtube.com/watch?v=240F0azsFAc)
 <!-- PHPUGLY:END -->
 
 ---
