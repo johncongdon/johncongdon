@@ -10,7 +10,7 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
-- [PHPUgly Livestream Episode 392](https://www.youtube.com/watch?v=JSUQJMJVaKo)
+- [392: PHPlight Delay](https://www.youtube.com/watch?v=JSUQJMJVaKo)
 - [092: PHPRoundtable August 2024 - Event Sourcing](https://www.youtube.com/watch?v=dYccUg7CsGw)
 - [Interview With Ash Allen](https://www.youtube.com/watch?v=KLxjQDtfHPE)
 - [391: PHPUgly Certified](https://www.youtube.com/watch?v=Yw_gNV8ezQ0)
