@@ -10,11 +10,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [What&#39;s New and Exciting in PHP 8 4](https://www.youtube.com/watch?v=a_tfUTBka9o)
 - [393: Query All The Things](https://www.youtube.com/watch?v=GaSFqs4vl5w)
 - [092: PHPRoundtable August 2024 - Event Sourcing](https://www.youtube.com/watch?v=dYccUg7CsGw)
 - [392: PHPlight Delay](https://www.youtube.com/watch?v=JSUQJMJVaKo)
 - [Interview With Ash Allen](https://www.youtube.com/watch?v=KLxjQDtfHPE)
-- [391: PHPUgly Certified](https://www.youtube.com/watch?v=Yw_gNV8ezQ0)
 <!-- PHPARCHITECT:END -->
 
 ---
