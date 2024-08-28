@@ -10,11 +10,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [Interview With JD Lien](https://www.youtube.com/watch?v=dkE9uUji4iY)
 - [394: ELIE, Explain It Like I&#39;m Eric](https://www.youtube.com/watch?v=bJVjA31VRHo)
 - [What&#39;s New and Exciting in PHP 8 4](https://www.youtube.com/watch?v=a_tfUTBka9o)
 - [393: Query All The Things](https://www.youtube.com/watch?v=GaSFqs4vl5w)
 - [092: PHPRoundtable August 2024 - Event Sourcing](https://www.youtube.com/watch?v=dYccUg7CsGw)
-- [392: PHPlight Delay](https://www.youtube.com/watch?v=JSUQJMJVaKo)
 <!-- PHPARCHITECT:END -->
 
 ---
