@@ -21,7 +21,7 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest PHPUgly Videos
 <!-- PHPUGLY:START -->
-- [PHPUgly Livestream Episode 395](https://www.youtube.com/watch?v=MCOTz7r1d30)
+- [395:Cloudy with a chance of Laravel](https://www.youtube.com/watch?v=MCOTz7r1d30)
 - [394: ELIE, Explain It Like I&#39;m Eric](https://www.youtube.com/watch?v=N3IiLsorCKc)
 - [393: Query All The Things](https://www.youtube.com/watch?v=8oisNX_21M0)
 - [392: PHPlight Delay](https://www.youtube.com/watch?v=xb2acyChcJY)
