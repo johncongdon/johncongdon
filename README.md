@@ -10,11 +10,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [Working on Sparkle](https://www.youtube.com/watch?v=MY-bkN9EM4g)
 - [Working on Sparkle](https://www.youtube.com/watch?v=LSZtlD955JI)
 - [PHPUgly Livestream Episode 396](https://www.youtube.com/watch?v=A2GAspB0LZE)
 - [395:Cloudy with a chance of Laravel](https://www.youtube.com/watch?v=zNFnPTC6roU)
 - [Interview With JD Lien](https://www.youtube.com/watch?v=dkE9uUji4iY)
-- [394: ELIE, Explain It Like I&#39;m Eric](https://www.youtube.com/watch?v=bJVjA31VRHo)
 <!-- PHPARCHITECT:END -->
 
 ---
