@@ -12,7 +12,7 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 <!-- PHPARCHITECT:START -->
 - [Interview With Cesar Mendez](https://www.youtube.com/watch?v=roBF-R8b6Sw)
 - [092: PHPRoundtable September 2024 - CLIs and TUIs with PHP for fun and profit](https://www.youtube.com/watch?v=BZHayxEKKZk)
-- [PHPUgly Livestream Episode 396](https://www.youtube.com/watch?v=kiRFTtDwz-0)
+- [PHPUgly Livestream Episode 397](https://www.youtube.com/watch?v=kiRFTtDwz-0)
 - [Working on Sparkle](https://www.youtube.com/watch?v=nqB-EQPBSQ0)
 - [396: PHP Heads and Shoulders](https://www.youtube.com/watch?v=A2GAspB0LZE)
 <!-- PHPARCHITECT:END -->
