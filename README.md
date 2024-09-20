@@ -10,7 +10,7 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
-- [PHPUgly Livestream Episode 398](https://www.youtube.com/watch?v=PtLP_5JG3HM)
+- [398: Cats, Coffee, and PHP](https://www.youtube.com/watch?v=PtLP_5JG3HM)
 - [093: PHPRoundtable September 2024 - CLIs and TUIs with PHP for fun and profit](https://www.youtube.com/watch?v=BZHayxEKKZk)
 - [397: Little Legs](https://www.youtube.com/watch?v=kiRFTtDwz-0)
 - [Interview With Cesar Mendez](https://www.youtube.com/watch?v=roBF-R8b6Sw)
