@@ -10,8 +10,8 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
-- [Property Hooks Are Coming To PHP 8.4!](https://www.youtube.com/watch?v=6_muUspWtw4)
 - [399: WarPress](https://www.youtube.com/watch?v=twCeB5zmBFg)
+- [Property Hooks Are Coming To PHP 8.4!](https://www.youtube.com/watch?v=6_muUspWtw4)
 - [398: Cats, Coffee, and PHP](https://www.youtube.com/watch?v=PtLP_5JG3HM)
 - [093: PHPRoundtable September 2024 - CLIs and TUIs with PHP for fun and profit](https://www.youtube.com/watch?v=BZHayxEKKZk)
 - [397: Little Legs](https://www.youtube.com/watch?v=kiRFTtDwz-0)
