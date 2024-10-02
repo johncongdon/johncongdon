@@ -21,11 +21,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest PHPUgly Videos
 <!-- PHPUGLY:START -->
+- [PHPUgly Livestream 🎉🎉 Episode 400 🎉🎉](https://www.youtube.com/watch?v=-fAqeFLz6NU)
 - [399: WarPress](https://www.youtube.com/watch?v=7kCWUUSh5vE)
 - [398: Cats, Coffee, and PHP](https://www.youtube.com/watch?v=XpsYfjL87bQ)
 - [397: Little Legs](https://www.youtube.com/watch?v=HhCmb0Zi2RI)
 - [396: PHP Heads and Shoulders](https://www.youtube.com/watch?v=xwPRC4ZjARw)
-- [395:Cloudy with a chance of Laravel](https://www.youtube.com/watch?v=MCOTz7r1d30)
 <!-- PHPUGLY:END -->
 
 ---
