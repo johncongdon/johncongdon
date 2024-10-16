@@ -10,11 +10,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [Battlesnake With Brad Van Vugt](https://www.youtube.com/watch?v=bWH4u4iDXFM)
 - [400: Tom&#39;s Second Rodeo](https://www.youtube.com/watch?v=zP5bZw2Kw8E)
 - [Cascadia PHP With Alena Holligan](https://www.youtube.com/watch?v=x8e2MMHtqj0)
 - [399: WarPress](https://www.youtube.com/watch?v=twCeB5zmBFg)
 - [Property Hooks Are Coming To PHP 8.4!](https://www.youtube.com/watch?v=6_muUspWtw4)
-- [398: Cats, Coffee, and PHP](https://www.youtube.com/watch?v=PtLP_5JG3HM)
 <!-- PHPARCHITECT:END -->
 
 ---
