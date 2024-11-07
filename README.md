@@ -10,11 +10,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [php[podcast] Livestream](https://www.youtube.com/watch?v=qI_5kVpXWNY)
 - [So Long and Thanks For All The Fish](https://www.youtube.com/watch?v=I67_GcI2A2E)
 - [How To: Soft Delete Data in Laravel 11](https://www.youtube.com/watch?v=mNBPJG3x-OE)
 - [Battlesnake With Brad Van Vugt](https://www.youtube.com/watch?v=bWH4u4iDXFM)
 - [400: Tom&#39;s Second Rodeo](https://www.youtube.com/watch?v=zP5bZw2Kw8E)
-- [Cascadia PHP With Alena Holligan](https://www.youtube.com/watch?v=x8e2MMHtqj0)
 <!-- PHPARCHITECT:END -->
 
 ---
