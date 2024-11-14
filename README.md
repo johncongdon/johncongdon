@@ -10,11 +10,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [Brad Van Vugt - The Problem Space](https://www.youtube.com/watch?v=1BHTFN2wxdI)
 - [php[podcast] Livestream](https://www.youtube.com/watch?v=w91ZM_SCYhw)
 - [Brad Van Vugt - Why Use Battlesnake?](https://www.youtube.com/watch?v=WU1yAlV7csM)
 - [Brad Van Vugt - What is Battlesnake?](https://www.youtube.com/watch?v=uJ2oDBSVzF0)
 - [php[podcast] Livestream](https://www.youtube.com/watch?v=qI_5kVpXWNY)
-- [So Long and Thanks For All The Fish](https://www.youtube.com/watch?v=I67_GcI2A2E)
 <!-- PHPARCHITECT:END -->
 
 ---
