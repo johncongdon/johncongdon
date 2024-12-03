@@ -10,11 +10,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [Concurrency With Florian Engelhardt](https://www.youtube.com/watch?v=w92sUYUIVW8)
 - [Using The Log Facade to Debug Production Bugs in Laravel 11](https://www.youtube.com/watch?v=Ia8wXn6VTtY)
 - [php[podcast] Livestream 2024.11.21](https://www.youtube.com/watch?v=AhJ6wrWTBqs)
 - [php[podcast] Livestream](https://www.youtube.com/watch?v=w91ZM_SCYhw)
 - [Brad Van Vugt - The Problem Space](https://www.youtube.com/watch?v=1BHTFN2wxdI)
-- [Brad Van Vugt - Why Use Battlesnake?](https://www.youtube.com/watch?v=WU1yAlV7csM)
 <!-- PHPARCHITECT:END -->
 
 ---
