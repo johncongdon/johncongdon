@@ -10,7 +10,7 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
-- [php[podcast] Livestream 2024.12.5](https://www.youtube.com/watch?v=UzBv-pR0lww)
+- [php[podcast] 2024.12.5: Tek&lpar;nically&rpar; Speaking](https://www.youtube.com/watch?v=UzBv-pR0lww)
 - [Concurrency With Florian Engelhardt](https://www.youtube.com/watch?v=w92sUYUIVW8)
 - [Using The Log Facade to Debug Production Bugs in Laravel 11](https://www.youtube.com/watch?v=Ia8wXn6VTtY)
 - [php[podcast] Livestream 2024.11.21](https://www.youtube.com/watch?v=AhJ6wrWTBqs)
