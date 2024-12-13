@@ -10,11 +10,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [Florian Engelhardt - Queues #communityCornerPodcast #podcast #php](https://www.youtube.com/watch?v=M1dful2eeAo)
 - [php[podcast] Livestream 2024.12.12](https://www.youtube.com/watch?v=oKM4Z-SNzdg)
 - [Serverless Architectures With Nelson Isioma](https://www.youtube.com/watch?v=CsEHa1Sz5Cg)
 - [Florian Engelhardt - What is Concurrency? #communityCornerPodcast #podcast #php](https://www.youtube.com/watch?v=nkq76jnAGew)
 - [php[podcast] 2024.12.5: Tek&lpar;nically&rpar; Speaking](https://www.youtube.com/watch?v=UzBv-pR0lww)
-- [Concurrency With Florian Engelhardt](https://www.youtube.com/watch?v=w92sUYUIVW8)
 <!-- PHPARCHITECT:END -->
 
 ---
