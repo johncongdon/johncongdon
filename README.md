@@ -10,11 +10,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [Nelson Isioma - What is Serverless? #communityCornerPodcast #podcast #php](https://www.youtube.com/watch?v=oJy5I0OXdVM)
 - [Florian Engelhardt - Why Learning Concurrency in PHP #communityCornerPodcast #podcast #php](https://www.youtube.com/watch?v=ItfYyx8Va8Y)
 - [Nelson Isioma - What Are Cold Starts? #communityCornerPodcast #podcast #php](https://www.youtube.com/watch?v=EtQCcrg-56g)
 - [php[podcast] Livestream 2024.12.12](https://www.youtube.com/watch?v=oKM4Z-SNzdg)
 - [Florian Engelhardt - Queues #communityCornerPodcast #podcast #php](https://www.youtube.com/watch?v=M1dful2eeAo)
-- [Serverless Architectures With Nelson Isioma](https://www.youtube.com/watch?v=CsEHa1Sz5Cg)
 <!-- PHPARCHITECT:END -->
 
 ---
