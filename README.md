@@ -21,18 +21,7 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=johncongdon&show_icons=true&hide_border=true&hide=stars&count_private=true)  
 
-<a class="rwgps-widget" href="https://ridewithgps.com/users/7730430" data-rwgps-width="300" data-rwgps-user-id="7730430" data-rwgps-include="month">Activities for John Congdon</a>
-<script >
-(function(d,s) { 
-  if(!d.getElementById('rwgps-sdk')) {
-    var el = d.getElementsByTagName(s)[0],
-        js = d.createElement(s);
-    js.id = 'rwgps-sdk';
-    js.src = "//ridewithgps.com/javascripts/sdk.js?1735770916481";
-    el.parentNode.insertBefore(js, el);
-  }
-})(document, 'script');
-</script>
+
 
 [ws_phparch]: https://www.phparch.com
 [ws_phpugly]: https://www.phpugly.com
