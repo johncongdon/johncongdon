@@ -10,11 +10,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [php[podcast] Livestream 2024.12.19](https://www.youtube.com/watch?v=mwqEI4M7D3g)
 - [php[podcast] 2024.12.19](https://www.youtube.com/watch?v=VX4SX95ysGI)
 - [PHPxWorld with Chris Morrell](https://www.youtube.com/watch?v=g3fBinPV9js)
 - [Nelson Isioma - Why Serverless? #communityCornerPodcast #podcast #php](https://www.youtube.com/watch?v=tlR2-Ig27Co)
 - [Nelson Isioma - What is Serverless? #communityCornerPodcast #podcast #php](https://www.youtube.com/watch?v=oJy5I0OXdVM)
-- [Florian Engelhardt - Why Learning Concurrency in PHP #communityCornerPodcast #podcast #php](https://www.youtube.com/watch?v=ItfYyx8Va8Y)
 <!-- PHPARCHITECT:END -->
 
 ---
