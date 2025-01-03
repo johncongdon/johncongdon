@@ -10,7 +10,7 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
-- [php[podcast] Livestream 2025.01.02](https://www.youtube.com/watch?v=mwqEI4M7D3g)
+- [2025.01.02: PHP Tweaking](https://www.youtube.com/watch?v=mwqEI4M7D3g)
 - [php[podcast] 2024.12.19](https://www.youtube.com/watch?v=VX4SX95ysGI)
 - [PHPxWorld with Chris Morrell](https://www.youtube.com/watch?v=g3fBinPV9js)
 - [Nelson Isioma - Why Serverless? #communityCornerPodcast #podcast #php](https://www.youtube.com/watch?v=tlR2-Ig27Co)
