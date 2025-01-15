@@ -10,11 +10,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [Neon With Mahmoud Abdelwahab](https://www.youtube.com/watch?v=aPh-t9CZRtk)
 - [php[podcast] Livestream 2025.01.09](https://www.youtube.com/watch?v=2Yy_XYGKPvc)
 - [Using PHP 8.4&#39;s Lazy Objects](https://www.youtube.com/watch?v=48_IhA8dKBs)
 - [2025.01.02: PHP Tweaking](https://www.youtube.com/watch?v=mwqEI4M7D3g)
 - [php[podcast] 2024.12.19](https://www.youtube.com/watch?v=VX4SX95ysGI)
-- [PHPxWorld with Chris Morrell](https://www.youtube.com/watch?v=g3fBinPV9js)
 <!-- PHPARCHITECT:END -->
 
 ---
