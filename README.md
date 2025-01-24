@@ -10,11 +10,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [Faster Database Performance With Denormalization](https://www.youtube.com/watch?v=CRc2RY32_P4)
 - [PHP Podcast 2025.01.23: Discussing PHP&#39;s Hidden Treasures](https://www.youtube.com/watch?v=VCnTQ6oR-Ww)
 - [php[podcast] 2025.01.16](https://www.youtube.com/watch?v=V1NZXbOMFGI)
 - [Neon With Mahmoud Abdelwahab](https://www.youtube.com/watch?v=aPh-t9CZRtk)
 - [php[podcast] Livestream 2025.01.09](https://www.youtube.com/watch?v=2Yy_XYGKPvc)
-- [Using PHP 8.4&#39;s Lazy Objects](https://www.youtube.com/watch?v=48_IhA8dKBs)
 <!-- PHPARCHITECT:END -->
 
 ---
