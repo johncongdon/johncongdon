@@ -10,11 +10,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [John Congdon - Caliber of Speakers](https://www.youtube.com/watch?v=o03YHqfEOKw)
 - [php[tek] 2025 with John Congdon](https://www.youtube.com/watch?v=tu7g5Cnndao)
 - [The PHP Podcast 2025.01.09: Knock It Out of the PHPark](https://www.youtube.com/watch?v=ANAIkixW0Do)
 - [Faster Database Performance With Denormalization &lpar;Fixed Audio&rpar;](https://www.youtube.com/watch?v=CRc2RY32_P4)
 - [PHP Podcast 2025.01.23: Discussing PHP&#39;s Hidden Treasures](https://www.youtube.com/watch?v=VCnTQ6oR-Ww)
-- [php[podcast] 2025.01.16](https://www.youtube.com/watch?v=V1NZXbOMFGI)
 <!-- PHPARCHITECT:END -->
 
 ---
