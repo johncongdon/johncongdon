@@ -10,7 +10,7 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
-- [The PHP Podcast Livestream 2025.02.13](https://www.youtube.com/watch?v=ichR6y8LwsM)
+- [The PHP Podcast 2025.02.13](https://www.youtube.com/watch?v=ichR6y8LwsM)
 - [John Congdon - Writing for php[architect]](https://www.youtube.com/watch?v=M57D_eMXb8A)
 - [John Congdon - Why Go to php[tek]?](https://www.youtube.com/watch?v=oE6bgpkT0Kk)
 - [John Congdon - Caliber of Speakers](https://www.youtube.com/watch?v=o03YHqfEOKw)
