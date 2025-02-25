@@ -10,11 +10,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [Prism With TJ Miller](https://www.youtube.com/watch?v=S4eIGKnaH2w)
 - [Markdown for Developers](https://www.youtube.com/watch?v=r9AVBLSNjoA)
 - [The PHP Podcast 2025.02.13](https://www.youtube.com/watch?v=ichR6y8LwsM)
 - [John Congdon - Writing for php[architect]](https://www.youtube.com/watch?v=M57D_eMXb8A)
 - [John Congdon - Why Go to php[tek]?](https://www.youtube.com/watch?v=oE6bgpkT0Kk)
-- [John Congdon - Caliber of Speakers](https://www.youtube.com/watch?v=o03YHqfEOKw)
 <!-- PHPARCHITECT:END -->
 
 ---
