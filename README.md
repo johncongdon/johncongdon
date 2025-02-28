@@ -10,7 +10,7 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
-- [The PHP Podcast Livestream 2025.02.27](https://www.youtube.com/watch?v=LkBbLS3NllU)
+- [The PHP Podcast 2025.02.27](https://www.youtube.com/watch?v=LkBbLS3NllU)
 - [Prism With TJ Miller](https://www.youtube.com/watch?v=S4eIGKnaH2w)
 - [Markdown for Developers](https://www.youtube.com/watch?v=r9AVBLSNjoA)
 - [The PHP Podcast 2025.02.13](https://www.youtube.com/watch?v=ichR6y8LwsM)
