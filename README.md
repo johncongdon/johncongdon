@@ -10,11 +10,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [What is Rsync?](https://www.youtube.com/watch?v=URjNka7Dokg)
 - [Tessa Kriesel -  Opportunities at Conferences](https://www.youtube.com/watch?v=jFUJP_sP5uk)
 - [Automated Backups 101 with rsync](https://www.youtube.com/watch?v=DXu35p-aN0I)
 - [Tessa Kriesel - Pacman Conversations](https://www.youtube.com/watch?v=BkwOVVGnZ8I)
 - [Tessa Kriesel - What&#39;s in the keynote](https://www.youtube.com/watch?v=YQkufbhdaFI)
-- [The PHP Podcast: 2025.03.13 Unadvisable Unserializing](https://www.youtube.com/watch?v=pME7TDgCs7k)
 <!-- PHPARCHITECT:END -->
 
 ---
