@@ -10,11 +10,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [#rsync  for data uploads](https://www.youtube.com/watch?v=WJenaYQF3oE)
 - [Performance Psychology with Dr. Molly McQueary](https://www.youtube.com/watch?v=R3AUi8IuOgQ)
 - [#Rsync  - intro](https://www.youtube.com/watch?v=cCag5u0uWEA)
 - [What is Rsync?](https://www.youtube.com/watch?v=URjNka7Dokg)
 - [Tessa Kriesel -  Opportunities at Conferences](https://www.youtube.com/watch?v=jFUJP_sP5uk)
-- [Automated Backups 101 with rsync](https://www.youtube.com/watch?v=DXu35p-aN0I)
 <!-- PHPARCHITECT:END -->
 
 ---
