@@ -10,11 +10,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [Dr. Molly McQueary discusses signs of performance anxiety](https://www.youtube.com/watch?v=bpvcTgpqvkk)
 - [Dr. Molly McQueary discusses how she works with teams](https://www.youtube.com/watch?v=ikrM4DKB1wA)
 - [The PHP Podcast Livestream 2025.03.27](https://www.youtube.com/watch?v=oLG2mUDAnPE)
 - [#rsync  for data uploads](https://www.youtube.com/watch?v=WJenaYQF3oE)
 - [Performance Psychology with Dr. Molly McQueary](https://www.youtube.com/watch?v=R3AUi8IuOgQ)
-- [#Rsync  - intro](https://www.youtube.com/watch?v=cCag5u0uWEA)
 <!-- PHPARCHITECT:END -->
 
 ---
