@@ -10,11 +10,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [The PHP Podcast Livestream 2025.04.03](https://www.youtube.com/watch?v=0Y3A95utsYo)
 - [Dr. Molly McQueary discusses how you should go up to talk to new people at technical conferences](https://www.youtube.com/watch?v=aDNiNHp1a4I)
 - [Dr. Molly McQueary discusses signs of performance anxiety](https://www.youtube.com/watch?v=bpvcTgpqvkk)
 - [Dr. Molly McQueary discusses how she works with teams](https://www.youtube.com/watch?v=ikrM4DKB1wA)
 - [The PHP Podcast Livestream 2025.03.27](https://www.youtube.com/watch?v=oLG2mUDAnPE)
-- [#rsync  for data uploads](https://www.youtube.com/watch?v=WJenaYQF3oE)
 <!-- PHPARCHITECT:END -->
 
 ---
