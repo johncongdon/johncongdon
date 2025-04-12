@@ -10,11 +10,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [Clear communication in team settings #podcast #php #phptek](https://www.youtube.com/watch?v=Pdcugt8bd_I)
 - [The importance of community in tech meetups](https://www.youtube.com/watch?v=9tc-Fl2u6jY)
 - [The PHP Podcast 2025.04.10: Importing elePHPants](https://www.youtube.com/watch?v=Va-jsY3A46k)
 - [Traditional Education With Jack Polifka](https://www.youtube.com/watch?v=Fijka-KNuyc)
 - [The PHP Podcast Livestream 2025.04.03](https://www.youtube.com/watch?v=0Y3A95utsYo)
-- [Dr. Molly McQueary discusses how you should go up to talk to new people at technical conferences](https://www.youtube.com/watch?v=aDNiNHp1a4I)
 <!-- PHPARCHITECT:END -->
 
 ---
