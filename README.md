@@ -10,11 +10,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [Navigating Family Logistics During Conferences](https://www.youtube.com/watch?v=kpXVh8DqMs8)
 - [The PHP Podcast 2025.04.17](https://www.youtube.com/watch?v=Q7oAiIqwQG0)
 - [Super Charging Development with DocBlock](https://www.youtube.com/watch?v=LQr99R_U_hA)
 - [User Friendly App Design in Digital Solutions #podcast](https://www.youtube.com/watch?v=Bh1-n2xmip8)
 - [Clear communication in team settings #podcast #php #phptek](https://www.youtube.com/watch?v=Pdcugt8bd_I)
-- [The importance of community in tech meetups](https://www.youtube.com/watch?v=9tc-Fl2u6jY)
 <!-- PHPARCHITECT:END -->
 
 ---
