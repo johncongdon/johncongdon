@@ -10,11 +10,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [What Are DocBlocks?](https://www.youtube.com/watch?v=eRqwU8qT7MM)
 - [Passing the Torch with Easton and Peter Meth](https://www.youtube.com/watch?v=Fgsc8cWL968)
 - [The Importance of Networking at Tech Conferences](https://www.youtube.com/watch?v=a6uT7MQrNzo)
 - [Navigating Family Logistics During Conferences](https://www.youtube.com/watch?v=kpXVh8DqMs8)
 - [The PHP Podcast 2025.04.17](https://www.youtube.com/watch?v=Q7oAiIqwQG0)
-- [Super Charging Development with DocBlock](https://www.youtube.com/watch?v=LQr99R_U_hA)
 <!-- PHPARCHITECT:END -->
 
 ---
