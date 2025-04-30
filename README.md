@@ -10,11 +10,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [Defining Array Shapes With DocBlock](https://www.youtube.com/watch?v=066O7Dp_F3A)
 - [Dynamic Properties with DocBlocks](https://www.youtube.com/watch?v=o4ZMpQpzo6g)
 - [What Are DocBlocks Part 2](https://www.youtube.com/watch?v=z23sxc0zuBg)
 - [What Are DocBlocks?](https://www.youtube.com/watch?v=eRqwU8qT7MM)
 - [Passing the Torch with Easton and Peter Meth](https://www.youtube.com/watch?v=Fgsc8cWL968)
-- [The Importance of Networking at Tech Conferences](https://www.youtube.com/watch?v=a6uT7MQrNzo)
 <!-- PHPARCHITECT:END -->
 
 ---
