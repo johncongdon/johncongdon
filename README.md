@@ -10,11 +10,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [The PHP Podcast Livestream 2025.05.08](https://www.youtube.com/watch?v=OY1e8izoTBc)
 - [SARB and PHP Language Extensions with Dave Liddament](https://www.youtube.com/watch?v=1VbLpqm7U00)
 - [The PHP Podcast 2025.05.01](https://www.youtube.com/watch?v=U1X8BdtNZqE)
 - [Defining Array Shapes With DocBlock](https://www.youtube.com/watch?v=066O7Dp_F3A)
 - [Dynamic Properties with DocBlocks](https://www.youtube.com/watch?v=o4ZMpQpzo6g)
-- [What Are DocBlocks Part 2](https://www.youtube.com/watch?v=z23sxc0zuBg)
 <!-- PHPARCHITECT:END -->
 
 ---
