@@ -10,7 +10,7 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
-- [The PHP Podcast Livestream 2025.05.15](https://www.youtube.com/watch?v=XOrg0Q06csQ)
+- [The PHP Podcast 2025.05.15](https://www.youtube.com/watch?v=XOrg0Q06csQ)
 - [Front-End Testing With Philip Tadeo](https://www.youtube.com/watch?v=6Lmxy9glvy8)
 - [The dangers of dormant backdoors in e commerce platforms #podcast #coding #php](https://www.youtube.com/watch?v=nSCvVjzkmJ0)
 - [The importance of community meetups for tech professionals #podcast #coding #php](https://www.youtube.com/watch?v=x0huU8JTLBk)
