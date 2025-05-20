@@ -10,11 +10,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [Live with Restream, May 19](https://www.youtube.com/watch?v=kjUJf_4Uka0)
 - [Working With Value Objects in Laravel 12.x](https://www.youtube.com/watch?v=0jRTq0Hy_50)
 - [PHP Tek 2025 Set Up](https://www.youtube.com/watch?v=_-sviY0Ly50)
 - [The PHP Podcast 2025.05.15](https://www.youtube.com/watch?v=XOrg0Q06csQ)
 - [Front-End Testing With Philip Tadeo](https://www.youtube.com/watch?v=6Lmxy9glvy8)
-- [The dangers of dormant backdoors in e commerce platforms #podcast #coding #php](https://www.youtube.com/watch?v=nSCvVjzkmJ0)
 <!-- PHPARCHITECT:END -->
 
 ---
