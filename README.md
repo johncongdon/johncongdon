@@ -10,7 +10,7 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
-- [The PHP Podcast Livestream 2025.05.29](https://www.youtube.com/watch?v=z424RO12Vdo)
+- [The PHP Podcast Livestream 2025.06.05](https://www.youtube.com/watch?v=z424RO12Vdo)
 - [The Importance of Community in PHP Development](https://www.youtube.com/watch?v=WfQqy-MCjmE)
 - [The PHP Podcast 2025.05.29](https://www.youtube.com/watch?v=L1bNPX4JQg0)
 - [Live with Restream, May 19](https://www.youtube.com/watch?v=kjUJf_4Uka0)
