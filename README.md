@@ -10,11 +10,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [PHP Tek 2025 - NativePHP: Past, Present, and Future &lpar;Shane Rosenthal&rpar;](https://www.youtube.com/watch?v=pRZmrPa6nYk)
 - [The PHP Podcast Livestream 2025.06.05](https://www.youtube.com/watch?v=z424RO12Vdo)
 - [The Importance of Community in PHP Development](https://www.youtube.com/watch?v=WfQqy-MCjmE)
 - [The PHP Podcast 2025.05.29](https://www.youtube.com/watch?v=L1bNPX4JQg0)
 - [Live with Restream, May 19](https://www.youtube.com/watch?v=kjUJf_4Uka0)
-- [Working With Value Objects in Laravel 12.x](https://www.youtube.com/watch?v=0jRTq0Hy_50)
 <!-- PHPARCHITECT:END -->
 
 ---
