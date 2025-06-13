@@ -10,7 +10,7 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
-- [The PHP Podcast Livestream 2025.06.12](https://www.youtube.com/watch?v=qN8nsBdIgtw)
+- [The PHP Podcast 2025.06.12](https://www.youtube.com/watch?v=qN8nsBdIgtw)
 - [PHP Installer for Extensions&lpar;PIE&rpar; with James Titcumb](https://www.youtube.com/watch?v=GWslJLb72hA)
 - [PHP Tek 2025 - NativePHP: Past, Present, and Future &lpar;Shane Rosenthal&rpar;](https://www.youtube.com/watch?v=6QeHWHNBHQc)
 - [PHP Tek 2025 - NativePHP: Past, Present, and Future &lpar;Shane Rosenthal&rpar;](https://www.youtube.com/watch?v=pRZmrPa6nYk)
