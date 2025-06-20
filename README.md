@@ -10,7 +10,7 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
-- [The PHP Podcast Livestream 2025.06.19](https://www.youtube.com/watch?v=2xjexoidRaw)
+- [The PHP Podcast: 2025.06.19](https://www.youtube.com/watch?v=2xjexoidRaw)
 - [Atomic Commits Explained: Stop Writing Useless Git Messages](https://www.youtube.com/watch?v=zH0mn7gktsQ)
 - [The PHP Podcast 2025.06.12](https://www.youtube.com/watch?v=qN8nsBdIgtw)
 - [PHP Installer for Extensions&lpar;PIE&rpar; with James Titcumb](https://www.youtube.com/watch?v=GWslJLb72hA)
