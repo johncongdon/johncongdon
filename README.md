@@ -10,11 +10,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [Celebrating 30 Years of PHP  A Tribute to Its Impact](https://www.youtube.com/shorts/TS2VN_kWgiA)
 - [Building a Computer from Scratch  The Lost Art](https://www.youtube.com/shorts/YJNgbU6sA38)
 - [The PHP Podcast: 2025.06.19](https://www.youtube.com/watch?v=2xjexoidRaw)
 - [Atomic Commits Explained: Stop Writing Useless Git Messages](https://www.youtube.com/watch?v=zH0mn7gktsQ)
 - [The PHP Podcast 2025.06.12](https://www.youtube.com/watch?v=qN8nsBdIgtw)
-- [PHP Installer for Extensions&lpar;PIE&rpar; with James Titcumb](https://www.youtube.com/watch?v=GWslJLb72hA)
 <!-- PHPARCHITECT:END -->
 
 ---
