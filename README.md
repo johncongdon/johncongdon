@@ -10,11 +10,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [The PHP Podcast Livestream 2025.06.26](https://www.youtube.com/watch?v=9MjcjThrOF0)
 - [The Role of AI as a Developer&#39;s Tool](https://www.youtube.com/shorts/31YJBcGj2cs)
 - [Yelling at Clouds With Chris Hartjes](https://www.youtube.com/watch?v=g9qso8ECu0E)
 - [Celebrating 30 Years of PHP  A Tribute to Its Impact](https://www.youtube.com/shorts/TS2VN_kWgiA)
 - [Building a Computer from Scratch  The Lost Art](https://www.youtube.com/shorts/YJNgbU6sA38)
-- [The PHP Podcast: 2025.06.19](https://www.youtube.com/watch?v=2xjexoidRaw)
 <!-- PHPARCHITECT:END -->
 
 ---
