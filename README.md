@@ -10,11 +10,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [The evolution of variable naming conventions in programming](https://www.youtube.com/shorts/GupXnuEAy7U)
 - [The PHP Podcast Livestream 2025.07.03](https://www.youtube.com/watch?v=5Fp-L-BAxQM)
 - [The PHP Podcast Livestream 2025.06.26](https://www.youtube.com/watch?v=9MjcjThrOF0)
 - [The Role of AI as a Developer&#39;s Tool](https://www.youtube.com/shorts/31YJBcGj2cs)
 - [Yelling at Clouds With Chris Hartjes](https://www.youtube.com/watch?v=g9qso8ECu0E)
-- [Celebrating 30 Years of PHP  A Tribute to Its Impact](https://www.youtube.com/shorts/TS2VN_kWgiA)
 <!-- PHPARCHITECT:END -->
 
 ---
