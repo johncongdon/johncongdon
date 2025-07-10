@@ -10,11 +10,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [The chaos of middle school experiences](https://www.youtube.com/shorts/PG7Li624_Ws)
 - [What&#39;s Complex About NativePHP For Mobile?](https://www.youtube.com/shorts/u-ZpvBGVRw0)
 - [NativePHP for Mobile With Shane Rosenthal and Simon Hamp](https://www.youtube.com/watch?v=qd2hQOxgx6M)
 - [The evolution of variable naming conventions in programming](https://www.youtube.com/shorts/GupXnuEAy7U)
 - [The PHP Podcast Livestream 2025.07.03](https://www.youtube.com/watch?v=5Fp-L-BAxQM)
-- [The PHP Podcast Livestream 2025.06.26](https://www.youtube.com/watch?v=9MjcjThrOF0)
 <!-- PHPARCHITECT:END -->
 
 ---
