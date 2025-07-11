@@ -10,7 +10,7 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
-- [The PHP Podcast Livestream 2025.07.10](https://www.youtube.com/watch?v=ocTHW5aoYkg)
+- [The PHP Podcast 2025.07.10](https://www.youtube.com/watch?v=ocTHW5aoYkg)
 - [The chaos of middle school experiences](https://www.youtube.com/shorts/PG7Li624_Ws)
 - [What&#39;s Complex About NativePHP For Mobile?](https://www.youtube.com/shorts/u-ZpvBGVRw0)
 - [NativePHP for Mobile With Shane Rosenthal and Simon Hamp](https://www.youtube.com/watch?v=qd2hQOxgx6M)
