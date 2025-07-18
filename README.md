@@ -10,7 +10,7 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
-- [The PHP Podcast Livestream 2025.07.17](https://www.youtube.com/watch?v=QXrVGAVhZrk)
+- [The PHP Podcast: 2025.07.17](https://www.youtube.com/watch?v=QXrVGAVhZrk)
 - [How Does PHP PIE Keep Extensions Up to Date?](https://www.youtube.com/shorts/rsEjLiVhc7w)
 - [What Does #PHP #PIE Do?](https://www.youtube.com/shorts/59jujnlCFFs)
 - [Why Doesn&#39;t NativePHP For Mobile Stay Running?](https://www.youtube.com/shorts/c2-yCR3EgEg)
