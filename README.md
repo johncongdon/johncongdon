@@ -10,11 +10,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [Verbs with Daniel Coulbourne](https://www.youtube.com/watch?v=znRb7u25LVc)
 - [The ethical implications of AI in software development](https://www.youtube.com/shorts/t0yeV0sYhk0)
 - [The Importance of Contributing to Open Source Software](https://www.youtube.com/shorts/O8XMxirOVlw)
 - [The PHP Podcast Livestream 2025.07.24](https://www.youtube.com/watch?v=o3_KVuFloxA)
 - [How PHP Really Reads Your Code &lpar;Abstract Syntax Tree &lpar;AST&rpar;&rpar;](https://www.youtube.com/watch?v=1g44V19rQzs)
-- [Simplifying Event Sourcing with Verbs in Laravel](https://www.youtube.com/shorts/K1dgIbl2VdI)
 <!-- PHPARCHITECT:END -->
 
 ---
