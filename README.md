@@ -10,11 +10,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [Jacked PHP with Savio Resende](https://www.youtube.com/watch?v=k6FkgQ67CR4)
 - [Innovative uses of AI in coding and development](https://www.youtube.com/shorts/ccKQkCtqz1s)
 - [The PHP Podcast 2025.08.07](https://www.youtube.com/watch?v=rSG0eq9YWmo)
 - [Verbs with Daniel Coulbourne](https://www.youtube.com/watch?v=znRb7u25LVc)
 - [The ethical implications of AI in software development](https://www.youtube.com/shorts/t0yeV0sYhk0)
-- [The Importance of Contributing to Open Source Software](https://www.youtube.com/shorts/O8XMxirOVlw)
 <!-- PHPARCHITECT:END -->
 
 ---
