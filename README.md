@@ -10,11 +10,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [#longhornphp2025: Talks about #a11y](https://www.youtube.com/shorts/X0vrICP2UNI)
 - [#longhornphp2025: Beyond Code - DevOps, UI/UX &amp; More!](https://www.youtube.com/shorts/de75LcEzEqI)
 - [Longhorn PHP 2025 With Ian Littman](https://www.youtube.com/watch?v=Nm6hkxkUvhw)
 - [The PHP Podcast: 2025.08.14](https://www.youtube.com/watch?v=406-NdKWrIg)
 - [Jacked PHP with Savio Resende](https://www.youtube.com/watch?v=k6FkgQ67CR4)
-- [Innovative uses of AI in coding and development](https://www.youtube.com/shorts/ccKQkCtqz1s)
 <!-- PHPARCHITECT:END -->
 
 ---
