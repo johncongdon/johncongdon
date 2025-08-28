@@ -10,11 +10,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [The PHP Podcast Livestream 2025.08.28](https://www.youtube.com/watch?v=aJdy_GfAAAo)
 - [Speaking at #longhornphp2025: Get Started with Ease](https://www.youtube.com/shorts/GhifqO0P1fM)
 - [#longhornphp2025: Tickets, Portal, and Content Replay Guide](https://www.youtube.com/shorts/zg7cRb-eMRE)
 - [#longhornphp2025: Free Meetup Events &amp; Lightning Talks!](https://www.youtube.com/shorts/reNNLMhlN98)
 - [#longhornphp2025: Our Texas Conference Story](https://www.youtube.com/shorts/rEyyxjT_H_Q)
-- [The PHP Podcast 2025.08.21](https://www.youtube.com/watch?v=kiXTYudWp6s)
 <!-- PHPARCHITECT:END -->
 
 ---
