@@ -10,11 +10,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [The simplicity of creating mobile apps with Native PHP](https://www.youtube.com/shorts/DmHHx7sdpVs)
 - [The PHP Podcast 2025.08.28](https://www.youtube.com/watch?v=aJdy_GfAAAo)
 - [1: PHP Alive And Kicking](https://www.youtube.com/watch?v=qwh41P_9f3I)
 - [Speaking at #longhornphp2025: Get Started with Ease](https://www.youtube.com/shorts/GhifqO0P1fM)
 - [#longhornphp2025: Tickets, Portal, and Content Replay Guide](https://www.youtube.com/shorts/zg7cRb-eMRE)
-- [#longhornphp2025: Free Meetup Events &amp; Lightning Talks!](https://www.youtube.com/shorts/reNNLMhlN98)
 <!-- PHPARCHITECT:END -->
 
 ---
