@@ -10,11 +10,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [Creating a Positive Work Environment  Insights from Company Culture](https://www.youtube.com/shorts/mSmPVGwNKYU)
 - [1: PHP Alive And Kicking](https://www.youtube.com/watch?v=9qrRFT2sibM)
 - [The importance of cherishing family and friends](https://www.youtube.com/shorts/d7Mq6d3COP0)
 - [Overcoming the fear of public speaking at tech conferences](https://www.youtube.com/shorts/2TfMVBWgxxc)
 - [The simplicity of creating mobile apps with Native PHP](https://www.youtube.com/shorts/DmHHx7sdpVs)
-- [The PHP Podcast 2025.08.28](https://www.youtube.com/watch?v=aJdy_GfAAAo)
 <!-- PHPARCHITECT:END -->
 
 ---
