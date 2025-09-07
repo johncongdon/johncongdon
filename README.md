@@ -10,11 +10,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [The Importance of Continuous Learning in PHP Development](https://www.youtube.com/shorts/5HquP_hsRg4)
 - [Building confidence through public speaking at user groups](https://www.youtube.com/shorts/Np72HzFeKUI)
 - [The PHP Podcast: 2025.09.04](https://www.youtube.com/watch?v=qDvdjhnA2BM)
 - [Creating a Positive Work Environment  Insights from Company Culture](https://www.youtube.com/shorts/mSmPVGwNKYU)
 - [1: PHP Alive And Kicking](https://www.youtube.com/watch?v=9qrRFT2sibM)
-- [The importance of cherishing family and friends](https://www.youtube.com/shorts/d7Mq6d3COP0)
 <!-- PHPARCHITECT:END -->
 
 ---
