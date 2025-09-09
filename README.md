@@ -10,11 +10,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [#Laravel Logging: Enhance Your Command Output](https://www.youtube.com/shorts/HvU7UZysHH4)
 - [Fix Missing Input: #Artisan&#39;s Easy Prompt Interface](https://www.youtube.com/shorts/wONJdRUsaTw)
 - [Stop Repeating Yourself in Laravel: Custom Artisan Commands Explained](https://www.youtube.com/watch?v=TmuYgDtaJDE)
 - [The Importance of Continuous Learning in PHP Development](https://www.youtube.com/shorts/5HquP_hsRg4)
 - [Building confidence through public speaking at user groups](https://www.youtube.com/shorts/Np72HzFeKUI)
-- [The PHP Podcast: 2025.09.04](https://www.youtube.com/watch?v=qDvdjhnA2BM)
 <!-- PHPARCHITECT:END -->
 
 ---
