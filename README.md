@@ -10,11 +10,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [The PHP Podcast Livestream 2025.09.11](https://www.youtube.com/watch?v=QPvxdfcNb7w)
 - [The Journey of a Developer  From Childhood Curiosity to Professional PHP](https://www.youtube.com/shorts/fLSrpREzg9g)
 - [Laravel Workflow: Boost Your Productivity Instantly!](https://www.youtube.com/shorts/WHWJBdWJAxk)
 - [Overcoming Imposter Syndrome as a Junior Developer](https://www.youtube.com/shorts/6giiPuGlw0A)
 - [#Laravel Logging: Enhance Your Command Output](https://www.youtube.com/shorts/HvU7UZysHH4)
-- [Fix Missing Input: #Artisan&#39;s Easy Prompt Interface](https://www.youtube.com/shorts/wONJdRUsaTw)
 <!-- PHPARCHITECT:END -->
 
 ---
