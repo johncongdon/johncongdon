@@ -10,11 +10,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [2:PHP Alive And Kicking with Sara Golemon](https://www.youtube.com/watch?v=D3FZr0ItziE)
 - [23.7M Credentials Leaked on GitHub in ONE Year! #phpc #phparch #security #coding](https://www.youtube.com/shorts/kF_3DPLKdwc)
 - [Exposed Secrets with Dwayne McDaniel](https://www.youtube.com/watch?v=iYGopICKGoI)
 - [Transitioning from a non tech role to a full time developer during COVID](https://www.youtube.com/shorts/TJWtQhZ1Aoc)
 - [The Journey of a Developer  From Childhood Curiosity to Professional PHP](https://www.youtube.com/shorts/fLSrpREzg9g)
-- [Laravel Workflow: Boost Your Productivity Instantly!](https://www.youtube.com/shorts/WHWJBdWJAxk)
 <!-- PHPARCHITECT:END -->
 
 ---
