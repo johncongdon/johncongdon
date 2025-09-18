@@ -10,11 +10,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [The PHP Podcast Livestream 2025.09.18](https://www.youtube.com/watch?v=bCFNDyz8Z8M)
 - [Cybersecurity Threats: Compromised Credentials &amp; Breaches #phpc #phparch #security #coding](https://www.youtube.com/shorts/n6YavobSMJ4)
 - [2:PHP Alive And Kicking with Sara Golemon](https://www.youtube.com/watch?v=D3FZr0ItziE)
 - [The journey from redundancy to a new job  Embracing change in your career](https://www.youtube.com/shorts/otBC173Tle8)
 - [23.7M Credentials Leaked on GitHub in ONE Year! #phpc #phparch #security #coding](https://www.youtube.com/shorts/kF_3DPLKdwc)
-- [Exposed Secrets with Dwayne McDaniel](https://www.youtube.com/watch?v=iYGopICKGoI)
 <!-- PHPARCHITECT:END -->
 
 ---
