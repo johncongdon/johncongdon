@@ -10,11 +10,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
-- [What’s New in PHP 8.5? &lpar;Release Date + Must-Know Features&rpar;](https://www.youtube.com/watch?v=xf_cEGp9VMs)
 - [3: PHP Alive and Kicking with Gina Banyard](https://www.youtube.com/watch?v=DQqW5LRVJPg)
 - [PHPScore with Ed Grosvenor](https://www.youtube.com/watch?v=slvGQtG54gw)
 - [The PHP Podcast 2025.09.25 with Guest James Seconde](https://www.youtube.com/watch?v=PlNXoKdH8jQ)
 - [The Challenges of Enterprise Development](https://www.youtube.com/shorts/UbULMgCP2lw)
+- [Understanding the Pipe Operator in PHP is a Game Changer](https://www.youtube.com/shorts/56Eqc44bbfw)
 <!-- PHPARCHITECT:END -->
 
 ---
