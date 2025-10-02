@@ -10,11 +10,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [Technical Debt: What&#39;s REALLY Blocking Your Team?](https://www.youtube.com/shorts/9GTlJ3wFpRk)
 - [App Health: Easy Insights &amp; Community Tool for Devs](https://www.youtube.com/shorts/GwZcpCz8inE)
 - [What’s New in PHP 8.5? &lpar;Release Date + Must-Know Features&rpar;](https://www.youtube.com/watch?v=Wmsy2O_WysA)
 - [3: PHP Alive and Kicking with Gina Banyard](https://www.youtube.com/watch?v=DQqW5LRVJPg)
 - [PHPScore with Ed Grosvenor](https://www.youtube.com/watch?v=slvGQtG54gw)
-- [The PHP Podcast 2025.09.25 with Guest James Seconde](https://www.youtube.com/watch?v=PlNXoKdH8jQ)
 <!-- PHPARCHITECT:END -->
 
 ---
