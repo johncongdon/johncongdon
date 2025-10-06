@@ -10,11 +10,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [Designing the Future of PHP: JetBrains&#39; Community Challenge](https://www.youtube.com/shorts/VqxBRxeYbqk)
 - [PHP Score: Assess Your App&#39;s Technical Debt Easily!](https://www.youtube.com/shorts/XWHZIFUDoD4)
 - [Technical Debt: The Boss vs. New Features](https://www.youtube.com/shorts/0cUNOYN9NQ8)
 - [The PHP Podcast 2025.10.02](https://www.youtube.com/watch?v=0iiUUj9TQKs)
 - [Technical Debt: What&#39;s REALLY Blocking Your Team?](https://www.youtube.com/shorts/9GTlJ3wFpRk)
-- [App Health: Easy Insights &amp; Community Tool for Devs](https://www.youtube.com/shorts/GwZcpCz8inE)
 <!-- PHPARCHITECT:END -->
 
 ---
