@@ -10,11 +10,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [#php 8.5 Release Overview #phpc](https://www.youtube.com/shorts/nTOKmw0rFbQ)
 - [The Impact of AI on Job Security in Tech](https://www.youtube.com/shorts/XrvLXggbD08)
 - [My Open Source Journey: From Contributor to History!](https://www.youtube.com/shorts/mbShM1pedjo)
 - [The PHP Podcast Livestream 2025.10.09](https://www.youtube.com/watch?v=uh3zuLPRCg4)
 - [PHP Attribute System: Backwards Compatibility Explained](https://www.youtube.com/shorts/28VTwgxWfHo)
-- [The Evolution of PHP: From Hacking Dreams to Web Development](https://www.youtube.com/shorts/8s1NqCe20L4)
 <!-- PHPARCHITECT:END -->
 
 ---
