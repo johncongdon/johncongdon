@@ -10,11 +10,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [PHP Return and Declare Class Has Unexpected Results](https://www.youtube.com/shorts/AU0KQBq8ubE)
 - [PHP Feature Implementation: RFCs and Source Code Process](https://www.youtube.com/shorts/SSqjQwmLaHA)
 - [Turn the Simpsons API into fake-data gold](https://www.youtube.com/shorts/YeRI0bOYG7k)
 - [#php 8.5 Release Overview #phpc](https://www.youtube.com/shorts/nTOKmw0rFbQ)
 - [The Impact of AI on Job Security in Tech](https://www.youtube.com/shorts/XrvLXggbD08)
-- [My Open Source Journey: From Contributor to History!](https://www.youtube.com/shorts/mbShM1pedjo)
 <!-- PHPARCHITECT:END -->
 
 ---
