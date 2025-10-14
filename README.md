@@ -10,7 +10,7 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
-- [5: PHP Alive and Kicking with Saif Eddin Gmati](https://www.youtube.com/watch?v=dcRRkCW2RqM)
+- [5: PHP Alive and Kicking with Saifeddin Gmati](https://www.youtube.com/watch?v=dcRRkCW2RqM)
 - [PHP Return and Declare Class Has Unexpected Results](https://www.youtube.com/shorts/AU0KQBq8ubE)
 - [PHP Feature Implementation: RFCs and Source Code Process](https://www.youtube.com/shorts/SSqjQwmLaHA)
 - [Turn the Simpsons API into fake-data gold](https://www.youtube.com/shorts/YeRI0bOYG7k)
