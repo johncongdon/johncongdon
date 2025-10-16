@@ -10,11 +10,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [How Mago cut PHPStan CI runs from ~30 minutes to a few seconds](https://www.youtube.com/shorts/roTRHejCuao)
 - [PHP 8.5 - Pipe Operator](https://www.youtube.com/shorts/lP383sq5WIM)
 - [5: PHP Alive and Kicking with Saifeddin Gmati](https://www.youtube.com/watch?v=dcRRkCW2RqM)
 - [The EAV database nightmare: how a flexible Entity-Attribute-Value schema destroyed performance](https://www.youtube.com/shorts/X2gc60WMqSs)
 - [PHP Return and Declare Class Has Unexpected Results](https://www.youtube.com/shorts/AU0KQBq8ubE)
-- [PHP Feature Implementation: RFCs and Source Code Process](https://www.youtube.com/shorts/SSqjQwmLaHA)
 <!-- PHPARCHITECT:END -->
 
 ---
