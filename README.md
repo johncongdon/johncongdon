@@ -10,7 +10,7 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
-- [The PHP Podcast Livestream 2025.10.16 Special Guest Nuno Maduro](https://www.youtube.com/watch?v=SNCyf9-LnHA)
+- [The PHP Podcast 2025.10.16 with Nuno Maduro](https://www.youtube.com/watch?v=SNCyf9-LnHA)
 - [How Mago cut PHPStan CI runs from ~30 minutes to a few seconds](https://www.youtube.com/shorts/roTRHejCuao)
 - [PHP 8.5 - Pipe Operator](https://www.youtube.com/shorts/lP383sq5WIM)
 - [5: PHP Alive and Kicking with Saifeddin Gmati](https://www.youtube.com/watch?v=dcRRkCW2RqM)
