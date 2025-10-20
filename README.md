@@ -10,11 +10,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [How to make PHP &quot;sexy&quot; again: marketing, fast-paced tutorials, and lessons from JavaScript&#39;s rise](https://www.youtube.com/shorts/3_evxBFFi9c)
 - [PHP Alive And Kicking: Episode 6 - Matt Stauffer](https://www.youtube.com/watch?v=nh0D18HfbG8)
 - [PHP Alive And Kicking: Episode 6 - Matt Stauffer](https://www.youtube.com/watch?v=rBrLsE51xj0)
 - [The PHP Podcast 2025.10.16 with Nuno Maduro](https://www.youtube.com/watch?v=SNCyf9-LnHA)
 - [PHP 8.5 - NoDiscard Attribute](https://www.youtube.com/shorts/pv_zGjPGgeA)
-- [How Mago cut PHPStan CI runs from ~30 minutes to a few seconds](https://www.youtube.com/shorts/roTRHejCuao)
 <!-- PHPARCHITECT:END -->
 
 ---
