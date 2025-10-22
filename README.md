@@ -10,8 +10,8 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
-- [PHP 8.5 - array_first&lpar;&rpar; and array_last&lpar;&rpar;](https://www.youtube.com/shorts/YASE0MSrg1c)
 - [PHP Alive And Kicking: Episode 7 - Steve McDougall](https://www.youtube.com/watch?v=jYJn-Hmp4OY)
+- [PHP 8.5 - array_first&lpar;&rpar; and array_last&lpar;&rpar;](https://www.youtube.com/shorts/YASE0MSrg1c)
 - [PHP 8.5 - Clone Improvements](https://www.youtube.com/shorts/y26YmOmoNZc)
 - [How to make PHP &quot;sexy&quot; again: marketing, fast-paced tutorials, and lessons from JavaScript&#39;s rise](https://www.youtube.com/shorts/3_evxBFFi9c)
 - [PHP Alive And Kicking: Episode 6 - Matt Stauffer](https://www.youtube.com/watch?v=nh0D18HfbG8)
