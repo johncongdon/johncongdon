@@ -10,8 +10,8 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
-- [PHP 8.5 - ini-diff](https://www.youtube.com/shorts/Fxel3BhoRMk)
 - [PHP Alive And Kicking 8 - Zuzana Kuchnova](https://www.youtube.com/watch?v=T_NFEs_xMpE)
+- [PHP 8.5 - ini-diff](https://www.youtube.com/shorts/Fxel3BhoRMk)
 - [Stop Manual Refactoring: Automate Your PHP Upgrades with Rector](https://www.youtube.com/watch?v=VAcGzxyxILg)
 - [PHP Alive And Kicking: Episode 7 - Steve McDougall](https://www.youtube.com/watch?v=jYJn-Hmp4OY)
 - [PHP 8.5 - array_first&lpar;&rpar; and array_last&lpar;&rpar;](https://www.youtube.com/shorts/YASE0MSrg1c)
