@@ -10,11 +10,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [N8N and PHP With Edward Barnard](https://www.youtube.com/watch?v=LtayJIei6o0)
 - [PHP Alive And Kicking 9 - Estelle Gaits &lpar;Livestream&rpar;](https://www.youtube.com/watch?v=AlUZQAd49fo)
 - [PHP 8.5 - error backtraces](https://www.youtube.com/shorts/Q4E77vZlM38)
 - [PHP Alive And Kicking 8 - Zuzana Kuchnova](https://www.youtube.com/watch?v=T_NFEs_xMpE)
 - [PHP 8.5 - ini-diff](https://www.youtube.com/shorts/Fxel3BhoRMk)
-- [Stop Manual Refactoring: Automate Your PHP Upgrades with Rector](https://www.youtube.com/watch?v=VAcGzxyxILg)
 <!-- PHPARCHITECT:END -->
 
 ---
