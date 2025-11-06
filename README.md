@@ -10,11 +10,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [The PHP Podcast Livestream 2025.11.06](https://www.youtube.com/watch?v=z6hV-1vixwI)
 - [Why junior devs should stop doing free work — pricing &amp; client advice from a self-made entrepreneur](https://www.youtube.com/shorts/hCBc4-bNRqE)
 - [PHP Alive And Kicking Episode 11 - Bert De Swaef](https://www.youtube.com/watch?v=D2V0MuPwxto)
 - [PHP Alive And Kicking Episode 10 - Jasper Willems](https://www.youtube.com/watch?v=Ua-j1YMcNvM)
 - [The PHP Podcast 2025.10.30](https://www.youtube.com/watch?v=GlNxSufVPlY)
-- [N8N and PHP With Edward Barnard](https://www.youtube.com/watch?v=LtayJIei6o0)
 <!-- PHPARCHITECT:END -->
 
 ---
