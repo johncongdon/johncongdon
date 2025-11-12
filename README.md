@@ -10,11 +10,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [How we made native mobile apps with PHP — building a PHP extension that talks directly to phones](https://www.youtube.com/shorts/LxefUn_Pjs8)
 - [PHP Alive And Kicking Episode 13 - Shane and Simon](https://www.youtube.com/watch?v=Omx0to2v5bg)
 - [Why the Year 2038 problem could be the next Y2K — and what might break if we ignore it](https://www.youtube.com/shorts/kWKfoLgT8O4)
 - [PHP Alive And Kicking - Episode 12 - Rob Allen](https://www.youtube.com/watch?v=vHMq88nJD_4)
 - [The PHP Podcast 2025.11.06](https://www.youtube.com/watch?v=z6hV-1vixwI)
-- [Why junior devs should stop doing free work — pricing &amp; client advice from a self-made entrepreneur](https://www.youtube.com/shorts/hCBc4-bNRqE)
 <!-- PHPARCHITECT:END -->
 
 ---
