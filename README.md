@@ -10,11 +10,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [I accidentally backfilled 600 million wrong records.](https://www.youtube.com/shorts/yATxin9tI2U)
 - [The PHP Podcast 2025.11.13](https://www.youtube.com/watch?v=BlcZ5K51NmE)
 - [PHP Alive and Kicking Episode 14 - Dan Newns](https://www.youtube.com/watch?v=dhimrx8md2g)
 - [How we made native mobile apps with PHP — building a PHP extension that talks directly to phones](https://www.youtube.com/shorts/LxefUn_Pjs8)
 - [PHP Alive And Kicking Episode 13 - Shane and Simon](https://www.youtube.com/watch?v=Omx0to2v5bg)
-- [Why the Year 2038 problem could be the next Y2K — and what might break if we ignore it](https://www.youtube.com/shorts/kWKfoLgT8O4)
 <!-- PHPARCHITECT:END -->
 
 ---
