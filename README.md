@@ -10,11 +10,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [The SQL JOIN mistake that made my PHP bug tracker crawl — and how flipping it fixed everything](https://www.youtube.com/shorts/vvw13CBNJ2w)
 - [The Official PHP SDK for MCP With Kyrian Obikwelu](https://www.youtube.com/watch?v=VUY9grGECJM)
 - [PHP Alive and Kicking Episode 15: Below Deck with Frank Wallen](https://www.youtube.com/watch?v=RBYBfwN25Rs)
 - [The Secret Header That Makes Your PHP App 10x More Secure](https://www.youtube.com/watch?v=PzY8Kp6ZQvg)
 - [PHP Alive and Kicking Episode 14 - Dan Newns](https://www.youtube.com/watch?v=dhimrx8md2g)
-- [I accidentally backfilled 600 million wrong records.](https://www.youtube.com/shorts/yATxin9tI2U)
 <!-- PHPARCHITECT:END -->
 
 ---
