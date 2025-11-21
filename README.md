@@ -10,11 +10,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [PHP Alive and Kicking - Episode 16 - Wendell Adriel](https://www.youtube.com/watch?v=iUWyjfZGkVQ)
 - [The PHP Podcast 2025.11.20](https://www.youtube.com/watch?v=WDEjDDymA8s)
 - [Raw SQL vs ORM: when to break the ORM, performance trade-offs and surviving legacy queries](https://www.youtube.com/shorts/UAmHXFBi5ok)
 - [The SQL JOIN mistake that made my PHP bug tracker crawl — and how flipping it fixed everything](https://www.youtube.com/shorts/vvw13CBNJ2w)
 - [The Official PHP SDK for MCP With Kyrian Obikwelu](https://www.youtube.com/watch?v=VUY9grGECJM)
-- [PHP Alive and Kicking Episode 15: Below Deck with Frank Wallen](https://www.youtube.com/watch?v=RBYBfwN25Rs)
 <!-- PHPARCHITECT:END -->
 
 ---
