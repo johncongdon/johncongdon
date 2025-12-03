@@ -10,11 +10,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [Relational Databases Made Simple](https://www.youtube.com/watch?v=0ZF1dPMT_rA)
 - [PHP Alive And Kicking - Episode 19 - Jim Seconde](https://www.youtube.com/watch?v=GwNZ0AuxGok)
 - [PHP Alive And Kicking: Episode 18 - Oliver Davies](https://www.youtube.com/watch?v=s5Ds14CGkDA)
 - [PHP Alive And Kicking: Episode 17 - TJ Miller](https://www.youtube.com/watch?v=nzeTSCQLd3M)
 - [PHP Alive and Kicking - Episode 16 - Wendell Adriel](https://www.youtube.com/watch?v=iUWyjfZGkVQ)
-- [The PHP Podcast 2025.11.20](https://www.youtube.com/watch?v=WDEjDDymA8s)
 <!-- PHPARCHITECT:END -->
 
 ---
