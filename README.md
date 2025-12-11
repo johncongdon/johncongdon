@@ -10,11 +10,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [The PHP Podcast 2025.12.11](https://www.youtube.com/watch?v=WOyd6yZc-dk)
 - [Kubernetes With Eric Mann](https://www.youtube.com/watch?v=G4rYmqdY3po)
 - [PHP Alive and Kicking Episode 20 - Ash Allen](https://www.youtube.com/watch?v=6GzzyNqUGDQ)
 - [The PHP Podcast 2025.12.04](https://www.youtube.com/watch?v=DkCaXIZmzDE)
 - [Relational Databases Made Simple](https://www.youtube.com/watch?v=0ZF1dPMT_rA)
-- [PHP Alive And Kicking - Episode 19 - Jim Seconde](https://www.youtube.com/watch?v=GwNZ0AuxGok)
 <!-- PHPARCHITECT:END -->
 
 ---
