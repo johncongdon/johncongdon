@@ -10,11 +10,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [The PHP Podcast 2025.12.18](https://www.youtube.com/watch?v=dBb84f931Xw)
 - [Why Your PHP Dates Keep Breaking](https://www.youtube.com/watch?v=SOOTlmZs5ac)
 - [PHP Alive And Kicking: Episode 21 Below Deck Holiday Special](https://www.youtube.com/watch?v=I__ixgAjZU0)
 - [The PHP Podcast 2025.12.11](https://www.youtube.com/watch?v=WOyd6yZc-dk)
 - [Kubernetes With Eric Mann](https://www.youtube.com/watch?v=G4rYmqdY3po)
-- [PHP Alive and Kicking Episode 20 - Ash Allen](https://www.youtube.com/watch?v=6GzzyNqUGDQ)
 <!-- PHPARCHITECT:END -->
 
 ---
