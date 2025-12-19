@@ -10,11 +10,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [The Editor Wars: VS Code vs Vim vs PHPStorm — are AI-powered VS Code clones actually useful?](https://www.youtube.com/shorts/e00wbHdwVDU)
 - [The PHP Podcast 2025.12.18](https://www.youtube.com/watch?v=dBb84f931Xw)
 - [Why Your PHP Dates Keep Breaking](https://www.youtube.com/watch?v=SOOTlmZs5ac)
 - [PHP Alive And Kicking: Episode 21 Below Deck Holiday Special](https://www.youtube.com/watch?v=I__ixgAjZU0)
 - [The PHP Podcast 2025.12.11](https://www.youtube.com/watch?v=WOyd6yZc-dk)
-- [Kubernetes With Eric Mann](https://www.youtube.com/watch?v=G4rYmqdY3po)
 <!-- PHPARCHITECT:END -->
 
 ---
