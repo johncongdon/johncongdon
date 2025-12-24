@@ -10,11 +10,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [PHP Framework Interop Group with Larry Garfield](https://www.youtube.com/watch?v=XGJPj-ff1lQ)
 - [Is &#39;irregardless&#39; a real word? Debunking the myth and when to use &#39;regardless&#39; vs &#39;irregardless&#39;](https://www.youtube.com/shorts/RDmYtTxFJ2I)
 - [The PHP Podcast 2025.12.18](https://www.youtube.com/watch?v=dBb84f931Xw)
 - [The Editor Wars: VS Code vs Vim vs PHPStorm — are AI-powered VS Code clones actually useful?](https://www.youtube.com/shorts/e00wbHdwVDU)
 - [Why Your PHP Dates Keep Breaking](https://www.youtube.com/watch?v=SOOTlmZs5ac)
-- [PHP Alive And Kicking: Episode 21 Below Deck Holiday Special](https://www.youtube.com/watch?v=I__ixgAjZU0)
 <!-- PHPARCHITECT:END -->
 
 ---
