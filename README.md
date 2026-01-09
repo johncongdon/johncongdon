@@ -25,3 +25,4 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 [ws_phparch]: https://www.phparch.com
 [ws_phpugly]: https://www.phpugly.com
+[![Why PHP](https://img.shields.io/badge/Why_PHP-in_2026-7A86E8?style=for-the-badge&labelColor=18181b)](https://whyphp.dev)
