@@ -10,11 +10,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [Stop Copy-Pasting SQL Queries &lpar;This ONE Database Feature Changes Everything&rpar;](https://www.youtube.com/watch?v=oSVbqJ9M8QU)
 - [Gunnard Engebreth - Don&#39;t Skip the Basics](https://www.youtube.com/shorts/4U4oFoc21Js)
 - [The PHP Podcast 2025.01.15](https://www.youtube.com/watch?v=_kFJRTSYc5M)
 - [Gunnard Engebreth - OWASP Top 10](https://www.youtube.com/shorts/9jbLw26TmIA)
 - [The PHP Podcast 2026.01.08](https://www.youtube.com/watch?v=xWRkmErudCA)
-- [OWASP Top 10 With Gunnard Engebreth](https://www.youtube.com/watch?v=Zhi74AJR-Zo)
 <!-- PHPARCHITECT:END -->
 
 ---
