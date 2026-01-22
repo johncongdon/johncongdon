@@ -10,11 +10,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [The PHP Podcast 2025.01.22](https://www.youtube.com/watch?v=H4rn6O5GAh8)
 - [FrankenPHP With Alexandre Daubois post auphonic](https://www.youtube.com/watch?v=bTnf3Fe59I4)
 - [Gunnard Engebreth - Never Trust A User](https://www.youtube.com/shorts/OU5leRiGnZA)
 - [I accidentally deployed over my teammate’s PR — chaos, lessons, and how to avoid it](https://www.youtube.com/shorts/8LB5xt-ZeBg)
 - [Stop Copy-Pasting SQL Queries &lpar;This ONE Database Feature Changes Everything&rpar;](https://www.youtube.com/watch?v=oSVbqJ9M8QU)
-- [Gunnard Engebreth - Don&#39;t Skip the Basics](https://www.youtube.com/shorts/4U4oFoc21Js)
 <!-- PHPARCHITECT:END -->
 
 ---
