@@ -10,11 +10,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [How to convince your boss to fund your tech conference trip &lpar;create a slide deck &amp; show ROI&rpar;](https://www.youtube.com/shorts/L7Ly5fu165g)
 - [The PHP Podcast 2025.01.22](https://www.youtube.com/watch?v=H4rn6O5GAh8)
 - [Gunnard Engebreth - Prepared Statements](https://www.youtube.com/shorts/y6iWBb7ow2Y)
 - [FrankenPHP With Alexandre Daubois post auphonic](https://www.youtube.com/watch?v=bTnf3Fe59I4)
 - [Gunnard Engebreth - Never Trust A User](https://www.youtube.com/shorts/OU5leRiGnZA)
-- [I accidentally deployed over my teammate’s PR — chaos, lessons, and how to avoid it](https://www.youtube.com/shorts/8LB5xt-ZeBg)
 <!-- PHPARCHITECT:END -->
 
 ---
