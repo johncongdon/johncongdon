@@ -10,11 +10,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [PHP Tek and JS Tek 2026 with Eric Van Johnson](https://www.youtube.com/watch?v=DsC6TBA83l4)
 - [PHP Alive And Kicking: Episode 22 Sara Golemon](https://www.youtube.com/watch?v=ob2puq3Di4s)
 - [The PHP Podcast 2026.01.29](https://www.youtube.com/watch?v=caFqTSAgmgo)
 - [Why Your PHP App Restarts on Every Request &lpar;And How to Fix It&rpar;](https://www.youtube.com/watch?v=azt3OAOoG-Q)
 - [Gunnard Engebreth - Functional Programming](https://www.youtube.com/shorts/etEx5KY6W7g)
-- [How to convince your boss to fund your tech conference trip &lpar;create a slide deck &amp; show ROI&rpar;](https://www.youtube.com/shorts/L7Ly5fu165g)
 <!-- PHPARCHITECT:END -->
 
 ---
