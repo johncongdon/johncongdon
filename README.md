@@ -10,11 +10,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [Eric Van Johnson PHP Tek and JS Tek 2026 - What is PHP Tek/JS Tek](https://www.youtube.com/shorts/gz_3bBpQgT0)
 - [The PHP Podcast 2026.02.05](https://www.youtube.com/watch?v=lextwc9RwIU)
 - [AI = autocomplete with delusions: real hallucinations, swearing AIs,](https://www.youtube.com/shorts/-pWO5KX5a10)
 - [PHP Tek and JS Tek 2026 with Eric Van Johnson](https://www.youtube.com/watch?v=DsC6TBA83l4)
 - [PHP Alive And Kicking: Episode 22 Sara Golemon](https://www.youtube.com/watch?v=ob2puq3Di4s)
-- [The PHP Podcast 2026.01.29](https://www.youtube.com/watch?v=caFqTSAgmgo)
 <!-- PHPARCHITECT:END -->
 
 ---
