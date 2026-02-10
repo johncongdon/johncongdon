@@ -10,11 +10,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [Eric Van Johnson PHP Tek and JS Tek 2026](https://www.youtube.com/shorts/DmUKY5LNSFY)
 - [Eric Van Johnson PHP Tek and JS Tek 2026 - Talk Types](https://www.youtube.com/shorts/t_ImG9id88M)
 - [Eric Van Johnson PHP Tek and JS Tek 2026 - Meeting Core Developers](https://www.youtube.com/shorts/lLFv-5Bi6tY)
 - [Eric Van Johnson PHP Tek and JS Tek 2026 - Why Ask Questions?](https://www.youtube.com/shorts/QqHdOromXyc)
 - [I taught my stepfather FrontPage](https://www.youtube.com/shorts/I5ZVDug30Io)
-- [Eric Van Johnson PHP Tek and JS Tek 2026 - What is PHP Tek/JS Tek](https://www.youtube.com/shorts/gz_3bBpQgT0)
 <!-- PHPARCHITECT:END -->
 
 ---
