@@ -10,11 +10,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [Could AI invent its own &#39;gibberish&#39; programming languages humans can&#39;t understand?](https://www.youtube.com/shorts/XFlV6FR9lls)
 - [The PHP Podcast 2026.02.12](https://www.youtube.com/watch?v=36MjE77AUeg)
 - [Eric Van Johnson PHP Tek and JS Tek 2026 - JS Tek](https://www.youtube.com/shorts/bFs9ZkcpA08)
 - [Eric Van Johnson PHP Tek and JS Tek 2026 - Unexpected Solutions](https://www.youtube.com/shorts/8azMNNJqtfU)
 - [Why you should never pipe random install scripts to bash &lpar;and how to safely test them&rpar;](https://www.youtube.com/shorts/MXXmFd61bQI)
-- [Eric Van Johnson PHP Tek and JS Tek 2026 - Uncon](https://www.youtube.com/shorts/nE5JK64vBos)
 <!-- PHPARCHITECT:END -->
 
 ---
