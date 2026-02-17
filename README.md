@@ -10,11 +10,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [PHP Alive And Kicking: Episode 23 Native PHP](https://www.youtube.com/watch?v=CEYeTa_9qhY)
 - [Eric Van Johnson PHP Tek and JS Tek 2026 - Venue](https://www.youtube.com/shorts/qcSxssggImk)
 - [Eric Van Johnson PHP Tek and JS Tek 2026 - phptek.tv](https://www.youtube.com/shorts/a-s7pAJG2ak)
 - [Eric Van Johnson PHP Tek and JS Tek 2026 - Two Conferences For The Price of One](https://www.youtube.com/shorts/fyut9gBIjeo)
 - [Could AI invent its own &#39;gibberish&#39; programming languages humans can&#39;t understand?](https://www.youtube.com/shorts/XFlV6FR9lls)
-- [The PHP Podcast 2026.02.12](https://www.youtube.com/watch?v=36MjE77AUeg)
 <!-- PHPARCHITECT:END -->
 
 ---
