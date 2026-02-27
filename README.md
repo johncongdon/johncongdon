@@ -10,11 +10,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [Unique Constraints 0 to 100: From Simple Indexes to Multi-Tenant Partial Indexes](https://www.youtube.com/watch?v=Qj4pK7ibmP8)
 - [The PHP Podcast 2026.02.26](https://www.youtube.com/watch?v=K3n3aAGtETk)
 - [🤖 Will AI take over coding? Let’s dive into the truth! 💻 What do YOU think? #AI #Coding](https://www.youtube.com/shorts/iX46dGldl_Q)
 - [🚫 Don’t just vibe code! Learn how to safely use AI for programming! 🤔💻 #CodingTips #AI](https://www.youtube.com/shorts/4y02rICjSAk)
 - [PHP Alive And Kicking: Episode 24 Ben Ramsey](https://www.youtube.com/watch?v=53y9j3geZFw)
-- [The Activated Leader with Lilah Jones](https://www.youtube.com/watch?v=_ANmrr9bxZM)
 <!-- PHPARCHITECT:END -->
 
 ---
