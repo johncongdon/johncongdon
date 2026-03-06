@@ -10,11 +10,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [The Trust Protocol with Nia Luckey - What is the Trust Protocol?](https://www.youtube.com/shorts/WinvPGn07dg)
 - [The PHP Podcast 2026.03.05](https://www.youtube.com/watch?v=ftA7kaDrdVM)
 - [Can AI design apps? Watch Claude take the wheel! What do you think? #AI #AppDevelopment](https://www.youtube.com/shorts/IPtAHFGTulU)
 - [The Trust Protocol with Nia Luckey](https://www.youtube.com/watch?v=pNnfq0eXpPU)
 - [Unique Constraints 0 to 100: From Simple Indexes to Multi-Tenant Partial Indexes](https://www.youtube.com/watch?v=Qj4pK7ibmP8)
-- [The PHP Podcast 2026.02.26](https://www.youtube.com/watch?v=K3n3aAGtETk)
 <!-- PHPARCHITECT:END -->
 
 ---
