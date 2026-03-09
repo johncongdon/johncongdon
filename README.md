@@ -10,11 +10,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [The Trust Protocol with Nia Luckey - What is Cognitive Dissonance?](https://www.youtube.com/shorts/tHpOXeK8OIo)
 - [The Trust Protocol with Nia Luckey - Safety and Cognitive Dissonance](https://www.youtube.com/shorts/_nqErdyQigQ)
 - [The Trust Protocol with Nia Luckey - Where does trust start?](https://www.youtube.com/shorts/anUudmLJKmw)
 - [The PHP Podcast 2026.03.05](https://www.youtube.com/watch?v=ftA7kaDrdVM)
 - [The Trust Protocol with Nia Luckey - What is the Trust Protocol Part 2?](https://www.youtube.com/shorts/oVOcq_E4WKw)
-- [The Trust Protocol with Nia Luckey - What is the Trust Protocol?](https://www.youtube.com/shorts/WinvPGn07dg)
 <!-- PHPARCHITECT:END -->
 
 ---
