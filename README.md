@@ -10,11 +10,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [Join us for a game-changing TDD adventure 🎲🤖💥 #CodingFun #BoardGames](https://www.youtube.com/shorts/HyUtTsxc4QI)
 - [Level up your PHP testing with Given-When-Then! 🐘💻 #PHP #UnitTesting #DevLife](https://www.youtube.com/shorts/-sOKvrLyPPM)
 - [PHP Alive And Kicking: Episode 25 Sebastian Bergmann](https://www.youtube.com/watch?v=DCCGn4vurZE)
 - [The Trust Protocol with Nia Luckey - What is Cognitive Dissonance?](https://www.youtube.com/shorts/tHpOXeK8OIo)
 - [The Trust Protocol with Nia Luckey - Safety and Cognitive Dissonance](https://www.youtube.com/shorts/_nqErdyQigQ)
-- [The Trust Protocol with Nia Luckey - Where does trust start?](https://www.youtube.com/shorts/anUudmLJKmw)
 <!-- PHPARCHITECT:END -->
 
 ---
