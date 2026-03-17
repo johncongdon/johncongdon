@@ -10,11 +10,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [PHP Alive And Kicking: Episode 26 Elizabeth Barron](https://www.youtube.com/watch?v=C4ys6rjMe6E)
 - [From BBS to PHPUnit! 🚀 How did Sebastian’s journey begin?](https://www.youtube.com/shorts/TghlKrnfCIY)
 - [The PHP Podcast 2026.03.05](https://www.youtube.com/watch?v=SEjO3-xzDqM)
 - [Join us for a game-changing TDD adventure 🎲🤖💥 #CodingFun #BoardGames](https://www.youtube.com/shorts/HyUtTsxc4QI)
 - [Level up your PHP testing with Given-When-Then! 🐘💻 #PHP #UnitTesting #DevLife](https://www.youtube.com/shorts/-sOKvrLyPPM)
-- [PHP Alive And Kicking: Episode 25 Sebastian Bergmann](https://www.youtube.com/watch?v=DCCGn4vurZE)
 <!-- PHPARCHITECT:END -->
 
 ---
