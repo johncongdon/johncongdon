@@ -10,11 +10,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [Why Your Pull Requests Are Stuck in Review Purgatory](https://www.youtube.com/watch?v=B7JEXREPfwY)
 - [From zero to PHP hero! 🚀 How did Elizabeth become a leader in tech? #TechJourney #WomenInTech #PHP](https://www.youtube.com/shorts/z7MWstbeVrY)
 - [PHP Alive And Kicking: Episode 26 Elizabeth Barron](https://www.youtube.com/watch?v=C4ys6rjMe6E)
 - [From BBS to PHPUnit! 🚀 How did Sebastian’s journey begin?](https://www.youtube.com/shorts/TghlKrnfCIY)
 - [The PHP Podcast 2026.03.05](https://www.youtube.com/watch?v=SEjO3-xzDqM)
-- [Join us for a game-changing TDD adventure 🎲🤖💥 #CodingFun #BoardGames](https://www.youtube.com/shorts/HyUtTsxc4QI)
 <!-- PHPARCHITECT:END -->
 
 ---
