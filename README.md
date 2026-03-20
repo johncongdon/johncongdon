@@ -10,11 +10,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [AI writes PRs &amp; gets shut down! 😂 #AI #OpenSource](https://www.youtube.com/shorts/YaenYYdP2b8)
 - [The PHP Podcast 2026.03.19](https://www.youtube.com/watch?v=_zCcZMnl4Ro)
 - [Feeling like a coding fraud? Watch Steve&#39;s streams to boost your confidence! 💪 #CodingLife](https://www.youtube.com/shorts/5YSWoFBkVHQ)
 - [Why Your Pull Requests Are Stuck in Review Purgatory](https://www.youtube.com/watch?v=B7JEXREPfwY)
 - [From zero to PHP hero! 🚀 How did Elizabeth become a leader in tech? #TechJourney #WomenInTech #PHP](https://www.youtube.com/shorts/z7MWstbeVrY)
-- [PHP Alive And Kicking: Episode 26 Elizabeth Barron](https://www.youtube.com/watch?v=C4ys6rjMe6E)
 <!-- PHPARCHITECT:END -->
 
 ---
