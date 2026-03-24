@@ -10,11 +10,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [PHP Alive And Kicking: Episode 27 Punyapal Shah](https://www.youtube.com/watch?v=pwUfMdlmkj0)
 - [🚀 Run Laravel on your phone in seconds! Ready to jump in? 🤔 #Laravel #AppDev](https://www.youtube.com/shorts/JFmForwMcNo)
 - [AI writes PRs &amp; gets shut down! 😂 #AI #OpenSource](https://www.youtube.com/shorts/YaenYYdP2b8)
 - [The PHP Podcast 2026.03.19](https://www.youtube.com/watch?v=_zCcZMnl4Ro)
 - [Feeling like a coding fraud? Watch Steve&#39;s streams to boost your confidence! 💪 #CodingLife](https://www.youtube.com/shorts/5YSWoFBkVHQ)
-- [Why Your Pull Requests Are Stuck in Review Purgatory](https://www.youtube.com/watch?v=B7JEXREPfwY)
 <!-- PHPARCHITECT:END -->
 
 ---
