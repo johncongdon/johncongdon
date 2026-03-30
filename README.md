@@ -10,11 +10,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [From lurker to speaker! 🎤 How did Twitter change my dev game? 🤔 #Laravel #DevCommunity](https://www.youtube.com/shorts/zussmP98JpU)
 - [🚀 From Java to PHP in 5 days! Ready to supercharge your workflow? 💻💥 #Laravel #DevLife](https://www.youtube.com/shorts/O4VduTJFiLw)
 - [The PHP Podcast 2026.03.26](https://www.youtube.com/watch?v=WP5Np9SbGd4)
 - [Nginx and You with Chris Lemon](https://www.youtube.com/watch?v=XFeW2wuOT1w)
 - [🚀 From attendee to speaker in just 4 visits! Ready to level up? 💪 #LaraconIndia #PublicSpeaking](https://www.youtube.com/shorts/cuFHWrZoq48)
-- [PHP Alive And Kicking: Episode 27 Punyapal Shah](https://www.youtube.com/watch?v=pwUfMdlmkj0)
 <!-- PHPARCHITECT:END -->
 
 ---
