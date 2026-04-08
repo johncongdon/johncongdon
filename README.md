@@ -10,11 +10,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [I Said No With Dr Jen Fry](https://www.youtube.com/watch?v=U6bsPlwnH8s)
 - [Switch PHP versions instantly: use git worktrees and avoid repeated Composer installs](https://www.youtube.com/shorts/aojpc-FPMCU)
 - [The PHP Podcast 2026.04.02 with Joe and Sara](https://www.youtube.com/watch?v=XbIkw6K92Mo)
 - [Database Transactions Explained: PHP and Laravel Guide](https://www.youtube.com/watch?v=6-fPqmWMZ1g)
 - [From lurker to speaker! 🎤 How did Twitter change my dev game? 🤔 #Laravel #DevCommunity](https://www.youtube.com/shorts/zussmP98JpU)
-- [🚀 From Java to PHP in 5 days! Ready to supercharge your workflow? 💻💥 #Laravel #DevLife](https://www.youtube.com/shorts/O4VduTJFiLw)
 <!-- PHPARCHITECT:END -->
 
 ---
