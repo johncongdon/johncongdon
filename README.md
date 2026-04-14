@@ -10,11 +10,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [PHP Alive And Kicking: Episode 28 Piotr Szymański](https://www.youtube.com/watch?v=8B-QXzwglow)
 - [The PHP Podcast 2026.04.09 with Joe and Sara](https://www.youtube.com/watch?v=Ycr5yCjNFdk)
 - [I Said No With Dr Jen Fry](https://www.youtube.com/watch?v=U6bsPlwnH8s)
 - [Switch PHP versions instantly: use git worktrees and avoid repeated Composer installs](https://www.youtube.com/shorts/aojpc-FPMCU)
 - [The PHP Podcast 2026.04.02 with Joe and Sara](https://www.youtube.com/watch?v=XbIkw6K92Mo)
-- [Database Transactions Explained: PHP and Laravel Guide](https://www.youtube.com/watch?v=6-fPqmWMZ1g)
 <!-- PHPARCHITECT:END -->
 
 ---
