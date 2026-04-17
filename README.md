@@ -10,11 +10,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [Why You’re Scared of Conflict &lpar;And How to Master It&rpar; 🛡️](https://www.youtube.com/shorts/Ql_RD7KRt9Q)
 - [The PHP Podcast 2026.04.16 with Sara, Joe, and Sami](https://www.youtube.com/watch?v=0c0iQT7iB9Y)
 - [Why Your Team Defines Who You Are 🏈](https://www.youtube.com/shorts/tnq7ixqu1J8)
 - [PHP Alive And Kicking: Episode 28 Piotr Szymański](https://www.youtube.com/watch?v=8B-QXzwglow)
 - [The PHP Podcast 2026.04.09 with Joe and Sara](https://www.youtube.com/watch?v=Ycr5yCjNFdk)
-- [I Said No With Dr Jen Fry](https://www.youtube.com/watch?v=U6bsPlwnH8s)
 <!-- PHPARCHITECT:END -->
 
 ---
