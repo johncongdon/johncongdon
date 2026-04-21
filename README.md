@@ -10,11 +10,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [php[tek] 2017: Workshop: Domain-Driven Design Deconstructed](https://www.youtube.com/watch?v=MIpgMYJlxOc)
 - [Why Nginx is CRUSHING the Web Server Game! 🚀](https://www.youtube.com/shorts/suk6-0V8A_A)
 - [Why Leaders Are TERRIFIED Of Being Wrong 🚩](https://www.youtube.com/shorts/qN2IOC6TsIA)
 - [Why saying NO is my new superpower 🛑](https://www.youtube.com/shorts/IknbGmYwif4)
 - [Ubuntu Firewall Setup in Less Than 5 Minutes &lpar;Plus One Step That Will Lock You Out&rpar;](https://www.youtube.com/watch?v=ZbN0Yc4JSf4)
-- [Why You’re Scared of Conflict &lpar;And How to Master It&rpar; 🛡️](https://www.youtube.com/shorts/Ql_RD7KRt9Q)
 <!-- PHPARCHITECT:END -->
 
 ---
