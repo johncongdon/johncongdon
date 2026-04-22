@@ -10,11 +10,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [The AI Refactor with Kumuda Sreenivasa](https://www.youtube.com/watch?v=bLN8uxSL8NA)
 - [Your server is being scanned right now. That&#39;s just the internet.](https://www.youtube.com/shorts/vOYjXz-sIK0)
 - [php[tek] 2017: Workshop: Domain-Driven Design Deconstructed](https://www.youtube.com/watch?v=MIpgMYJlxOc)
 - [Why Nginx is CRUSHING the Web Server Game! 🚀](https://www.youtube.com/shorts/suk6-0V8A_A)
 - [Why Leaders Are TERRIFIED Of Being Wrong 🚩](https://www.youtube.com/shorts/qN2IOC6TsIA)
-- [Why saying NO is my new superpower 🛑](https://www.youtube.com/shorts/IknbGmYwif4)
 <!-- PHPARCHITECT:END -->
 
 ---
