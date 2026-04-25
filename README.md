@@ -10,11 +10,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [Stop Ignoring Nginx: The Secret Weapon for PHP Devs 🚀](https://www.youtube.com/shorts/3g2MzsL6CnA)
 - [Stop using &#39;php artisan serve&#39;!](https://www.youtube.com/shorts/Da9glkC1zFk)
 - [The PHP Podcast 2026.04.23](https://www.youtube.com/watch?v=Mazca1C4PoY)
 - [Teach kids quantum engineering in Guatemala! Let&#39;s inspire young minds!](https://www.youtube.com/shorts/1ny0wRghwxQ)
 - [First thing on a new Linux VPS: install UFW](https://www.youtube.com/shorts/NAMBzTBTUxw)
-- [The AI Refactor with Kumuda Sreenivasa](https://www.youtube.com/watch?v=bLN8uxSL8NA)
 <!-- PHPARCHITECT:END -->
 
 ---
