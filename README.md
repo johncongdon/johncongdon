@@ -10,11 +10,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
-- [#Shodan shows you every exposed port on the internet. Takes less than five seconds.](https://www.youtube.com/shorts/TcxCpU3Ml2U)
-- [Stop Ignoring Nginx: The Secret Weapon for PHP Devs 🚀](https://www.youtube.com/shorts/3g2MzsL6CnA)
-- [Stop using &#39;php artisan serve&#39;!](https://www.youtube.com/shorts/Da9glkC1zFk)
-- [The PHP Podcast 2026.04.23](https://www.youtube.com/watch?v=Mazca1C4PoY)
-- [Teach kids quantum engineering in Guatemala! Let&#39;s inspire young minds!](https://www.youtube.com/shorts/1ny0wRghwxQ)
+- [Cybersecurity State of the Union](https://www.youtube.com/watch?v=7KfcE2kN2mQ)
+- [2FA U2F OOB and Other Terrifying Security Acronyms](https://www.youtube.com/watch?v=5imWwMRogcE)
+- [Big Iron   PHP Lessons From Cold War Supercomputing](https://www.youtube.com/watch?v=dsmjyKfI9I4)
+- [Developing Applications for Performance](https://www.youtube.com/watch?v=zcuxuY9VSv8)
+- [SOA Cloudy Futures and Devops Demise](https://www.youtube.com/watch?v=dzv8InunkxY)
 <!-- PHPARCHITECT:END -->
 
 ---
