@@ -10,11 +10,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
-- [Cybersecurity State of the Union](https://www.youtube.com/watch?v=7KfcE2kN2mQ)
-- [2FA U2F OOB and Other Terrifying Security Acronyms](https://www.youtube.com/watch?v=5imWwMRogcE)
-- [Big Iron   PHP Lessons From Cold War Supercomputing](https://www.youtube.com/watch?v=dsmjyKfI9I4)
-- [Developing Applications for Performance](https://www.youtube.com/watch?v=zcuxuY9VSv8)
-- [SOA Cloudy Futures and Devops Demise](https://www.youtube.com/watch?v=dzv8InunkxY)
+- [Build Exciting Things with Boring Technologies](https://www.youtube.com/watch?v=BMHoqCWrnxI)
+- [Advanced MySQL Query Optimization](https://www.youtube.com/watch?v=BaMFa9_mrGk)
+- [Build Exciting Things with Boring Technologies](https://www.youtube.com/watch?v=w7i1Hwm8LMQ)
+- [Opening the Black Box](https://www.youtube.com/watch?v=pnenWrRWfFg)
+- [Leveraging a Distributed Architecture To Your Advantage](https://www.youtube.com/watch?v=49wuws-xvtE)
 <!-- PHPARCHITECT:END -->
 
 ---
