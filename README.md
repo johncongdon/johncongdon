@@ -10,11 +10,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [Run #ufw enable before ufw allow #ssh, and you&#39;ve locked yourself out](https://www.youtube.com/shorts/n10G7xI-uRE)
 - [#iptables configs don&#39;t age well](https://www.youtube.com/shorts/1RSdwr1KwBk)
 - [Build Exciting Things with Boring Technologies](https://www.youtube.com/watch?v=BMHoqCWrnxI)
 - [Advanced MySQL Query Optimization](https://www.youtube.com/watch?v=BaMFa9_mrGk)
 - [Build Exciting Things with Boring Technologies](https://www.youtube.com/watch?v=w7i1Hwm8LMQ)
-- [Opening the Black Box](https://www.youtube.com/watch?v=pnenWrRWfFg)
 <!-- PHPARCHITECT:END -->
 
 ---
