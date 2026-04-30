@@ -10,11 +10,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [#Storyblock #MCP is here!](https://www.youtube.com/shorts/2S-en-xWpDY)
 - [Opened auth.log and watched bots brute-forcing my #SSH port in real time](https://www.youtube.com/shorts/wZF2yNIP35E)
 - [Storyblok With Daniel Mendoza](https://www.youtube.com/watch?v=Yc8hlnvBroU)
 - [PHP Alive And Kicking: Episode 29 Elizabeth Barron](https://www.youtube.com/watch?v=vv7ZCFAypic)
 - [Run #ufw enable before ufw allow #ssh, and you&#39;ve locked yourself out](https://www.youtube.com/shorts/n10G7xI-uRE)
-- [#iptables configs don&#39;t age well](https://www.youtube.com/shorts/1RSdwr1KwBk)
 <!-- PHPARCHITECT:END -->
 
 ---
