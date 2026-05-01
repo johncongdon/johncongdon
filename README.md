@@ -10,11 +10,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [Why most CMS platforms fail devs OR marketers &lpar;The truth&rpar; 🛠️](https://www.youtube.com/shorts/2VfoqiYMZ_M)
 - [The PHP Podcast 2026.04.30](https://www.youtube.com/watch?v=8WaUFb8wpoI)
 - [Is PHP too confusing for beginners? 🤔 Let’s dive into the struggles! 💻 #PHP #Coding](https://www.youtube.com/shorts/9WQKPlscCOE)
 - [#Storyblock #MCP is here!](https://www.youtube.com/shorts/2S-en-xWpDY)
 - [Opened auth.log and watched bots brute-forcing my #SSH port in real time](https://www.youtube.com/shorts/wZF2yNIP35E)
-- [Storyblok With Daniel Mendoza](https://www.youtube.com/watch?v=Yc8hlnvBroU)
 <!-- PHPARCHITECT:END -->
 
 ---
