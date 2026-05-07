@@ -10,11 +10,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [Why Your CMS Is Holding You Back! 🚀 Storyblok Explained](https://www.youtube.com/shorts/VBNdFKJS5rE)
 - [Stop Using AI Wrong! 🧠 My PhD-Backed Secret to Learning Anything 10x Faster](https://www.youtube.com/shorts/0JBBk2z-S3Q)
 - [AI Coding is a Trap... Unless You Do This](https://www.youtube.com/shorts/C8vc--T15iQ)
 - [Is AI Actually Taking My Job?](https://www.youtube.com/shorts/V3o0LPmBkXs)
 - [Why I Stopped Building Separate Blogs for my SaaS](https://www.youtube.com/shorts/gvIKZYQI2yw)
-- [Stop Paying for Features You Don&#39;t Use!](https://www.youtube.com/shorts/k7ElCcbCy0c)
 <!-- PHPARCHITECT:END -->
 
 ---
