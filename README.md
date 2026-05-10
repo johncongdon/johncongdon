@@ -10,11 +10,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [#iptables configs don&#39;t age well](https://www.youtube.com/shorts/Nnh0_UDbuYQ)
 - [Run #ufw enable before ufw allow #ssh, and you&#39;ve locked yourself out](https://www.youtube.com/shorts/Tk1ArHvU7ew)
 - [Token-Oriented Object Notation &lpar;TOON&rpar; For PHP Developers](https://www.youtube.com/watch?v=Nk9ayWxkJ1M)
 - [The PHP Podcast 2026.05.07](https://www.youtube.com/watch?v=ZzMH-oWIPIM)
 - [Why Your CMS Is Holding You Back! 🚀 Storyblok Explained](https://www.youtube.com/shorts/VBNdFKJS5rE)
-- [Stop Using AI Wrong! 🧠 My PhD-Backed Secret to Learning Anything 10x Faster](https://www.youtube.com/shorts/0JBBk2z-S3Q)
 <!-- PHPARCHITECT:END -->
 
 ---
