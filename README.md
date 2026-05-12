@@ -10,11 +10,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [Stop Ignoring Nginx: The Secret Weapon for PHP Devs 🚀](https://www.youtube.com/shorts/3fCMLpUZ4Ow)
 - [#Shodan shows you every exposed port on the internet. Takes less than five seconds.](https://www.youtube.com/shorts/Dt5Nkl0bssI)
 - [#iptables configs don&#39;t age well](https://www.youtube.com/shorts/Nnh0_UDbuYQ)
 - [Run #ufw enable before ufw allow #ssh, and you&#39;ve locked yourself out](https://www.youtube.com/shorts/Tk1ArHvU7ew)
 - [Token-Oriented Object Notation &lpar;TOON&rpar; For PHP Developers](https://www.youtube.com/watch?v=Nk9ayWxkJ1M)
-- [The PHP Podcast 2026.05.07](https://www.youtube.com/watch?v=ZzMH-oWIPIM)
 <!-- PHPARCHITECT:END -->
 
 ---
