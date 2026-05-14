@@ -10,11 +10,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [First thing on a new Linux VPS: install UFW](https://www.youtube.com/shorts/LtoAKhNMSK8)
 - [Stop using &#39;php artisan serve&#39;!](https://www.youtube.com/shorts/pkwOASIIcrI)
 - [Global Accessibility Awareness Day with Joe Devon](https://www.youtube.com/watch?v=758c4PSg78c)
 - [Stop Ignoring Nginx: The Secret Weapon for PHP Devs 🚀](https://www.youtube.com/shorts/3fCMLpUZ4Ow)
 - [#Shodan shows you every exposed port on the internet. Takes less than five seconds.](https://www.youtube.com/shorts/Dt5Nkl0bssI)
-- [#iptables configs don&#39;t age well](https://www.youtube.com/shorts/Nnh0_UDbuYQ)
 <!-- PHPARCHITECT:END -->
 
 ---
