@@ -10,11 +10,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [Try browsing the web without a mouse for five minutes](https://www.youtube.com/shorts/InCijX4Gess)
 - [Making accessibility a core value at your org matters more than donating to GAAD](https://www.youtube.com/shorts/Tfd8BtwDMsw)
 - [The PHP Podcast 2026.05.14](https://www.youtube.com/watch?v=VyHrdCv9QRI)
 - [First thing on a new Linux VPS: install UFW](https://www.youtube.com/shorts/LtoAKhNMSK8)
 - [Stop using &#39;php artisan serve&#39;!](https://www.youtube.com/shorts/pkwOASIIcrI)
-- [Global Accessibility Awareness Day with Joe Devon](https://www.youtube.com/watch?v=758c4PSg78c)
 <!-- PHPARCHITECT:END -->
 
 ---
