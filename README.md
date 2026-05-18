@@ -10,11 +10,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [Joe Devon wrote a blog post. 220 million people showed up.](https://www.youtube.com/shorts/6zLYHrrDfso)
 - [GAAD isn&#39;t aimed at end users. It&#39;s aimed at builders.](https://www.youtube.com/shorts/7LvRyTlfang)
 - [Try browsing the web without a mouse for five minutes](https://www.youtube.com/shorts/InCijX4Gess)
 - [Making accessibility a core value at your org matters more than donating to GAAD](https://www.youtube.com/shorts/Tfd8BtwDMsw)
 - [The PHP Podcast 2026.05.14](https://www.youtube.com/watch?v=VyHrdCv9QRI)
-- [First thing on a new Linux VPS: install UFW](https://www.youtube.com/shorts/LtoAKhNMSK8)
 <!-- PHPARCHITECT:END -->
 
 ---
