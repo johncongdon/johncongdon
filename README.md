@@ -10,11 +10,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [Accessibility constraints aren&#39;t limitations. They&#39;re the testing you can&#39;t afford.](https://www.youtube.com/shorts/sBaJPJ8sznw)
 - [Accessibility failures don&#39;t trip an alarm](https://www.youtube.com/shorts/qnl3WYYaZOU)
 - [Joe Devon wrote a blog post. 220 million people showed up.](https://www.youtube.com/shorts/6zLYHrrDfso)
 - [GAAD isn&#39;t aimed at end users. It&#39;s aimed at builders.](https://www.youtube.com/shorts/7LvRyTlfang)
 - [Try browsing the web without a mouse for five minutes](https://www.youtube.com/shorts/InCijX4Gess)
-- [Making accessibility a core value at your org matters more than donating to GAAD](https://www.youtube.com/shorts/Tfd8BtwDMsw)
 <!-- PHPARCHITECT:END -->
 
 ---
