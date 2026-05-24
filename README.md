@@ -10,11 +10,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [Customizing a scrollbar can silently break screen reader access](https://www.youtube.com/shorts/_uqIV8u-s8E)
 - [Semantic HTML is free accessibility, and most devs were never taught it](https://www.youtube.com/shorts/etiCGnhpPW4)
 - [The fix is usually just the right HTML tag](https://www.youtube.com/shorts/sJEEO7ZBO9g)
 - [Accessibility constraints aren&#39;t limitations. They&#39;re the testing you can&#39;t afford.](https://www.youtube.com/shorts/sBaJPJ8sznw)
 - [Accessibility failures don&#39;t trip an alarm](https://www.youtube.com/shorts/qnl3WYYaZOU)
-- [Joe Devon wrote a blog post. 220 million people showed up.](https://www.youtube.com/shorts/6zLYHrrDfso)
 <!-- PHPARCHITECT:END -->
 
 ---
