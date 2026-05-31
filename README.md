@@ -10,11 +10,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [Branching Workflows: GitFlow Hotfixes](https://www.youtube.com/shorts/tHLCGijr0qs)
 - [Branching Workflows: GitFlow](https://www.youtube.com/shorts/BLaWsOwevJY)
 - [Branching Workflows: Why you need one](https://www.youtube.com/shorts/3cKgRsBLLm8)
 - [The PHP Podcast 2026.05.28](https://www.youtube.com/watch?v=iNn7wZVReBE)
 - [Why saying NO is my new superpower 🛑](https://www.youtube.com/shorts/8yooFeyMwEM)
-- [Branching Workflows](https://www.youtube.com/watch?v=R_-NG_frTiw)
 <!-- PHPARCHITECT:END -->
 
 ---
