@@ -10,11 +10,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [Why Your Team Defines Who You Are 🏈](https://www.youtube.com/shorts/EFsUFtqC-MA)
 - [The PHP Podcast 2026.06.04](https://www.youtube.com/watch?v=ayTxjs1HP_c)
 - [Why You’re Scared of Conflict &lpar;And How to Master It&rpar; 🛡️](https://www.youtube.com/shorts/d684w-7FTiE)
 - [Branching Workflows Intro](https://www.youtube.com/shorts/BIflwyfPSNg)
 - [PHP Alive And Kicking: Episode 30 Jim Seconde](https://www.youtube.com/watch?v=8klbgx5qZQo)
-- [Branching Workflows: Trunk-based Development](https://www.youtube.com/shorts/xDrc8qRnjOM)
 <!-- PHPARCHITECT:END -->
 
 ---
