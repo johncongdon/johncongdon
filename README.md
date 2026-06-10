@@ -10,11 +10,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [Stop using &#39;php artisan serve&#39;!](https://www.youtube.com/shorts/X2qwG_g3mbY)
+- [How to use git rebase without breaking your team&#39;s history](https://www.youtube.com/watch?v=5n2VZS_YPv0)
 - [Stop Ignoring Nginx: The Secret Weapon for PHP Devs 🚀](https://www.youtube.com/shorts/8uik_hrG9EE)
 - [#Shodan shows you every exposed port on the internet. Takes less than five seconds.](https://www.youtube.com/shorts/Jwf1_rYzVDo)
 - [#iptables configs don&#39;t age well](https://www.youtube.com/shorts/rMkS-eeScxA)
-- [Run #ufw enable before ufw allow #ssh, and you&#39;ve locked yourself out](https://www.youtube.com/shorts/9fJbc1RpIU8)
-- [Why Your Team Defines Who You Are 🏈](https://www.youtube.com/shorts/EFsUFtqC-MA)
 <!-- PHPARCHITECT:END -->
 
 ---
