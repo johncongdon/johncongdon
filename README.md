@@ -10,11 +10,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [Your server is being scanned right now. That&#39;s just the internet.](https://www.youtube.com/shorts/4ogAaAA7r8I)
 - [The PHP Podcast 2026.06.11](https://www.youtube.com/watch?v=6lO8RX9Yl9I)
 - [First thing on a new Linux VPS: install UFW](https://www.youtube.com/shorts/buxPze2Lk4E)
 - [Stop using &#39;php artisan serve&#39;!](https://www.youtube.com/shorts/X2qwG_g3mbY)
 - [How to use git rebase without breaking your team&#39;s history](https://www.youtube.com/watch?v=5n2VZS_YPv0)
-- [Stop Ignoring Nginx: The Secret Weapon for PHP Devs 🚀](https://www.youtube.com/shorts/8uik_hrG9EE)
 <!-- PHPARCHITECT:END -->
 
 ---
