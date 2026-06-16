@@ -10,11 +10,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [PHP Alive And Kicking: Episode 31 Below Decks with Kalen Johnson](https://www.youtube.com/watch?v=R7iQekndhRY)
+- [Why You’re Scared of Conflict &lpar;And How to Master It&rpar; 🛡️](https://www.youtube.com/shorts/ZQYNzaq1LxY)
 - [Why saying NO is my new superpower 🛑](https://www.youtube.com/shorts/w9pzGo86z1I)
 - [Why Nginx is CRUSHING the Web Server Game! 🚀](https://www.youtube.com/shorts/JtXhHR_PsZw)
 - [Your server is being scanned right now. That&#39;s just the internet.](https://www.youtube.com/shorts/4ogAaAA7r8I)
-- [The PHP Podcast 2026.06.11](https://www.youtube.com/watch?v=6lO8RX9Yl9I)
-- [First thing on a new Linux VPS: install UFW](https://www.youtube.com/shorts/buxPze2Lk4E)
 <!-- PHPARCHITECT:END -->
 
 ---
