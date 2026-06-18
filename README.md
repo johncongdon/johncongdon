@@ -10,11 +10,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [Why Leaders Are TERRIFIED Of Being Wrong 🚩](https://www.youtube.com/shorts/vox6uVmv3jU)
 - [The PHP Podcast 2026.06.17](https://www.youtube.com/watch?v=OAVzdt9cKJc)
 - [You tried git rebase once, it blew up your teammate&#39;s history, and now you only merge](https://www.youtube.com/shorts/QQo_mFebawE)
 - [Why Your Team Defines Who You Are 🏈](https://www.youtube.com/shorts/IBDFyYg-Tf4)
 - [Why skipping Eloquent doesn&#39;t mean skipping SQL injection protection](https://www.youtube.com/watch?v=gAVfQhPw8Do)
-- [PHP Alive And Kicking: Episode 31 Below Decks with Kalen Johnson](https://www.youtube.com/watch?v=R7iQekndhRY)
 <!-- PHPARCHITECT:END -->
 
 ---
