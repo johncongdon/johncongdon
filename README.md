@@ -10,11 +10,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [git merge preserves the full story — including the messy parts](https://www.youtube.com/shorts/tXkOMP1-HMI)
 - [Merge or rebase? The answer depends on what you want your Git history to look like](https://www.youtube.com/shorts/J0yagb2NXcI)
 - [Why Leaders Are TERRIFIED Of Being Wrong 🚩](https://www.youtube.com/shorts/vox6uVmv3jU)
 - [The PHP Podcast 2026.06.17](https://www.youtube.com/watch?v=OAVzdt9cKJc)
 - [You tried git rebase once, it blew up your teammate&#39;s history, and now you only merge](https://www.youtube.com/shorts/QQo_mFebawE)
-- [Why Your Team Defines Who You Are 🏈](https://www.youtube.com/shorts/IBDFyYg-Tf4)
 <!-- PHPARCHITECT:END -->
 
 ---
