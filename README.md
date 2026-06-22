@@ -10,11 +10,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [git rebase doesn&#39;t move your commits — it replaces them with new ones](https://www.youtube.com/shorts/ECc05hyT3o8)
+- [git log on a merge-heavy project is almost unreadable — rebase fixes that](https://www.youtube.com/shorts/6eb8FDjpR6Y)
 - [git merge preserves the full story — including the messy parts](https://www.youtube.com/shorts/tXkOMP1-HMI)
 - [Merge or rebase? The answer depends on what you want your Git history to look like](https://www.youtube.com/shorts/J0yagb2NXcI)
 - [Why Leaders Are TERRIFIED Of Being Wrong 🚩](https://www.youtube.com/shorts/vox6uVmv3jU)
-- [The PHP Podcast 2026.06.17](https://www.youtube.com/watch?v=OAVzdt9cKJc)
-- [You tried git rebase once, it blew up your teammate&#39;s history, and now you only merge](https://www.youtube.com/shorts/QQo_mFebawE)
 <!-- PHPARCHITECT:END -->
 
 ---
