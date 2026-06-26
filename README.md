@@ -10,11 +10,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [Rebase is safe in exactly two situations — everything else is risk](https://www.youtube.com/shorts/XKwKk0pUGKk)
 - [The PHP Podcast 2026.06.25](https://www.youtube.com/watch?v=5Lgs_3yIOWw)
 - [A push rejection is Git protecting you](https://www.youtube.com/shorts/xuT01VqWc5o)
 - [The one rebase rule that protects your whole team: never rebase commits others have built on](https://www.youtube.com/shorts/7ssSPxZWDTA)
 - [Spec-Driven Development with Holly Schilling](https://www.youtube.com/watch?v=82TXW6zNL28)
-- [After a rebase, your commits have new SHA hashes — Git treats them as entirely different commits](https://www.youtube.com/shorts/9Pk6hLqs8nQ)
 <!-- PHPARCHITECT:END -->
 
 ---
