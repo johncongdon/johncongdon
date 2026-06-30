@@ -10,11 +10,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [PHP Alive And Kicking: Episode 32 Tessa Kriesel &amp; Steve McDougall](https://www.youtube.com/watch?v=cFO8MWVHX7Q)
 - [Shipping a conference app in 3 weeks? Holly Schilling said yes.](https://www.youtube.com/shorts/OB_QqJyIvBo)
 - [git rebase doesn&#39;t move your commits — it replaces them with new ones](https://www.youtube.com/shorts/QMn3Z8cYX8M)
 - [git rebase doesn&#39;t move your commits — it replaces them with new ones](https://www.youtube.com/shorts/lYKQQUmS1Po)
 - [Stop using git push --force. Use --force-with-lease instead](https://www.youtube.com/shorts/0yxGwuSP8J8)
-- [Rebase is safe in exactly two situations — everything else is risk](https://www.youtube.com/shorts/XKwKk0pUGKk)
 <!-- PHPARCHITECT:END -->
 
 ---
