@@ -10,11 +10,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [Developers vs. Marketing? 🤔 It&#39;s not hate, it&#39;s just bad vibes! Let&#39;s talk! 💬 #DevTalk #Marketing](https://www.youtube.com/shorts/eB9953vBMjU)
 - [15 years of mobile experience informed every tool choice in a 3-week build](https://www.youtube.com/shorts/mCOMDDIUbM4)
 - [Stop letting AI agents fight over your codebase with git worktrees](https://www.youtube.com/watch?v=uVKXmqYVjpQ)
 - [Why rush? ⏳ Take your time and improve your craft! What&#39;s your take? 🤔 #WorkSmart #DeveloperLife](https://www.youtube.com/shorts/WP2v_S2f2Uk)
 - [Apple approved the app at 5am. The conference started that morning.](https://www.youtube.com/shorts/YvJaqub13N4)
-- [PHP Alive And Kicking: Episode 32 Tessa Kriesel &amp; Steve McDougall](https://www.youtube.com/watch?v=cFO8MWVHX7Q)
 <!-- PHPARCHITECT:END -->
 
 ---
