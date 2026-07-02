@@ -10,11 +10,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [Stop letting AI agents fight over your codebase with git worktrees](https://www.youtube.com/watch?v=uVKXmqYVjpQ)
 - [Why rush? ⏳ Take your time and improve your craft! What&#39;s your take? 🤔 #WorkSmart #DeveloperLife](https://www.youtube.com/shorts/WP2v_S2f2Uk)
 - [Apple approved the app at 5am. The conference started that morning.](https://www.youtube.com/shorts/YvJaqub13N4)
 - [PHP Alive And Kicking: Episode 32 Tessa Kriesel &amp; Steve McDougall](https://www.youtube.com/watch?v=cFO8MWVHX7Q)
 - [Shipping a conference app in 3 weeks? Holly Schilling said yes.](https://www.youtube.com/shorts/OB_QqJyIvBo)
-- [git rebase doesn&#39;t move your commits — it replaces them with new ones](https://www.youtube.com/shorts/QMn3Z8cYX8M)
 <!-- PHPARCHITECT:END -->
 
 ---
