@@ -10,11 +10,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [&quot;Twice as much code, but not twice as much work anymore&quot;](https://www.youtube.com/shorts/AasohKsL_GA)
 - [The PHP Podcast 2026.07.02](https://www.youtube.com/watch?v=5RUlYcDLP4o)
 - [Developers vs. Marketing? 🤔 It&#39;s not hate, it&#39;s just bad vibes! Let&#39;s talk! 💬 #DevTalk #Marketing](https://www.youtube.com/shorts/eB9953vBMjU)
 - [15 years of mobile experience informed every tool choice in a 3-week build](https://www.youtube.com/shorts/mCOMDDIUbM4)
 - [Stop letting AI agents fight over your codebase with git worktrees](https://www.youtube.com/watch?v=uVKXmqYVjpQ)
-- [Why rush? ⏳ Take your time and improve your craft! What&#39;s your take? 🤔 #WorkSmart #DeveloperLife](https://www.youtube.com/shorts/WP2v_S2f2Uk)
 <!-- PHPARCHITECT:END -->
 
 ---
