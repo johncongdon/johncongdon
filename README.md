@@ -10,11 +10,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [&quot;Code is just another language&quot; — and LLMs are translation engines](https://www.youtube.com/shorts/D1A3sEgUPLo)
 - [Your spec is the persistent memory that survives a closed context window](https://www.youtube.com/shorts/Xa__PytG0Wk)
 - [Throwing an LLM at your codebase without a spec is like skipping onboarding for a new hire](https://www.youtube.com/shorts/ysCHvGvFz_o)
 - [&quot;Twice as much code, but not twice as much work anymore&quot;](https://www.youtube.com/shorts/AasohKsL_GA)
 - [The PHP Podcast 2026.07.02](https://www.youtube.com/watch?v=5RUlYcDLP4o)
-- [Developers vs. Marketing? 🤔 It&#39;s not hate, it&#39;s just bad vibes! Let&#39;s talk! 💬 #DevTalk #Marketing](https://www.youtube.com/shorts/eB9953vBMjU)
 <!-- PHPARCHITECT:END -->
 
 ---
