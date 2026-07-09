@@ -10,11 +10,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [The PHP Podcast 2026.07.09](https://www.youtube.com/watch?v=IDhh3DUgjI8)
 - [The bug was in the spec. Holly wrote it herself.](https://www.youtube.com/shorts/Tbpnao7PlS4)
 - [&quot;Notion is where documents go to die.&quot; Keep your spec in the repo.](https://www.youtube.com/shorts/AL2znbbWvt4)
 - [One-pager → PRD → TRD used to take weeks. Spec-driven dev collapses it](https://www.youtube.com/shorts/dq2l_FRROZo)
 - [&quot;Code is just another language&quot; — and LLMs are translation engines](https://www.youtube.com/shorts/D1A3sEgUPLo)
-- [Your spec is the persistent memory that survives a closed context window](https://www.youtube.com/shorts/Xa__PytG0Wk)
 <!-- PHPARCHITECT:END -->
 
 ---
