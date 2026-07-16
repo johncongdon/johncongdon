@@ -10,11 +10,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [The PHP Podcast 2026.07.16](https://www.youtube.com/watch?v=z1k7PdRn12M)
 - [PHP Alive And Kicking: Episode 33 Elizabeth Barron](https://www.youtube.com/watch?v=xQpIvWKINbc)
 - [HTTP QUERY method: the missing verb for complex search APIs](https://www.youtube.com/watch?v=REjWp_2Dt30)
 - [The PHP Podcast 2026.07.09](https://www.youtube.com/watch?v=IDhh3DUgjI8)
 - [The bug was in the spec. Holly wrote it herself.](https://www.youtube.com/shorts/Tbpnao7PlS4)
-- [&quot;Notion is where documents go to die.&quot; Keep your spec in the repo.](https://www.youtube.com/shorts/AL2znbbWvt4)
 <!-- PHPARCHITECT:END -->
 
 ---
