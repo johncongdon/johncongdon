@@ -10,11 +10,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [Three bad options for complex search, and why none of them work](https://www.youtube.com/shorts/9gq8GzeRlBA)
 - [There&#39;s a proper HTTP verb for this now](https://www.youtube.com/shorts/qAGwS_QZRlc)
 - [The GET vs POST tradeoff nobody likes](https://www.youtube.com/shorts/oLpoeDb3WPQ)
 - [query 1.mp4](https://www.youtube.com/shorts/9U6rNbfyvQk)
 - [The PHP Podcast 2026.07.16](https://www.youtube.com/watch?v=z1k7PdRn12M)
-- [What is loop engineering? AI agents that run themselves!](https://www.youtube.com/watch?v=pxnY6T98G14)
 <!-- PHPARCHITECT:END -->
 
 ---
