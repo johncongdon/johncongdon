@@ -10,11 +10,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [The PHP Podcast 2026.07.23](https://www.youtube.com/watch?v=4HX6cGMQJpQ)
 - [Don&#39;t rip out your POST fallback yet](https://www.youtube.com/shorts/XCbWgJmORG8)
 - [QUERY takes the best of GET and POST](https://www.youtube.com/shorts/N3foKj2SUgw)
 - [Firefly III with James Cole](https://www.youtube.com/watch?v=Rmt4ULx_DV0)
 - [Three bad options for complex search, and why none of them work](https://www.youtube.com/shorts/9gq8GzeRlBA)
-- [There&#39;s a proper HTTP verb for this now](https://www.youtube.com/shorts/qAGwS_QZRlc)
 <!-- PHPARCHITECT:END -->
 
 ---
