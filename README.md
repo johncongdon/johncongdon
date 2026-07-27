@@ -10,11 +10,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [The &quot;Ralph Wiggum method&quot;](https://www.youtube.com/shorts/LjBnwNzVfUA)
 - [An agent that actually iterates on its own.](https://www.youtube.com/shorts/0jzvC_vqywg)
 - [Your AI loop stops the second you grab coffee.](https://www.youtube.com/shorts/U_tfnjNUuKs)
 - [The PHP Podcast 2026.07.23](https://www.youtube.com/watch?v=4HX6cGMQJpQ)
 - [Don&#39;t rip out your POST fallback yet](https://www.youtube.com/shorts/XCbWgJmORG8)
-- [QUERY takes the best of GET and POST](https://www.youtube.com/shorts/N3foKj2SUgw)
 <!-- PHPARCHITECT:END -->
 
 ---
