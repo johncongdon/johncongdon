@@ -10,11 +10,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [Stop re-explaining your project&#39;s conventions to your agent every single run.](https://www.youtube.com/shorts/6TTS88W4mtM)
 - [Nobody kicks off the best automations; they just fire.](https://www.youtube.com/shorts/Q2MoqTsl9bs)
 - [The bash hack that became a first-class feature.](https://www.youtube.com/shorts/G-8TzjtyP5A)
 - [The &quot;Ralph Wiggum method&quot;](https://www.youtube.com/shorts/LjBnwNzVfUA)
 - [An agent that actually iterates on its own.](https://www.youtube.com/shorts/0jzvC_vqywg)
-- [Your AI loop stops the second you grab coffee.](https://www.youtube.com/shorts/U_tfnjNUuKs)
 <!-- PHPARCHITECT:END -->
 
 ---
