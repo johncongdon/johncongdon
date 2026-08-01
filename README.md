@@ -10,11 +10,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [Loop engineering gets expensive fast.](https://www.youtube.com/shorts/ST95ep5lbJo)
 - [&quot;Make these tests pass&quot; is a loop, whether you meant it to be or not.](https://www.youtube.com/shorts/YzKmhKHBUIE)
 - [The PHP Podcast 2026.07.30](https://www.youtube.com/watch?v=kMLfAbAKKto)
 - [Stop waiting on PHPStan: Mago cuts static analysis time by 4x](https://www.youtube.com/watch?v=ZtAKnN6jWbE)
 - [Stop re-explaining your project&#39;s conventions to your agent every single run.](https://www.youtube.com/shorts/6TTS88W4mtM)
-- [Nobody kicks off the best automations; they just fire.](https://www.youtube.com/shorts/Q2MoqTsl9bs)
 <!-- PHPARCHITECT:END -->
 
 ---
