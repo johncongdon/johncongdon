@@ -10,11 +10,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [JSCPD with Andrey Kucherenko](https://www.youtube.com/watch?v=MM8dTc10nes)
 - [Firefly III&#39;s whole design goal is insight without becoming an accounting app.](https://www.youtube.com/shorts/AMkAYBRnQ18)
 - [PHP Alive And Kicking: Episode 34 Derick Rethans](https://www.youtube.com/watch?v=JXW9Z8uKvQM)
 - [james cole 01.mp4](https://www.youtube.com/shorts/Xz_09_0rSoA)
 - [Loop engineering gets expensive fast.](https://www.youtube.com/shorts/ST95ep5lbJo)
-- [&quot;Make these tests pass&quot; is a loop, whether you meant it to be or not.](https://www.youtube.com/shorts/YzKmhKHBUIE)
 <!-- PHPARCHITECT:END -->
 
 ---
