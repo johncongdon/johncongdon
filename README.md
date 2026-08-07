@@ -10,11 +10,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [James Cole isn&#39;t anti-paid apps. He thinks free was the point of Firefly III.](https://www.youtube.com/shorts/RsH8QuEm91U)
 - [The PHP Podcast 2026.08.06](https://www.youtube.com/watch?v=AJQF24-ZmVY)
 - [JSCPD with Andrey Kucherenko](https://www.youtube.com/watch?v=MM8dTc10nes)
 - [Firefly III&#39;s whole design goal is insight without becoming an accounting app.](https://www.youtube.com/shorts/AMkAYBRnQ18)
 - [PHP Alive And Kicking: Episode 34 Derick Rethans](https://www.youtube.com/watch?v=JXW9Z8uKvQM)
-- [james cole 01.mp4](https://www.youtube.com/shorts/Xz_09_0rSoA)
 <!-- PHPARCHITECT:END -->
 
 ---
