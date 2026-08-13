@@ -10,11 +10,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [The PHP Podcast 2026.08.13](https://www.youtube.com/watch?v=Wt938Ot6szA)
 - [Firefly III exists because James Cole&#39;s Groovy rewrite was a mistake.](https://www.youtube.com/shorts/e9etRAXC_sM)
 - [James Cole kept Firefly III&#39;s data entry manual on purpose.](https://www.youtube.com/shorts/WQtPTXnxWGU)
 - [James Cole isn&#39;t anti-paid apps. He thinks free was the point of Firefly III.](https://www.youtube.com/shorts/RsH8QuEm91U)
 - [The PHP Podcast 2026.08.06](https://www.youtube.com/watch?v=AJQF24-ZmVY)
-- [JSCPD with Andrey Kucherenko](https://www.youtube.com/watch?v=MM8dTc10nes)
 <!-- PHPARCHITECT:END -->
 
 ---
