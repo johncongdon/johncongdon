@@ -10,11 +10,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [Stop Repeating Yourself in Code Review: Build a Custom Mago Lint Rule](https://www.youtube.com/watch?v=Sns4iMSa3qA)
 - [The PHP Podcast 2026.08.27](https://www.youtube.com/watch?v=Tsgk1FmLbQ0)
 - [The PHP Podcast 2026.08.20](https://www.youtube.com/watch?v=fzQBoGr3zGQ)
 - [PHP 8.5 + 8.6 Release Manager Daniel Scherzer](https://www.youtube.com/watch?v=fBkBBAy_ous)
 - [I Made My AI Agent Fix Its Own Copy-Paste &lpar;jscpd + Mago&rpar;](https://www.youtube.com/watch?v=ubhVleOpLQ0)
-- [The PHP Podcast 2026.08.13](https://www.youtube.com/watch?v=Wt938Ot6szA)
 <!-- PHPARCHITECT:END -->
 
 ---
