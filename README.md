@@ -10,11 +10,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [Why Ian Littman calls Longhorn PHP talks &quot;PHP and PHP accessories&quot;](https://www.youtube.com/shorts/MsT8xJxZzj0)
 - [Longhorn PHP 2026 with Ian Littman](https://www.youtube.com/watch?v=wSotBRIIEV0)
 - [Stop Repeating Yourself in Code Review: Build a Custom Mago Lint Rule](https://www.youtube.com/watch?v=Sns4iMSa3qA)
 - [The PHP Podcast 2026.08.27](https://www.youtube.com/watch?v=Tsgk1FmLbQ0)
 - [The PHP Podcast 2026.08.20](https://www.youtube.com/watch?v=fzQBoGr3zGQ)
-- [PHP 8.5 + 8.6 Release Manager Daniel Scherzer](https://www.youtube.com/watch?v=fBkBBAy_ous)
 <!-- PHPARCHITECT:END -->
 
 ---
