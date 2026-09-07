@@ -10,11 +10,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [#shorts](https://www.youtube.com/shorts/d4xbOvNaerg)
+- [#shorts](https://www.youtube.com/shorts/mtDt8QyHa2g)
+- [Why the hallway track beats the stream, from someone who&#39;s tried both](https://www.youtube.com/shorts/7DzhaRjs_D8)
 - [Why Longhorn PHP picked a Thursday-Friday format](https://www.youtube.com/shorts/ZH5h0s2t96E)
 - [The conference-introvert tradeoff, according to Ian Littman](https://www.youtube.com/shorts/wgXTwkVYrfo)
-- [#shorts](https://www.youtube.com/shorts/j3itwCHcjQA)
-- [Longhorn PHP cuts down to a two-day conference for 2026](https://www.youtube.com/shorts/-lzgvA9rdxg)
-- [The PHP Podcast 2026.09.02](https://www.youtube.com/watch?v=BEm-fqR-umI)
 <!-- PHPARCHITECT:END -->
 
 ---
