@@ -10,11 +10,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [Longhorn PHP 2026 opens with the PHP Foundation and closes with a hard question about ethics](https://www.youtube.com/shorts/3kiiRxVCx8E)
+- [Trust Hacked with Nia Luckey](https://www.youtube.com/watch?v=Tn8bRbLJVOU)
 - [#shorts](https://www.youtube.com/shorts/SopyM2wsxdk)
 - [Longhorn PHP still streams the main day, and here&#39;s why that matters](https://www.youtube.com/shorts/9DSeBBArVm0)
 - [#shorts](https://www.youtube.com/shorts/d4xbOvNaerg)
-- [#shorts](https://www.youtube.com/shorts/mtDt8QyHa2g)
-- [Why the hallway track beats the stream, from someone who&#39;s tried both](https://www.youtube.com/shorts/7DzhaRjs_D8)
 <!-- PHPARCHITECT:END -->
 
 ---
