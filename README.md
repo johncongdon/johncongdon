@@ -10,11 +10,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [Security is a people problem before it&#39;s a technical one #shorts](https://www.youtube.com/shorts/IyPbmdFEjtc)
 - [PHP Foundation Community Hour](https://www.youtube.com/watch?v=ja9JqyYshAE)
 - [The person managing the PHP 8.6 release is teaching you how to build PHP extensions in Rust](https://www.youtube.com/shorts/LJB0o1-8bZM)
 - [#shorts](https://www.youtube.com/shorts/JANbPfN1o1Q)
 - [Longhorn PHP 2026 opens with the PHP Foundation and closes with a hard question about ethics](https://www.youtube.com/shorts/3kiiRxVCx8E)
-- [Trust Hacked with Nia Luckey](https://www.youtube.com/watch?v=Tn8bRbLJVOU)
 <!-- PHPARCHITECT:END -->
 
 ---
