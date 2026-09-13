@@ -10,11 +10,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [In a crisis, you don&#39;t rise to your credentials; you fall to your training.](https://www.youtube.com/shorts/ghUK9yxjU24)
 - [There&#39;s a name for the leadership blind spot you didn&#39;t know you had](https://www.youtube.com/shorts/CzDFjrWN5h0)
 - [Security is a people problem before it&#39;s a technical one #shorts](https://www.youtube.com/shorts/IyPbmdFEjtc)
 - [PHP Foundation Community Hour](https://www.youtube.com/watch?v=ja9JqyYshAE)
 - [The person managing the PHP 8.6 release is teaching you how to build PHP extensions in Rust](https://www.youtube.com/shorts/LJB0o1-8bZM)
-- [#shorts](https://www.youtube.com/shorts/JANbPfN1o1Q)
 <!-- PHPARCHITECT:END -->
 
 ---
