@@ -10,11 +10,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [Trust repair starts with you, not your org chart.](https://www.youtube.com/shorts/mNF8N0soda8)
+- [Innovation without guardrails turns into paralysis.](https://www.youtube.com/shorts/7O3mjlQcg00)
 - [When your top performer goes quiet, that&#39;s your alarm.](https://www.youtube.com/shorts/fw8wpTbGBog)
 - [PHP Podcast - 2026.09.17 Joe, Sara, and Holly](https://www.youtube.com/watch?v=cWU4qKByLGs)
 - [Stop trying to fix the coworker who reminds you of someone else.](https://www.youtube.com/shorts/Nbr4Yf4TCB4)
-- [bun-php with Stanislav Khromov](https://www.youtube.com/watch?v=JNOGcjCu7U4)
-- [My book lives in three different sections of the bookstore, and that&#39;s the point.](https://www.youtube.com/shorts/QiwwTeX4Uvc)
 <!-- PHPARCHITECT:END -->
 
 ---
