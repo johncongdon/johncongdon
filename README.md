@@ -10,11 +10,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [Stop Writing PHP Like This &lpar;8.6 Fixes It&rpar;](https://www.youtube.com/watch?v=U9Jrcg1Ns1k)
 - [He ran WordPress on bun-php to prove it works](https://www.youtube.com/shorts/VK7XemzX6Ig)
 - [PHP compiled to WebAssembly can live anywhere](https://www.youtube.com/shorts/Yvt06EhAcYk)
 - [bun-php is mod_php for a JavaScript runtime](https://www.youtube.com/shorts/USi6gxzOi8g)
 - [A meme tweet said Bun would run PHP, so @StanislavKhromov made it real](https://www.youtube.com/shorts/h7wP0-xV_3A)
-- [Trust repair starts with you, not your org chart.](https://www.youtube.com/shorts/mNF8N0soda8)
 <!-- PHPARCHITECT:END -->
 
 ---
