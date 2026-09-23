@@ -10,8 +10,8 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
-- [Bun is the first JavaScript runtime building a real toolbox](https://www.youtube.com/shorts/JWQsYoVP2Bw)
 - [Stop Writing PHP Like This &lpar;8.6 Fixes It&rpar;](https://www.youtube.com/watch?v=U9Jrcg1Ns1k)
+- [Bun is the first JavaScript runtime building a real toolbox](https://www.youtube.com/shorts/JWQsYoVP2Bw)
 - [He ran WordPress on bun-php to prove it works](https://www.youtube.com/shorts/VK7XemzX6Ig)
 - [PHP compiled to WebAssembly can live anywhere](https://www.youtube.com/shorts/Yvt06EhAcYk)
 - [bun-php is mod_php for a JavaScript runtime](https://www.youtube.com/shorts/USi6gxzOi8g)
