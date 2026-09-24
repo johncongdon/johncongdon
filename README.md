@@ -10,11 +10,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [PHP solved these problems 30 years ago, and JavaScript is solving them again](https://www.youtube.com/shorts/YFR8gO834Xs)
+- [PHP 8.6 deprecations are about to fill your log files.](https://www.youtube.com/shorts/hqU04tyo3rk)
 - [Stop Writing PHP Like This &lpar;8.6 Fixes It&rpar;](https://www.youtube.com/watch?v=U9Jrcg1Ns1k)
 - [Bun is the first JavaScript runtime building a real toolbox](https://www.youtube.com/shorts/JWQsYoVP2Bw)
 - [He ran WordPress on bun-php to prove it works](https://www.youtube.com/shorts/VK7XemzX6Ig)
-- [PHP compiled to WebAssembly can live anywhere](https://www.youtube.com/shorts/Yvt06EhAcYk)
-- [bun-php is mod_php for a JavaScript runtime](https://www.youtube.com/shorts/USi6gxzOi8g)
 <!-- PHPARCHITECT:END -->
 
 ---
