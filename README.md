@@ -10,11 +10,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [Taylor Otwell worked on Laravel for years without making money on it](https://www.youtube.com/shorts/sDYmk-nQhKM)
+- [#[\Override] now protects class constants in PHP 8.6.](https://www.youtube.com/shorts/bSJrxunkh8s)
 - [PHP Podcast - 2026.09.24 Joe, Sara, and Holly](https://www.youtube.com/watch?v=O8gnXxMzR_k)
 - [PHP solved these problems 30 years ago, and JavaScript is solving them again](https://www.youtube.com/shorts/YFR8gO834Xs)
 - [PHP 8.6 deprecations are about to fill your log files.](https://www.youtube.com/shorts/hqU04tyo3rk)
-- [Stop Writing PHP Like This &lpar;8.6 Fixes It&rpar;](https://www.youtube.com/watch?v=U9Jrcg1Ns1k)
-- [Bun is the first JavaScript runtime building a real toolbox](https://www.youtube.com/shorts/JWQsYoVP2Bw)
 <!-- PHPARCHITECT:END -->
 
 ---
