@@ -10,11 +10,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [clamp&lpar;&rpar; catches the bug I&#39;ve written more than once.](https://www.youtube.com/shorts/pSZ-Do50nNk)
 - [PHP keeps getting embedded inside other things](https://www.youtube.com/shorts/1J-sP--O0RY)
 - [array_multisort&lpar;&rpar; will accept 42 as a sort direction.](https://www.youtube.com/shorts/owNf6fuoUvQ)
 - [Community Corner Podcast: Pop PHP with Nick Sagona](https://www.youtube.com/watch?v=G5e7JCkDPPQ)
 - [He built bun-php so he could run PHPStan from TypeScript](https://www.youtube.com/shorts/0SYodovvmvk)
-- [Readonly properties can fulfill an interface in PHP 8.6.](https://www.youtube.com/shorts/uF-ZglH1bvY)
 <!-- PHPARCHITECT:END -->
 
 ---
