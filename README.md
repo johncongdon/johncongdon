@@ -10,11 +10,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [Two symbols carry partial function application in PHP 8.6.](https://www.youtube.com/shorts/0Lw6PL0G3a0)
 - [PHP Podcast - 2026.10.01 Joe, Sara, and Holly](https://www.youtube.com/watch?v=SI0o68D2zl8)
 - [PHP 8.5&#39;s pipe operator was waiting for PHP 8.6.](https://www.youtube.com/shorts/CwUHPXHDkt8)
 - [PHP 8.6 retires the min&lpar;max&lpar;&rpar;&rpar; dance with clamp&lpar;&rpar;.](https://www.youtube.com/shorts/tf_oLMZv0oE)
 - [Community Corner Podcast: Pop PHP with Nick Sagona](https://www.youtube.com/watch?v=G5e7JCkDPPQ)
-- [clamp&lpar;&rpar; catches the bug I&#39;ve written more than once.](https://www.youtube.com/shorts/pSZ-Do50nNk)
 <!-- PHPARCHITECT:END -->
 
 ---
