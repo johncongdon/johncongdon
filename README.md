@@ -10,11 +10,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [Which PHP 8.6 feature would you have picked?](https://www.youtube.com/shorts/A7K02qz_hxE)
 - [Partial function application, explained in one sentence.](https://www.youtube.com/shorts/BkKcEO1SL1g)
 - [Two symbols carry partial function application in PHP 8.6.](https://www.youtube.com/shorts/0Lw6PL0G3a0)
 - [PHP Podcast - 2026.10.01 Joe, Sara, and Holly](https://www.youtube.com/watch?v=SI0o68D2zl8)
 - [PHP 8.5&#39;s pipe operator was waiting for PHP 8.6.](https://www.youtube.com/shorts/CwUHPXHDkt8)
-- [PHP 8.6 retires the min&lpar;max&lpar;&rpar;&rpar; dance with clamp&lpar;&rpar;.](https://www.youtube.com/shorts/tf_oLMZv0oE)
 <!-- PHPARCHITECT:END -->
 
 ---
