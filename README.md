@@ -10,11 +10,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [&quot;I&#39;m not going to read this; it&#39;s all AI&quot;](https://www.youtube.com/shorts/FXtJ_vrG9uk)
 - [Every PHP feature gets discussed until everyone is nauseated](https://www.youtube.com/shorts/JiZT7GM9tU4)
 - [PHP Foundation Community Hour](https://www.youtube.com/watch?v=ZmE680PCJyY)
 - [Community Corner Podcast:  This Week in PHP Internals with Len Woodward](https://www.youtube.com/watch?v=9YmrJGmQnSg)
 - [PHP 8.6 lets you transform strings without a single closure.](https://www.youtube.com/shorts/94CVoI9NoOk)
-- [You can run PHP 8.6 today in Docker.](https://www.youtube.com/shorts/i3nE5nq_Wb4)
 <!-- PHPARCHITECT:END -->
 
 ---
