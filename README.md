@@ -10,8 +10,8 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
-- [The only thing stopping him was the record button](https://www.youtube.com/shorts/ljIQI68coHU)
 - [Community Corner Podcast: Agentic Commerce with Paul Conroy](https://www.youtube.com/watch?v=jcH8pZPs2Ak)
+- [The only thing stopping him was the record button](https://www.youtube.com/shorts/ljIQI68coHU)
 - [FFmpeg from PHP doesn&#39;t have to be miserable](https://www.youtube.com/shorts/iQtYR7fM3lw)
 - [&quot;I&#39;m not going to read this; it&#39;s all AI&quot;](https://www.youtube.com/shorts/FXtJ_vrG9uk)
 - [Every PHP feature gets discussed until everyone is nauseated](https://www.youtube.com/shorts/JiZT7GM9tU4)
