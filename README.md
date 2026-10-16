@@ -10,11 +10,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [PHP Tek 2027 Call For Speakers Closes Soon](https://www.youtube.com/shorts/MswfujnuAaI)
 - [PHP core contributors fact-check This Week in PHP Internals](https://www.youtube.com/shorts/k7R3Fgqac4Q)
 - [PHP Podcast - 2026.10.15 Joe, Sara, and Holly](https://www.youtube.com/watch?v=Ae-PmH2wsG4)
 - [Len Woodward gave Claude his inbox and asked for a weekly PHP digest](https://www.youtube.com/shorts/8rE0Tw6uvfw)
 - [Community Corner Podcast: Agentic Commerce with Paul Conroy](https://www.youtube.com/watch?v=jcH8pZPs2Ak)
-- [The only thing stopping him was the record button](https://www.youtube.com/shorts/ljIQI68coHU)
 <!-- PHPARCHITECT:END -->
 
 ---
