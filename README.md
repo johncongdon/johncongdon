@@ -10,11 +10,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [Community Corner:elePHPants with Damien Seguy](https://www.youtube.com/watch?v=r4lt-5hHMzg)
 - [Covering PHP internals without singling anyone out](https://www.youtube.com/shorts/XKVLsSatmI8)
 - [Ask an LLM to translate and it&#39;ll &quot;nice it up&quot;](https://www.youtube.com/shorts/sc9g7nNWMqM)
 - [The PHP internals list is a part-time job](https://www.youtube.com/shorts/q72ASJtbfWo)
 - [PHP Tek 2027 Call For Speakers Closes Soon](https://www.youtube.com/shorts/MswfujnuAaI)
-- [PHP core contributors fact-check This Week in PHP Internals](https://www.youtube.com/shorts/k7R3Fgqac4Q)
 <!-- PHPARCHITECT:END -->
 
 ---
