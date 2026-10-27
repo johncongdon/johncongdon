@@ -10,11 +10,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [PHP 8.6 Makes State Machines Easy &lpar;Enums + Roles&rpar;](https://www.youtube.com/watch?v=dqAODMxGKWk)
 - [How an AI agent pays for your API](https://www.youtube.com/shorts/eB41T1jZVX0)
 - [Give your AI agent a gift voucher, not your credit card](https://www.youtube.com/shorts/rinzfkqALAI)
 - [PHP Podcast - 2026.10.22 - Holly, Sara, Joe - Special Guest Daniel Scherzer](https://www.youtube.com/watch?v=HliJn_SQ1KI)
 - [Community Corner:elePHPants with Damien Seguy](https://www.youtube.com/watch?v=r4lt-5hHMzg)
-- [Covering PHP internals without singling anyone out](https://www.youtube.com/shorts/XKVLsSatmI8)
 <!-- PHPARCHITECT:END -->
 
 ---
