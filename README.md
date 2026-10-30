@@ -10,11 +10,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [PHP 8.6 lets readonly properties have defaults](https://www.youtube.com/shorts/yu7WB_DoRv8)
+- [I don&#39;t want to hand an LLM my credit card](https://www.youtube.com/shorts/4OgL5mSvi0w)
 - [PHP Podcast - 2026.10.22 - Holly, Sara, Joe - Special Guest Brooke Vibber](https://www.youtube.com/watch?v=Exl8kJfHB8c)
 - [Your status column is already a state machine](https://www.youtube.com/shorts/YIW5CVuAAmQ)
 - [Square1.io built a silly API to learn agent payments](https://www.youtube.com/shorts/n-tCaSMENZE)
-- [PHP 8.6 Makes State Machines Easy &lpar;Enums + Roles&rpar;](https://www.youtube.com/watch?v=dqAODMxGKWk)
-- [Your side of agentic commerce is plain if/else](https://www.youtube.com/shorts/Z0u2X9nh2hs)
 <!-- PHPARCHITECT:END -->
 
 ---
