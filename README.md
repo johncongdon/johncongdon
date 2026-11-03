@@ -10,11 +10,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [Every elePHPant gets adopted into a family](https://www.youtube.com/shorts/qf-LQlHFnYE)
+- [Community Corner Podcast: cakePHP with Jamison Bryant](https://www.youtube.com/watch?v=1gc9c1-guNk)
 - [Enums get __debugInfo in PHP 8.6](https://www.youtube.com/shorts/8fxXXnn-TkU)
 - [The first elePHPant order looked like spam](https://www.youtube.com/shorts/sBwCrHdq8xw)
 - [A match with no default protects your state machine](https://www.youtube.com/shorts/GhhHK3o0Bk0)
-- [The elePHPant was hiding in the PHP logo all along](https://www.youtube.com/shorts/ma0Ui6VNgZk)
-- [PHP 8.6 extends #[\Override] to class constants](https://www.youtube.com/shorts/IG2sJ13JMHg)
 <!-- PHPARCHITECT:END -->
 
 ---
