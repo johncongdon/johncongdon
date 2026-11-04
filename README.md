@@ -10,11 +10,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [Valid transitions still let the wrong person move](https://www.youtube.com/shorts/ZmopXeK9E50)
+- [&quot;PHP? What the hell is that?&quot;](https://www.youtube.com/shorts/lbS1GLcdsFY)
 - [A state machine in four parts](https://www.youtube.com/shorts/OkEclmvnZJo)
 - [Every elePHPant gets adopted into a family](https://www.youtube.com/shorts/qf-LQlHFnYE)
 - [Community Corner Podcast: cakePHP with Jamison Bryant](https://www.youtube.com/watch?v=1gc9c1-guNk)
-- [Enums get __debugInfo in PHP 8.6](https://www.youtube.com/shorts/8fxXXnn-TkU)
-- [The first elePHPant order looked like spam](https://www.youtube.com/shorts/sBwCrHdq8xw)
 <!-- PHPARCHITECT:END -->
 
 ---
