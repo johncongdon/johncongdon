@@ -10,11 +10,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [The PHP Podcast 2026.11.05 - Boss Level with Eric and John](https://www.youtube.com/watch?v=NepjfJniX18)
 - [The strangler fig pattern got TicketSauce from CakePHP 2 to 5](https://www.youtube.com/shorts/sMLV4OoByNQ)
 - [A traffic light explains finite state machines](https://www.youtube.com/shorts/dhGvlVjnTiU)
 - [6,054 elePHPants in one home](https://www.youtube.com/shorts/TNpryeLWIv0)
 - [Community Corner Podcast: cakePHP with Jamison Bryant](https://www.youtube.com/watch?v=1gc9c1-guNk)
-- [Valid transitions still let the wrong person move](https://www.youtube.com/shorts/ZmopXeK9E50)
 <!-- PHPARCHITECT:END -->
 
 ---
