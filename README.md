@@ -10,11 +10,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [The PHP community runs its own postal service](https://www.youtube.com/shorts/-2iBTfCyQQI)
 - [Design your database right and CakePHP writes the code](https://www.youtube.com/shorts/mm6QWInOebQ)
 - [PHP 8.6 ships November 19th, 2026](https://www.youtube.com/shorts/VFiWxuX9_s8)
 - [The PHP Podcast 2026.11.05 - Boss Level with Eric and John](https://www.youtube.com/watch?v=NepjfJniX18)
 - [The strangler fig pattern got TicketSauce from CakePHP 2 to 5](https://www.youtube.com/shorts/sMLV4OoByNQ)
-- [A traffic light explains finite state machines](https://www.youtube.com/shorts/dhGvlVjnTiU)
 <!-- PHPARCHITECT:END -->
 
 ---
