@@ -10,11 +10,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [The left side of every elePHPant belongs to PHP](https://www.youtube.com/shorts/1fSm6q4dIMA)
 - [Why TicketSauce couldn&#39;t stay on CakePHP 2](https://www.youtube.com/shorts/0mtcUDp-Bn0)
 - [Give each denial its own error message](https://www.youtube.com/shorts/5xA2qGDCXI4)
 - [The PHP community runs its own postal service](https://www.youtube.com/shorts/-2iBTfCyQQI)
 - [Design your database right and CakePHP writes the code](https://www.youtube.com/shorts/mm6QWInOebQ)
-- [PHP 8.6 ships November 19th, 2026](https://www.youtube.com/shorts/VFiWxuX9_s8)
 <!-- PHPARCHITECT:END -->
 
 ---
