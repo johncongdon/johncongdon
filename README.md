@@ -10,11 +10,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [Small details make an elePHPant yours](https://www.youtube.com/shorts/Tp2YmsTpjVk)
 - [Symfony gives you building blocks, CakePHP gives you templates](https://www.youtube.com/shorts/0AWPwFr9_Og)
 - [The left side of every elePHPant belongs to PHP](https://www.youtube.com/shorts/1fSm6q4dIMA)
 - [Why TicketSauce couldn&#39;t stay on CakePHP 2](https://www.youtube.com/shorts/0mtcUDp-Bn0)
 - [Give each denial its own error message](https://www.youtube.com/shorts/5xA2qGDCXI4)
-- [The PHP community runs its own postal service](https://www.youtube.com/shorts/-2iBTfCyQQI)
 <!-- PHPARCHITECT:END -->
 
 ---
