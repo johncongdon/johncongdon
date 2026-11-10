@@ -10,11 +10,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [When Mailchimp killed its transactional email API overnight](https://www.youtube.com/shorts/bEqnlLUll_s)
 - [CakePHP upgrades come with migration guides and Rector](https://www.youtube.com/shorts/VsiDZzoklaE)
 - [Small details make an elePHPant yours](https://www.youtube.com/shorts/Tp2YmsTpjVk)
 - [Symfony gives you building blocks, CakePHP gives you templates](https://www.youtube.com/shorts/0AWPwFr9_Og)
 - [The left side of every elePHPant belongs to PHP](https://www.youtube.com/shorts/1fSm6q4dIMA)
-- [Why TicketSauce couldn&#39;t stay on CakePHP 2](https://www.youtube.com/shorts/0mtcUDp-Bn0)
 <!-- PHPARCHITECT:END -->
 
 ---
