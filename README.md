@@ -10,11 +10,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [PHP Podcast - 2026.11.12 - Holly, Sara, Joe](https://www.youtube.com/watch?v=OS5FOwsBuF4)
 - [Community Corner Podcast: Zachary Watkins Codes With His Voice, Feet, and Face](https://www.youtube.com/watch?v=cDOZxK0Uo-w)
 - [CakePHP plugins that build Swagger docs and prime OPcache](https://www.youtube.com/shorts/R2QF-JPMpzc)
 - [When Mailchimp killed its transactional email API overnight](https://www.youtube.com/shorts/bEqnlLUll_s)
 - [CakePHP upgrades come with migration guides and Rector](https://www.youtube.com/shorts/VsiDZzoklaE)
-- [Small details make an elePHPant yours](https://www.youtube.com/shorts/Tp2YmsTpjVk)
 <!-- PHPARCHITECT:END -->
 
 ---
