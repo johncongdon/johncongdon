@@ -10,11 +10,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [PHP Podcast - 2026.11.19 - Holly, Sara, Joe](https://www.youtube.com/watch?v=PqgYHIAwXQ4)
 - [Community Corner Podcast: Why I&#39;m Ditching Docker for Lerd, with George Dumitrescu](https://www.youtube.com/watch?v=IeTcOT6CwZs)
 - [Zach Watkins patches thin PHP support in Talon Voice](https://www.youtube.com/shorts/Sl7B3IJSc8I)
 - [Osteoarthritis at 38 sends Zach Watkins looking for a technology fix](https://www.youtube.com/shorts/vLNREEdSY3k)
 - [Auth, caching, and read/write database connections come baked in](https://www.youtube.com/shorts/7l5layZkaCk)
-- [CakePHP 6 is on the roadmap and the team wants help](https://www.youtube.com/shorts/stDzPSFE7vw)
 <!-- PHPARCHITECT:END -->
 
 ---
