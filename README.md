@@ -10,11 +10,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [An orthopedic surgeon prescribes Zach Watkins two weeks without typing](https://www.youtube.com/shorts/QOwkwRVPxY8)
 - [PHP Podcast - 2026.11.19 - Holly, Sara, Joe](https://www.youtube.com/watch?v=PqgYHIAwXQ4)
 - [Review a teammate&#39;s branch without touching yours](https://www.youtube.com/shorts/NQlT5brzSeo)
 - [Zach Watkins smiles to left-click with macOS head and face tracking](https://www.youtube.com/shorts/Gt0s8gLyj4E)
 - [Community Corner Podcast: Why I&#39;m Ditching Docker for Lerd, with George Dumitrescu](https://www.youtube.com/watch?v=IeTcOT6CwZs)
-- [Zach Watkins patches thin PHP support in Talon Voice](https://www.youtube.com/shorts/Sl7B3IJSc8I)
 <!-- PHPARCHITECT:END -->
 
 ---
