@@ -10,11 +10,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [George picked Go so he could review what Claude wrote](https://www.youtube.com/shorts/b5nkS0NJeQQ)
 - [Say &quot;var data model&quot; and get $dataModel](https://www.youtube.com/shorts/MA0uLfWlAoU)
 - [Lerd runs on Podman because Docker wants root](https://www.youtube.com/shorts/c9ohZII3G2o)
 - [An orthopedic surgeon prescribes Zach Watkins two weeks without typing](https://www.youtube.com/shorts/QOwkwRVPxY8)
 - [PHP Podcast - 2026.11.19 - Holly, Sara, Joe](https://www.youtube.com/watch?v=PqgYHIAwXQ4)
-- [Review a teammate&#39;s branch without touching yours](https://www.youtube.com/shorts/NQlT5brzSeo)
 <!-- PHPARCHITECT:END -->
 
 ---
