@@ -10,11 +10,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [Forty-two keys cover a full keyboard with custom firmware](https://www.youtube.com/shorts/yy41FkVLIqA)
 - [Your local environment can rank your slowest routes](https://www.youtube.com/shorts/iInKXR5uZJI)
 - [Say &quot;pub funky&quot; and Talon Voice writes public function](https://www.youtube.com/shorts/_eSEjbLi0DM)
 - [George picked Go so he could review what Claude wrote](https://www.youtube.com/shorts/b5nkS0NJeQQ)
 - [Say &quot;var data model&quot; and get $dataModel](https://www.youtube.com/shorts/MA0uLfWlAoU)
-- [Lerd runs on Podman because Docker wants root](https://www.youtube.com/shorts/c9ohZII3G2o)
 <!-- PHPARCHITECT:END -->
 
 ---
