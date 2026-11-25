@@ -10,11 +10,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [Camera mounts hold a split keyboard on your armrests](https://www.youtube.com/shorts/K7r303R2Zj0)
 - [PHP2Shell Proved PHP Needs Your Money, with Ben Marks](https://www.youtube.com/watch?v=XyEYU0O7_aY)
 - [Lerd started as Laravel Herd for Linux](https://www.youtube.com/shorts/FGsd39iocNw)
 - [Stomp your foot to accept a GitHub Copilot suggestion](https://www.youtube.com/shorts/ixaXtszIOio)
 - [Pulled main and the site broke? Check the env vars](https://www.youtube.com/shorts/opllaNA9VfA)
-- [Forty-two keys cover a full keyboard with custom firmware](https://www.youtube.com/shorts/yy41FkVLIqA)
 <!-- PHPARCHITECT:END -->
 
 ---
