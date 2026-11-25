@@ -10,11 +10,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [Lerd started as Laravel Herd for Linux](https://www.youtube.com/shorts/FGsd39iocNw)
+- [Stomp your foot to accept a GitHub Copilot suggestion](https://www.youtube.com/shorts/ixaXtszIOio)
 - [Pulled main and the site broke? Check the env vars](https://www.youtube.com/shorts/opllaNA9VfA)
 - [Forty-two keys cover a full keyboard with custom firmware](https://www.youtube.com/shorts/yy41FkVLIqA)
 - [Your local environment can rank your slowest routes](https://www.youtube.com/shorts/iInKXR5uZJI)
-- [Say &quot;pub funky&quot; and Talon Voice writes public function](https://www.youtube.com/shorts/_eSEjbLi0DM)
-- [George picked Go so he could review what Claude wrote](https://www.youtube.com/shorts/b5nkS0NJeQQ)
 <!-- PHPARCHITECT:END -->
 
 ---
