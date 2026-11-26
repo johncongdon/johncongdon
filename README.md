@@ -10,11 +10,11 @@ Podcaster on [PHPUgly][ws_phpugly] and [php[podcast]][ws_phparch].
 
 ### Latest php[architect] Videos
 <!-- PHPARCHITECT:START -->
+- [Clone Talon&#39;s community repo and build your own voice commands](https://www.youtube.com/shorts/h7nhPxdcAbQ)
 - [PHP2Shell Proved PHP Needs Your Money, with Ben Marks](https://www.youtube.com/watch?v=XyEYU0O7_aY)
 - [Every branch gets its own .test domain](https://www.youtube.com/shorts/PkocieZBYJA)
 - [Camera mounts hold a split keyboard on your armrests](https://www.youtube.com/shorts/K7r303R2Zj0)
 - [Lerd started as Laravel Herd for Linux](https://www.youtube.com/shorts/FGsd39iocNw)
-- [Stomp your foot to accept a GitHub Copilot suggestion](https://www.youtube.com/shorts/ixaXtszIOio)
 <!-- PHPARCHITECT:END -->
 
 ---
